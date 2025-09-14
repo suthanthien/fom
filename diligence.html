@@ -1,0 +1,731 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Diligence &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'diligence';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Credits" href="credits.html" />
+    <link rel="prev" title="Patience" href="patience.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Diligence</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/diligence.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Diligence</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Diligence</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sloth">Sloth</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-diligence">Benefits of diligence</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-sloth-as-a-self-preservation-emotion">Benefits of sloth as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-diligent">Tips for the continent diligent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-diligent">Tips for the incontinent diligent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-slothful">Invitations for the incontinent slothful</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-continent-slothful">Reflection points for the continent slothful</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-slothful">Reflection points for the slothful</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="diligence">
+<h1>Diligence<a class="headerlink" href="#diligence" title="Link to this heading">#</a></h1>
+<section id="id1">
+<h2>Diligence<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+<p>Diligence is the virtue of applying consistent effort and focus to one’s
+tasks and responsibilities. It involves working with care, persistence,
+and intention, valuing the process of growth as much as the final
+outcome. A diligent person approaches challenges with patience and
+steadiness, guided by both discipline and purpose.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Consistency:</strong> Steadily attending to responsibilities over time,
+without giving in to distraction or neglect.</p></li>
+<li><p><strong>Focus:</strong> Directing attention and energy toward meaningful goals
+with clarity and determination.</p></li>
+<li><p><strong>Thoroughness:</strong> Approaching work with care, precision, and
+attention to detail.</p></li>
+<li><p><strong>Perseverance:</strong> Continuing despite difficulties or setbacks,
+maintaining effort when results are slow.</p></li>
+<li><p><strong>Dependability:</strong> Being reliable in both personal and communal
+commitments, fostering trust and respect.</p></li>
+</ul>
+</section>
+<section id="sloth">
+<h2>Sloth<a class="headerlink" href="#sloth" title="Link to this heading">#</a></h2>
+<p>Sloth is the habitual avoidance of effort, marked by apathy toward
+responsibilities and indifference to growth or purpose. It reflects not
+simply rest or leisure, but a neglect of one’s potential and duties.
+Unlike healthy rest, which restores energy, sloth drains vitality by
+fostering stagnation and disengagement from what is meaningful.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Apathy:</strong> Indifference toward tasks, goals, or responsibilities.</p></li>
+<li><p><strong>Procrastination:</strong> Habitually delaying action even when it is
+necessary or beneficial.</p></li>
+<li><p><strong>Neglect:</strong> Failing to attend to personal, social, or moral
+obligations.</p></li>
+<li><p><strong>Lack of discipline:</strong> Struggling to maintain focus, effort, or
+consistency in work.</p></li>
+<li><p><strong>Stagnation:</strong> Remaining idle or unmotivated, resisting
+opportunities for growth or contribution.</p></li>
+</ul>
+</section>
+<section id="benefits-of-diligence">
+<h2>Benefits of diligence<a class="headerlink" href="#benefits-of-diligence" title="Link to this heading">#</a></h2>
+<section id="personal-benefits">
+<h3>Personal benefits<a class="headerlink" href="#personal-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Greater achievement:</strong> Consistent effort leads to steady progress
+and the successful completion of goals.</p></li>
+<li><p><strong>Stronger character:</strong> Persevering through challenges builds
+discipline, patience, and resilience.</p></li>
+<li><p><strong>Enhanced confidence:</strong> Meeting responsibilities faithfully
+strengthens self-respect and belief in one’s abilities.</p></li>
+<li><p><strong>Improved skills:</strong> Regular practice and focused work deepen
+knowledge and refine abilities over time.</p></li>
+<li><p><strong>Resilience to setbacks:</strong> Diligent individuals are better able to
+recover from difficulties and maintain momentum.</p></li>
+<li><p><strong>Sense of fulfillment:</strong> Committing fully to meaningful work brings
+lasting satisfaction and purpose.</p></li>
+</ul>
+</section>
+<section id="community-benefits">
+<h3>Community benefits<a class="headerlink" href="#community-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Reliability and trust:</strong> Diligence fosters confidence in one’s
+commitments, strengthening relationships.</p></li>
+<li><p><strong>Collective progress:</strong> Consistent contributions support the success
+and stability of groups, teams, and communities.</p></li>
+<li><p><strong>Positive example:</strong> The steady work of diligent individuals
+inspires others to cultivate persistence and responsibility.</p></li>
+<li><p><strong>Shared responsibility:</strong> Communities with diligent members
+distribute work more evenly and function more effectively.</p></li>
+<li><p><strong>Cultural strength:</strong> A culture that values diligence promotes
+excellence, cooperation, and long-term flourishing.</p></li>
+<li><p><strong>Mutual respect:</strong> Dependable effort is recognized and appreciated,
+fostering respect across the community.</p></li>
+</ul>
+</section>
+</section>
+<section id="benefits-of-sloth-as-a-self-preservation-emotion">
+<h2>Benefits of sloth as a self-preservation emotion<a class="headerlink" href="#benefits-of-sloth-as-a-self-preservation-emotion" title="Link to this heading">#</a></h2>
+<section id="id2">
+<h3>Personal benefits<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Physical restoration:</strong> slothful moments provide rest that allows
+the body to recover from fatigue and overexertion.</p></li>
+<li><p><strong>Mental recharging:</strong> stepping back from constant activity can
+reduce stress, clear the mind, and prevent burnout.</p></li>
+<li><p><strong>Encouragement of reflection:</strong> idleness can create space for
+self-examination, new perspectives, and creative insights.</p></li>
+<li><p><strong>Boundary recognition:</strong> feelings of sloth may indicate personal
+limits, encouraging healthier work-life balance.</p></li>
+<li><p><strong>Resistance to overproductivity:</strong> sloth can act as a counterweight
+to relentless busyness, reminding individuals that worth is not
+solely tied to output.</p></li>
+<li><p><strong>Fostering leisure:</strong> moments of stillness open opportunities for
+leisure, play, and enjoyment, which enrich quality of life.</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>Community benefits<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Shared restfulness:</strong> collective slowing down creates communal
+spaces for relaxation, where people can gather without pressure to
+perform or produce.</p></li>
+<li><p><strong>Strengthening social bonds:</strong> leisurely idleness encourages casual
+conversations, storytelling, and shared experiences that deepen
+connections.</p></li>
+<li><p><strong>Cultural preservation:</strong> communal slowness makes room for
+traditions like long meals, siestas, or slow-paced gatherings that
+reinforce identity and belonging.</p></li>
+<li><p><strong>Inclusive participation:</strong> low-pressure environments invite people
+of different abilities, energies, and backgrounds to engage without
+competition.</p></li>
+<li><p><strong>Conflict reduction:</strong> slower rhythms lessen tensions by reducing
+competitiveness, urgency, and burnout-driven irritability.</p></li>
+<li><p><strong>Encouragement of cooperation:</strong> when productivity is not the sole
+focus, people naturally support each other in simple, non-demanding
+ways.</p></li>
+<li><p><strong>Sustainability mindset:</strong> communities that value slowness often
+nurture more sustainable habits—favoring local, slower economies and
+less resource-intensive lifestyles.</p></li>
+<li><p><strong>Creation of safe havens:</strong> shared slothful spaces, like parks,
+porches, or community lounges, provide sanctuaries where people feel
+they can just be together.</p></li>
+</ul>
+</section>
+</section>
+<section id="tips-for-the-continent-diligent">
+<h2>Tips for the continent diligent<a class="headerlink" href="#tips-for-the-continent-diligent" title="Link to this heading">#</a></h2>
+<p>To embrace fully the virtue of diligence, aim to experience these
+emotions more often:</p>
+<ul class="simple">
+<li><p><strong>Determination:</strong> When facing obstacles, recall times you persevered
+despite difficulty. Channel that sense of resolve into your present
+task, reminding yourself why it matters.</p></li>
+<li><p><strong>Enthusiasm:</strong> Approach work with a sense of energy and eagerness.
+Spark this by setting small goals to look forward to or by connecting
+the task to a personal passion.</p></li>
+<li><p><strong>Curiosity:</strong> Let your desire to learn drive your effort. Ask
+questions, explore new methods, and treat challenges as opportunities
+to discover something new.</p></li>
+<li><p><strong>Anticipatory Joy:</strong> Visualize the positive outcomes of your
+persistence. Use affirmations or imagery to fuel optimism that your
+efforts will bear fruit in time.</p></li>
+<li><p><strong>Healthy Pride:</strong> Take satisfaction in each step of progress, no
+matter how small. Keep a record of achievements to remind yourself of
+the value of your steady work.</p></li>
+<li><p><strong>Passion:</strong> Cultivate an emotional fire for excellence. Surround
+yourself with people, music, or environments that ignite motivation
+and inspire wholehearted effort.</p></li>
+<li><p><strong>Contentment:</strong> Balance your striving with appreciation for what
+you’ve already accomplished. Pause to notice the peace that comes
+from honest effort, regardless of perfection.</p></li>
+</ul>
+</section>
+<section id="tips-for-the-incontinent-diligent">
+<h2>Tips for the incontinent diligent<a class="headerlink" href="#tips-for-the-incontinent-diligent" title="Link to this heading">#</a></h2>
+<p>To become more consistent in embracing diligence, adopt the following
+habits:</p>
+<ul class="simple">
+<li><p><strong>Set clear, realistic goals:</strong> breaking tasks into smaller,
+manageable steps reduces overwhelm and builds momentum.</p></li>
+<li><p><strong>Establish routines:</strong> regular schedules help transform effort into
+habit, minimizing reliance on fluctuating motivation.</p></li>
+<li><p><strong>Practice self-reflection:</strong> identify the situations or emotions
+that lead to distraction or avoidance, and address them with
+intention.</p></li>
+<li><p><strong>Reward small successes:</strong> acknowledge progress along the way to
+maintain motivation and a sense of accomplishment.</p></li>
+<li><p><strong>Limit distractions:</strong> reduce exposure to environments, habits, or
+technologies that make procrastination more tempting.</p></li>
+<li><p><strong>Cultivate patience:</strong> remind yourself that growth and mastery
+require time, and effort is meaningful even before results appear.</p></li>
+<li><p><strong>Seek accountability:</strong> share goals with friends, mentors, or
+colleagues who can provide encouragement and honest feedback.</p></li>
+<li><p><strong>Practice mindfulness:</strong> stay present during tasks to build focus
+and reduce the urge to abandon responsibilities.</p></li>
+<li><p><strong>Develop Resilience:</strong> learn to view setbacks not as failures but as
+opportunities to strengthen perseverance.</p></li>
+<li><p><strong>Nurture Gratitude:</strong> remember the value of the opportunities and
+responsibilities before you, which fosters respect for your work.</p></li>
+</ul>
+</section>
+<section id="invitations-for-the-incontinent-slothful">
+<h2>Invitations for the incontinent slothful<a class="headerlink" href="#invitations-for-the-incontinent-slothful" title="Link to this heading">#</a></h2>
+<p>Some of these thoughts might lead you to believe sloth is justified.
+Here, there are some arguments for reflection and reconsideration.</p>
+<ul class="simple">
+<li><p><strong>“I’ll get to it later.”</strong> <em>Invitation:</em> Postponing often creates
+more stress and leaves tasks piling up. Starting small now lightens
+the burden and builds momentum toward completion.</p></li>
+<li><p><strong>“I’m too tired to bother.”</strong> <em>Invitation:</em> Rest is important, but
+constant avoidance drains energy rather than restores it. Engaging in
+purposeful action often renews strength and creates lasting
+satisfaction.</p></li>
+<li><p><strong>“The work is pointless.”</strong> <em>Invitation:</em> Every effort contributes
+to growth, even if results aren’t immediate. Viewing tasks as
+opportunities to learn or to serve others gives them meaning beyond
+the outcome.</p></li>
+<li><p><strong>“I’ll fail anyway, so why try?”</strong> <em>Invitation:</em> Failure is part of
+progress and often teaches more than success. Each attempt
+strengthens resilience and brings you closer to mastery.</p></li>
+<li><p><strong>“Other people will handle it.”</strong> <em>Invitation:</em> Relying on others
+erodes trust and limits your own development. Taking responsibility
+strengthens both personal integrity and the community around you.</p></li>
+<li><p><strong>“I don’t feel motivated right now.”</strong> <em>Invitation:</em> Motivation
+grows from action, not the other way around. Beginning the work, even
+in small steps, often awakens the drive to continue.</p></li>
+<li><p><strong>“I work better under pressure.”</strong> <em>Invitation:</em> Procrastination
+under pressure may produce results, but it also creates unnecessary
+stress and lowers quality. Steady effort leads to calmer, stronger
+performance.</p></li>
+<li><p><strong>“It won’t make a difference if I try.”</strong> <em>Invitation:</em> Every act of
+diligence shapes character and builds habits that compound over time.
+Even small contributions matter to personal growth and collective
+well-being.</p></li>
+</ul>
+</section>
+<section id="reflection-points-for-the-continent-slothful">
+<h2>Reflection points for the continent slothful<a class="headerlink" href="#reflection-points-for-the-continent-slothful" title="Link to this heading">#</a></h2>
+<p>Take some time to reflect on the long-term consequences of neglecting
+diligence.</p>
+<ul class="simple">
+<li><p>Your avoidance of effort may feel comfortable in the moment, but it
+quietly erodes your strength and willpower. Over time, this leaves
+you unprepared for the challenges life inevitably brings. <strong>Every
+hour surrendered to sloth makes tomorrow’s burdens heavier.</strong></p></li>
+<li><p>Sloth prevents you from contributing to the well-being of those
+around you. Neglecting your responsibilities slowly diminishes the
+trust and leads to strained relationships, disappointment, and missed
+opportunities for connection. <strong>Sloth weakens both your character and
+your connections with others.</strong></p></li>
+<li><p>Inactivity or avoidance may keep you from reaching your potential.
+Prolonged idleness often leads to regret and a sense of stagnation.
+<strong>Each moment spent avoiding effort is a moment lost from personal
+growth and meaningful achievement.</strong></p></li>
+<li><p>Sloth dulls your mind and spirit, numbing you against both joy and
+sorrow. This numbness may feel like escape, but it also blocks
+meaning and growth. <strong>Your fulfillment will diminish, and the rewards
+of consistent effort will slip further from your grasp.</strong></p></li>
+</ul>
+</section>
+<section id="reflection-points-for-the-slothful">
+<h2>Reflection points for the slothful<a class="headerlink" href="#reflection-points-for-the-slothful" title="Link to this heading">#</a></h2>
+<p>These are not mere possibilities, they are common crossroads for those
+who persist in justifying sloth. If you do not change your relationship
+with inaction, these moments may find you.</p>
+<ul class="simple">
+<li><p><strong>Being left behind as life passes you by:</strong> Sloth allows time and
+opportunities to slip away, leaving unfulfilled potential and
+stagnant growth. <em>Do not wait until you look back and see years
+wasted in idleness.</em></p></li>
+<li><p><strong>Losing opportunities because you delayed until they were gone:</strong>
+Jobs, relationships, open doors do not wait forever. If you stay
+passive, you will find life moving on without you. <em>Growth and
+success require participation, and sloth can silently close the paths
+you need.</em></p></li>
+<li><p><strong>Suffering from diminished well-being due to inactivity:</strong>
+Persistent laziness can erode mental clarity, physical health, and
+emotional resilience. The longer habits of sloth continue, the harder
+they are to reverse. <em>Act now before inaction undermines your
+vitality.</em></p></li>
+<li><p><strong>Feeling regret and frustration as others advance while you remain
+idle:</strong> Sloth can blind you to your own abilities and opportunities,
+leaving a lingering sense of inadequacy and loss. <em>Change your course
+before regret becomes the only reality.</em></p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="patience.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Patience</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="credits.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Credits</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Diligence</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#sloth">Sloth</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-diligence">Benefits of diligence</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-sloth-as-a-self-preservation-emotion">Benefits of sloth as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-diligent">Tips for the continent diligent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-diligent">Tips for the incontinent diligent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-slothful">Invitations for the incontinent slothful</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-continent-slothful">Reflection points for the continent slothful</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-slothful">Reflection points for the slothful</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>

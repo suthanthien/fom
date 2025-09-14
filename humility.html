@@ -1,0 +1,724 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Humility &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'humility';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Kindness" href="kindness.html" />
+    <link rel="prev" title="Introduction" href="virtues_and_vices.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/humility.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Humility</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Humility</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pride">Pride</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-humility">Benefits of humility</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-pride-as-a-self-preservation-emotion">Benefits of pride as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-humble">Tips for the continent humble</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-humble">Tips for the incontinent humble</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-proud">Invitations for the incontinent proud</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-proud">Reflections points for the continent proud</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-proud">Reflection points for the proud</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="humility">
+<h1>Humility<a class="headerlink" href="#humility" title="Link to this heading">#</a></h1>
+<section id="id1">
+<h2>Humility<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+<p>Humility is the virtue that involves a modest view of one’s own
+importance. It is characterized by a genuine recognition of one’s
+limitations and an openness to learning from others. Unlike
+self-deprecation, humility embraces an honest appraisal of oneself.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Self-awareness:</strong> Understanding and accepting one’s strengths and
+weaknesses.</p></li>
+<li><p><strong>Openness:</strong> Willingness to listen, learn, and accept feedback or
+correction.</p></li>
+<li><p><strong>Respect:</strong> Valuing others without seeking to dominate or belittle
+them.</p></li>
+<li><p><strong>Gratitude:</strong> Recognizing the contributions and gifts of others in
+one’s achievements.</p></li>
+</ul>
+</section>
+<section id="pride">
+<h2>Pride<a class="headerlink" href="#pride" title="Link to this heading">#</a></h2>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Although pride is commonly understood in general parlance as a
+positive emotion, in the following discussion we will focus primarily
+on pride as a vice. This vice could alternatively be classified as
+arrogance, but for consistency with the dichotomy emotion-vice, we
+will retain the traditional term “pride” throughout.</p>
+</div>
+<p>Pride is the vice marked by an unjustified sense of superiority over
+others. It is characterized by an inflated self-view that dismisses or
+devalues the worth and contributions of others.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Overconfidence:</strong> Excessive certainty in one’s own opinions,
+abilities, or status.</p></li>
+<li><p><strong>Dismissiveness:</strong> Ignoring or belittling others’ ideas, feelings,
+or achievements.</p></li>
+<li><p><strong>Lack of empathy:</strong> Difficulty recognizing or valuing the
+perspectives and experiences of others.</p></li>
+<li><p><strong>Inability to admit fault:</strong> Refusal to acknowledge mistakes or
+limitations.</p></li>
+</ul>
+</section>
+<section id="benefits-of-humility">
+<h2>Benefits of humility<a class="headerlink" href="#benefits-of-humility" title="Link to this heading">#</a></h2>
+<section id="personal-benefits">
+<h3>Personal benefits<a class="headerlink" href="#personal-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Enhanced self-awareness:</strong> Humility encourages an honest
+understanding of one’s strengths and weaknesses.</p></li>
+<li><p><strong>Openness to growth:</strong> Being humble fosters a willingness to learn,
+adapt, and improve.</p></li>
+<li><p><strong>Reduced stress:</strong> Letting go of the need to prove oneself can lead
+to greater inner peace and less anxiety.</p></li>
+<li><p><strong>Better decision-making:</strong> A humble person is more likely to
+consider multiple perspectives before acting.</p></li>
+<li><p><strong>Stronger relationships:</strong> Humility nurtures empathy, trust, and
+respect, deepening personal connections.</p></li>
+<li><p><strong>Increased resilience:</strong> Accepting limitations and setbacks with
+humility promotes perseverance.</p></li>
+</ul>
+</section>
+<section id="community-benefits">
+<h3>Community benefits<a class="headerlink" href="#community-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Improved collaboration:</strong> Humility encourages listening and valuing
+others’ contributions, fostering teamwork.</p></li>
+<li><p><strong>Greater social harmony:</strong> Reducing pride and arrogance helps
+minimize conflicts and promotes peaceful coexistence.</p></li>
+<li><p><strong>Inclusive environments:</strong> Humble individuals help create spaces
+where diverse voices are heard and respected.</p></li>
+<li><p><strong>Encouragement of service:</strong> Humility inspires acts of kindness and
+support toward others.</p></li>
+<li><p><strong>Leadership effectiveness:</strong> Humble leaders are more approachable,
+open to feedback, and able to unite people.</p></li>
+<li><p><strong>Cultural growth:</strong> Communities valuing humility tend to be more
+adaptable and open to positive change.</p></li>
+</ul>
+</section>
+</section>
+<section id="benefits-of-pride-as-a-self-preservation-emotion">
+<h2>Benefits of pride as a self-preservation emotion<a class="headerlink" href="#benefits-of-pride-as-a-self-preservation-emotion" title="Link to this heading">#</a></h2>
+<section id="id2">
+<h3>Personal benefits<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Boosts confidence:</strong> Pride can increase self-assurance, helping
+individuals face challenges.</p></li>
+<li><p><strong>Protects self-esteem:</strong> It acts as a defense mechanism to shield
+against feelings of insecurity or vulnerability.</p></li>
+<li><p><strong>Encourages assertiveness:</strong> Pride may promote taking decisive
+action or standing firm in difficult situations.</p></li>
+<li><p><strong>Facilitates risk-taking:</strong> An inflated sense of capability can
+motivate bold moves that might otherwise be avoided.</p></li>
+<li><p><strong>Reduces self-doubt:</strong> By minimizing internal criticism, pride can
+help maintain focus and persistence.</p></li>
+<li><p><strong>Motivates achievement for status:</strong> A desire to maintain or elevate
+prestige can drive ambitious actions.</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>Community benefits<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Fosters group prestige:</strong> Communities may unite around shared
+status, reputation, or accomplishments that members feel proud of.</p></li>
+<li><p><strong>Strengthens collective identity:</strong> Pride can create a sense of “we
+are special,” reinforcing belonging and cohesion.</p></li>
+<li><p><strong>Encourages loyalty through honor:</strong> Members often stay committed to
+protect the group’s reputation or honor.</p></li>
+<li><p><strong>Drives competition with outsiders:</strong> Excessive pride can motivate
+the community to outperform rivals or defend its standing.</p></li>
+<li><p><strong>Promotes shared values:</strong> Pride in group norms or achievements
+reinforces conformity and mutual recognition.</p></li>
+<li><p><strong>Maintains morale during challenges:</strong> A group’s pride can help
+members endure adversity, bolstering resilience.</p></li>
+<li><p><strong>Highlights exemplary figures:</strong> Leaders or standout members
+celebrated for the group’s achievements can inspire others to emulate
+them, reinforcing unity.</p></li>
+</ul>
+</section>
+</section>
+<section id="tips-for-the-continent-humble">
+<h2>Tips for the continent humble<a class="headerlink" href="#tips-for-the-continent-humble" title="Link to this heading">#</a></h2>
+<p>To embrace fully the virtue of humility, aim to experience these
+emotions more often:</p>
+<ul class="simple">
+<li><p><strong>Awe:</strong> Recall moments when you felt wonder at something larger than
+yourself, a starry sky, great art, or human kindness. Seek these
+experiences regularly to remind yourself of life’s vastness beyond
+your own perspective.</p></li>
+<li><p><strong>Compassion:</strong> Put yourself in someone else’s shoes by actively
+listening to their story or feelings without judgment.</p></li>
+<li><p><strong>Gratitude:</strong> Reflect on moments or people who have positively
+impacted your life and helped you grow. Practice thanking others
+often, silently or aloud, to cultivate recognition of shared effort.</p></li>
+<li><p><strong>Curiosity:</strong> Approach conversations and experiences with an open
+mind and a genuine desire to learn. Remind yourself there is always
+something new to discover from others’ experiences.</p></li>
+<li><p><strong>Tenderness:</strong> Feel the gentle warmth that arises when you see
+vulnerability in yourself or others. Cultivate it by allowing honesty
+in relationships and welcoming imperfection instead of hiding it.</p></li>
+<li><p><strong>Relief:</strong> Remember the lightness of not needing to be the best or
+always right. Let yourself rest in the freedom that comes from
+dropping pretenses and embracing imperfection.</p></li>
+<li><p><strong>Admiration:</strong> Let yourself be inspired by others’ strengths and
+talents without comparison. Notice what you genuinely respect in
+people around you, and express that respect openly.</p></li>
+</ul>
+</section>
+<section id="tips-for-the-incontinent-humble">
+<h2>Tips for the incontinent humble<a class="headerlink" href="#tips-for-the-incontinent-humble" title="Link to this heading">#</a></h2>
+<p>To better manage pride and arrogance, adopt the following habits:</p>
+<ul class="simple">
+<li><p><strong>Practice regular self-reflection:</strong> Set aside time daily or weekly
+to honestly assess your actions, motivations, and attitudes.</p></li>
+<li><p><strong>Seek constructive feedback:</strong> Actively invite input from others and
+view criticism as an opportunity for growth.</p></li>
+<li><p><strong>Celebrate others’ successes:</strong> Make a habit of acknowledging and
+appreciating the achievements of those around you.</p></li>
+<li><p><strong>Admit mistakes openly:</strong> When you err, confess promptly and learn
+from the experience rather than hiding or denying it.</p></li>
+<li><p><strong>Engage in service:</strong> Regularly help others without seeking
+recognition, fostering humility through giving.</p></li>
+<li><p><strong>Maintain a learning mindset:</strong> Approach life as a continual
+learner, recognizing that you do not have all the answers.</p></li>
+<li><p><strong>Pause before responding:</strong> Take a moment to consider your words and
+reactions, especially in situations that may trigger ego
+defensiveness.</p></li>
+<li><p><strong>Practice gratitude daily:</strong> Focus on what you have and the
+contributions of others rather than on status or achievements.</p></li>
+<li><p><strong>Surround yourself with humble role models:</strong> Spend time with people
+who exemplify humility and learn from their example.</p></li>
+<li><p><strong>Avoid comparison:</strong> Refrain from measuring your worth against
+others; focus instead on your personal growth and values.</p></li>
+</ul>
+</section>
+<section id="invitations-for-the-incontinent-proud">
+<h2>Invitations for the incontinent proud<a class="headerlink" href="#invitations-for-the-incontinent-proud" title="Link to this heading">#</a></h2>
+<p>Some of these thoughts might lead you to believe pride is justified.
+Here, there are some arguments for reflection and reconsideration.</p>
+<ul class="simple">
+<li><p><strong>“I’m just confident; there’s nothing wrong with believing in
+myself.”</strong> <em>Invitation:</em> Confidence is valuable, but true confidence
+includes humility and respect for others. Believing in oneself
+doesn’t require diminishing others or closing off to feedback.</p></li>
+<li><p><strong>“If I don’t act this way, people won’t take me seriously.”</strong>
+<em>Invitation:</em> Authentic respect comes from integrity and empathy, not
+from boasting or superiority. People are drawn to those who show
+humility and openness.</p></li>
+<li><p><strong>“I earned my success; I deserve to be proud.”</strong> <em>Invitation:</em> Pride
+in achievements is natural, but remembering the support,
+opportunities, and luck involved keeps pride balanced with gratitude
+and humility.</p></li>
+<li><p><strong>“Others just don’t understand my value or efforts.”</strong> <em>Invitation:</em>
+Instead of assuming others’ ignorance, seeking to communicate openly
+and listen can bridge understanding and reduce defensiveness.</p></li>
+<li><p><strong>“Being humble is a weakness; it means letting others walk over
+you.”</strong> <em>Invitation:</em> Humility is strength rooted in self-awareness
+and respect. It allows for assertiveness without arrogance, fostering
+healthier relationships.</p></li>
+<li><p><strong>“I’m just being honest and straightforward.”</strong> <em>Invitation:</em>
+Honesty is important, but it can be expressed kindly and respectfully
+without belittling others or insisting on superiority.</p></li>
+<li><p><strong>“If I don’t put myself first, I’ll get left behind.”</strong>
+<em>Invitation:</em> Collaboration and mutual respect often lead to greater
+success than self-centered attitudes. Humility builds lasting support
+networks.</p></li>
+</ul>
+</section>
+<section id="reflections-points-for-the-continent-proud">
+<h2>Reflections points for the continent proud<a class="headerlink" href="#reflections-points-for-the-continent-proud" title="Link to this heading">#</a></h2>
+<p>Take some time to reflect on the long term consequences of your choices.</p>
+<ul class="simple">
+<li><p>Your arrogance might cause others to avoid or distance themselves
+from you. This often leads to loneliness and a hidden emptiness
+because authentic connection is lost. <strong>Every act of arrogance builds
+walls that separate you from those who matter.</strong></p></li>
+<li><p>Your need to always be right shuts down conversations and learning
+opportunities. This can create frustration and a sense of stagnation
+as you trap yourself in a narrow perspective. <strong>The longer you
+resist, the more you stunt your own potential.</strong></p></li>
+<li><p>Your refusal to admit mistakes leaves you stuck repeating the same
+errors. This often leads to feelings of frustration and helplessness,
+as progress becomes elusive. <strong>Without humility, you risk being
+caught in a cycle that keeps you from evolving.</strong></p></li>
+<li><p>Overshadowing others to assert your superiority causes resentment and
+tension around you. Such feelings can result in isolation and
+fractured relationships that weaken your support network. <strong>Without
+nurturing others’ strengths, you risk losing respect and alliances.</strong></p></li>
+<li><p>Hiding your vulnerabilities to protect your ego creates emotional
+distance. This often results in loneliness and a sense of
+disconnection from those who could truly understand you. <strong>Without
+vulnerability, genuine intimacy and trust are harder to attain.</strong></p></li>
+</ul>
+</section>
+<section id="reflection-points-for-the-proud">
+<h2>Reflection points for the proud<a class="headerlink" href="#reflection-points-for-the-proud" title="Link to this heading">#</a></h2>
+<p>These are not just possibilities, they are common outcomes for those who
+continue down the path of justified arrogance. If you do not change your
+relationship with arrogance, these moments may find you.</p>
+<ul class="simple">
+<li><p><strong>Weakening relationships as loved ones feel dismissed or
+belittled:</strong> Arrogance alienates even your closest friends and
+family, causing them to withdraw their support and care. <em>Don’t wait
+until you are left alone with regret.</em></p></li>
+<li><p><strong>Experiencing a professional failure because you refused to listen
+or adapt:</strong> Your refusal to accept feedback or collaborate can lead
+to missed opportunities, demotion, or even job loss. <em>Arrogance does
+not protect your status, it risks your future.</em></p></li>
+<li><p><strong>Watching others you once dismissed surpass you through
+collaboration and humility:</strong> Your blind pride may leave you behind
+as others advance and build meaningful alliances. <em>Do not wait until
+you have no effective response.</em></p></li>
+<li><p><strong>Facing a crisis where arrogance causes you to fail alone:</strong> When
+situations demand cooperation and flexibility, arrogance can isolate
+you and worsen outcomes. <em>Change your course before your pride leads
+to ruin.</em></p></li>
+<li><p><strong>Undermining your career or influence as leaders and colleagues lose
+trust</strong>: No one follows a voice that cannot listen. <em>Do not let doors
+of opportunity close quietly, because you lacked humility.</em></p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="virtues_and_vices.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Introduction</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="kindness.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Kindness</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Humility</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pride">Pride</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-humility">Benefits of humility</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-pride-as-a-self-preservation-emotion">Benefits of pride as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-humble">Tips for the continent humble</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-humble">Tips for the incontinent humble</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-proud">Invitations for the incontinent proud</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-proud">Reflections points for the continent proud</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflection-points-for-the-proud">Reflection points for the proud</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>
