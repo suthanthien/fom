@@ -1,0 +1,35 @@
+name: Build and Deploy Sphinx site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+        contents: write
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Build HTML
+      run: |
+        make html
+    - name: Copy license to build directory
+      run: cp LICENSE.txt build/html/
+    - name: Copy readme to build directory
+      run: cp README.rst build/html/
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: build/html
+        publish_branch: gh-pages
