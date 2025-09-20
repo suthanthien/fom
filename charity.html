@@ -1,0 +1,681 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Charity &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'charity';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Temperance" href="temperance.html" />
+    <link rel="prev" title="Diligence" href="diligence.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Charity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="temperance.html">Temperance</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="circle.html">Circle of morality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/charity.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Charity</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Charity</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#greed">Greed</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-charity">Benefits of charity</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal Benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community Benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-greed-as-a-self-preservation-emotion">Benefits of greed as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-charitable">Tips for the continent charitable</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-charitable">Tips for the incontinent charitable</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-greedy">Invitations for the incontinent greedy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-greedy">Reflections points for the continent greedy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-greedy">Reflections points for the greedy</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="charity">
+<h1>Charity<a class="headerlink" href="#charity" title="Link to this heading">#</a></h1>
+<section id="id1">
+<h2>Charity<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+<p>Charity is the virtue of giving generously from one’s abundance for the
+good of others. Charity seeks the well-being of others over the
+accumulation of wealth or possessions, finding joy in sharing.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Generosity:</strong> Sharing resources, time, and care with others,
+especially those in need.</p></li>
+<li><p><strong>Selflessness:</strong> Placing the needs of others above personal gain.</p></li>
+<li><p><strong>Detachment:</strong> Holding wealth and goods lightly, recognizing them as
+gifts to be used, not clung to.</p></li>
+<li><p><strong>Compassion:</strong> Responding with empathy and kindness to the struggles
+of others, seeking to relieve their burdens.</p></li>
+<li><p><strong>Joy in giving:</strong> Finding fulfillment and happiness in the act of
+sharing.</p></li>
+</ul>
+</section>
+<section id="greed">
+<h2>Greed<a class="headerlink" href="#greed" title="Link to this heading">#</a></h2>
+<p>Greed is the vice of excessive desire for wealth, possessions, or gain.
+A greedy person clings to what they have and craves more, treating
+wealth as an end rather than a means to serve the good of self and
+others.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Excessive desire:</strong> An insatiable craving for wealth or
+possessions, never satisfied with enough.</p></li>
+<li><p><strong>Possessiveness:</strong> Clinging tightly to what one owns, fearful of
+losing or sharing it.</p></li>
+<li><p><strong>Exploitation:</strong> Seeking gain at the expense of fairness, justice,
+or the dignity of others.</p></li>
+<li><p><strong>Ingratitude:</strong> Overlooking the gifts already received, always
+longing for more.</p></li>
+<li><p><strong>Hardness of heart:</strong> Valuing material things above people.</p></li>
+</ul>
+</section>
+<section id="benefits-of-charity">
+<h2>Benefits of charity<a class="headerlink" href="#benefits-of-charity" title="Link to this heading">#</a></h2>
+<section id="personal-benefits">
+<h3>Personal Benefits<a class="headerlink" href="#personal-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Inner freedom:</strong> Detachment from possessions frees the heart from
+anxiety and fear of loss.</p></li>
+<li><p><strong>Deeper joy:</strong> Giving generously brings fulfillment beyond material
+gain.</p></li>
+<li><p><strong>Richer relationships:</strong> Selfless giving builds bonds of trust,
+affection, and mutual care.</p></li>
+</ul>
+</section>
+<section id="community-benefits">
+<h3>Community Benefits<a class="headerlink" href="#community-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Greater equity:</strong> Charity helps meet the needs of the vulnerable,
+reducing disparities within the community.</p></li>
+<li><p><strong>Strengthened trust:</strong> Generosity builds confidence and solidarity
+among individuals and groups.</p></li>
+<li><p><strong>Culture of giving:</strong> Communities marked by charity inspire others
+to live with generosity and kindness.</p></li>
+<li><p><strong>Support in hardship:</strong> Charitable acts ensure that no one is left
+alone or abandoned in times of need.</p></li>
+<li><p><strong>Social harmony:</strong> Sharing resources and care fosters cooperation,
+peace, and mutual respect.</p></li>
+</ul>
+</section>
+</section>
+<section id="benefits-of-greed-as-a-self-preservation-emotion">
+<h2>Benefits of greed as a self-preservation emotion<a class="headerlink" href="#benefits-of-greed-as-a-self-preservation-emotion" title="Link to this heading">#</a></h2>
+<section id="id2">
+<h3>Personal benefits<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Motivation for achievement:</strong> the desire for more can fuel ambition
+and persistence, pushing individuals to reach goals that expand their
+security and opportunities.</p></li>
+<li><p><strong>Risk awareness:</strong> greed sharpens sensitivity to potential losses,
+making individuals more cautious in protecting what they already
+possess.</p></li>
+<li><p><strong>Resource accumulation:</strong> by striving to gather wealth or assets,
+greed provides a buffer against future instability or crisis.</p></li>
+<li><p><strong>Boundary defense:</strong> greedy impulses can signal when others are
+over-demanding, reinforcing one’s instinct to guard personal
+interests.</p></li>
+<li><p><strong>Energy conservation:</strong> the reluctance to share too freely can
+preserve one’s resources, time, and energy for personal use.</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>Community benefits<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Improved resource management:</strong> when people strongly value their
+possessions, they may handle them with greater care to avoid loss or
+waste.</p></li>
+<li><p><strong>Resilience building:</strong> communities with individuals motivated to
+accumulate resources are better insulated against disasters or
+shortages.</p></li>
+<li><p><strong>Social ambition:</strong> greedy striving can set higher standards that
+pull others upward, raising the collective bar for success and
+security.</p></li>
+</ul>
+</section>
+</section>
+<section id="tips-for-the-continent-charitable">
+<h2>Tips for the continent charitable<a class="headerlink" href="#tips-for-the-continent-charitable" title="Link to this heading">#</a></h2>
+<p>To embrace fully the virtue of charity, aim to experience these emotions
+more often:</p>
+<ul class="simple">
+<li><p><strong>Compassion</strong> Allow yourself to connect emotionally with others’
+struggles. Strengthen it by listening openly, volunteering, or even
+imagining life from another’s perspective.</p></li>
+<li><p><strong>Gratitude</strong> Appreciate what you already have in your life, however
+modest.</p></li>
+<li><p><strong>Healthy pride</strong> Take satisfaction in moments when your generosity
+made a positive impact. Keep small reminders, like thank-you notes,
+that reinforce how good it feels to give.</p></li>
+<li><p><strong>Affection</strong> Feel affection for others as companions in life.
+Nurture it by spending time with loved ones, and practicing kindness
+in words.</p></li>
+<li><p><strong>Joy</strong> Recall the happiness you’ve felt after giving time, or
+attention, or a gift. Notice how small acts of sharing brighten both
+your day and others’.</p></li>
+<li><p><strong>Relief</strong> Notice the lightness that comes from releasing excess or
+sharing what you don’t need. Let go of clutter or possessions now and
+then, paying attention to the freedom it brings.</p></li>
+<li><p><strong>Anticipatory Joy</strong> Think about the possible ripple effect of your
+giving. Remind yourself that even small acts can inspire others and
+plant seeds for a more generous world.</p></li>
+</ul>
+</section>
+<section id="tips-for-the-incontinent-charitable">
+<h2>Tips for the incontinent charitable<a class="headerlink" href="#tips-for-the-incontinent-charitable" title="Link to this heading">#</a></h2>
+<p>To become more consistent in embracing charity, adopt the following
+habits:</p>
+<ul class="simple">
+<li><p><strong>Clarify your giving values:</strong> decide what causes or needs matter
+most to you, so your generosity feels purposeful rather than
+impulsive.</p></li>
+<li><p><strong>Set boundaries for generosity:</strong> define how much time, money, or
+resources you can share regularly, preventing burnout or regret.</p></li>
+<li><p><strong>Create a giving plan:</strong> establish a routine of charitable acts,
+whether weekly donations, monthly volunteering, or daily kindness.</p></li>
+<li><p><strong>Acknowledge the pull of greed:</strong> notice moments when
+self-preservation tempts you to withhold, and pause to reflect on
+whether the fear is realistic or exaggerated.</p></li>
+<li><p><strong>Start small and build consistency:</strong> even minor, repeated acts of
+kindness or sharing cultivate a stable rhythm of generosity.</p></li>
+<li><p><strong>Seek models of generosity:</strong> learn from individuals or communities
+who embody steady charity, and adopt practices that resonate with
+you.</p></li>
+</ul>
+</section>
+<section id="invitations-for-the-incontinent-greedy">
+<h2>Invitations for the incontinent greedy<a class="headerlink" href="#invitations-for-the-incontinent-greedy" title="Link to this heading">#</a></h2>
+<p>Some of these thoughts might lead you to believe greed is justified.
+Here, there are some arguments for reflection and reconsideration.</p>
+<ul class="simple">
+<li><p><strong>“I need to look out for myself first.”</strong> <em>Invitation:</em> Self-care is
+vital, but constant hoarding narrows life into fear and isolation.
+True security often comes from mutual support, where generosity
+builds bonds that protect you as well.</p></li>
+<li><p><strong>“I earned it, so it’s mine.”</strong> <em>Invitation:</em> Hard work deserves
+recognition, but resources are never created in isolation. Others’
+labor, opportunities, and communities also make success possible.</p></li>
+<li><p><strong>“If I give, I’ll have less.”</strong> <em>Invitation:</em> While charity does
+reduce your immediate store, it often multiplies value in trust,
+goodwill, and purpose.</p></li>
+<li><p><strong>“Everyone else is just as greedy.”</strong> <em>Invitation:</em> Choosing
+generosity makes you a model for change and inspires others to follow
+suit.</p></li>
+<li><p><strong>“I might need this later.”</strong> <em>Invitation:</em> Preparation is wise, but
+endless stockpiling feeds anxiety rather than peace. Setting a
+healthy threshold for “enough” frees you from fear and allows surplus
+to serve others.</p></li>
+<li><p><strong>“People should earn what they get.”</strong> <em>Invitation:</em> Effort is
+important, yet circumstances shape opportunity in ways beyond
+control. Acts of charity level the field, creating fairness where
+fortune has been uneven.</p></li>
+<li><p><strong>“Giving won’t really help.”</strong> <em>Invitation:</em> No gift solves every
+problem, but each act eases suffering, signals care, and builds
+momentum toward change. What seems small to you may mean everything
+to someone else.</p></li>
+<li><p><strong>“I’ll be generous when I have more.”</strong> <em>Invitation:</em> Generosity
+grows from practice, not abundance. Waiting for perfect conditions
+delays growth indefinitely, while small, steady acts of sharing
+cultivate the habit of charity.</p></li>
+</ul>
+</section>
+<section id="reflections-points-for-the-continent-greedy">
+<h2>Reflections points for the continent greedy<a class="headerlink" href="#reflections-points-for-the-continent-greedy" title="Link to this heading">#</a></h2>
+<p>Take some time to reflect on the long-term consequences of your choices.</p>
+<ul class="simple">
+<li><p>Your hunger for more money and possessions consumes your time and
+energy. The hours spent chasing gain are hours stolen from your
+spouse, your children, your friends. <strong>Greed robs your loved ones
+long before it fills your hands.</strong></p></li>
+<li><p>The endless pursuit of wealth drives you into stress, overwork, and
+sleepless nights. Riches pile up while your health quietly crumbles.
+<strong>Greed trades your body’s strength for numbers.</strong></p></li>
+</ul>
+</section>
+<section id="reflections-points-for-the-greedy">
+<h2>Reflections points for the greedy<a class="headerlink" href="#reflections-points-for-the-greedy" title="Link to this heading">#</a></h2>
+<p>These are not mere possibilities — they are common crossroads for those
+who persist in justifying greed. If you do not change your relationship
+with excess, these moments may find you.</p>
+<ul class="simple">
+<li><p><strong>Losing relationships as wealth becomes your only focus.</strong> Greed
+narrows love into possession and corrodes trust, pushing away
+friends, family, and community. <em>Do not wait until you stand
+surrounded by possessions but isolated from affection.</em></p></li>
+<li><p><strong>Harming your health under the weight of excess.</strong> Greed fuels
+overwork, anxiety, and neglect of balance. The body and mind cannot
+flourish under relentless accumulation. <em>Change course before
+striving for “more” steals your vitality.</em></p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="diligence.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Diligence</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="temperance.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Temperance</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Charity</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#greed">Greed</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-charity">Benefits of charity</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal Benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community Benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-greed-as-a-self-preservation-emotion">Benefits of greed as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-charitable">Tips for the continent charitable</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-charitable">Tips for the incontinent charitable</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-greedy">Invitations for the incontinent greedy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-greedy">Reflections points for the continent greedy</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-greedy">Reflections points for the greedy</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>

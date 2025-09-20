@@ -11,3 +11,5 @@
    kindness.rst
    patience.rst
    diligence.rst
+   charity.rst
+   temperance.rst

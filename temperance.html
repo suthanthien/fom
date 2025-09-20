@@ -1,0 +1,697 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Temperance &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'temperance';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Circle of morality" href="circle.html" />
+    <link rel="prev" title="Charity" href="charity.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="charity.html">Charity</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Temperance</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="circle.html">Circle of morality</a></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/temperance.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Temperance</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Temperance</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gluttony">Gluttony</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-temperance">Benefits of temperance</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community Benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-gluttony-as-a-self-preservation-emotion">Benefits of gluttony as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-temperate">Tips for the continent temperate</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-temperate">Tips for the incontinent temperate</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-gluttonous">Invitations for the incontinent gluttonous</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-gluttonous">Reflections points for the continent gluttonous</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-gluttonous">Reflections points for the gluttonous</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="temperance">
+<h1>Temperance<a class="headerlink" href="#temperance" title="Link to this heading">#</a></h1>
+<section id="id1">
+<h2>Temperance<a class="headerlink" href="#id1" title="Link to this heading">#</a></h2>
+<p>Temperance is the virtue of moderating the appetite for food, drink, and
+consumables. Temperance brings order to the bodily appetites, ensuring
+they serve health, joy, and the good of the soul.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Moderation:</strong> Enjoying food, drink, and pleasure in proper measure.</p></li>
+<li><p><strong>Self-restraint:</strong> Refusing excess when tempted, and mastering
+impulses.</p></li>
+<li><p><strong>Gratitude:</strong> Receiving life’s pleasures as gifts.</p></li>
+<li><p><strong>Healthfulness:</strong> Choosing habits of eating and drinking that
+sustain strength, clarity, and well-being.</p></li>
+<li><p><strong>Joyful Simplicity:</strong> Finding contentment in sufficiency.</p></li>
+</ul>
+</section>
+<section id="gluttony">
+<h2>Gluttony<a class="headerlink" href="#gluttony" title="Link to this heading">#</a></h2>
+<p>Gluttony is the vice of excessive indulgence in food, drink, or physical
+consumption. A gluttonous person seeks satisfaction without measure,
+often leading to waste, harm, or neglect of higher goods.</p>
+<p>Key Characteristics:</p>
+<ul class="simple">
+<li><p><strong>Excess:</strong> Consuming more than is needed.</p></li>
+<li><p><strong>Loss of self-control:</strong> Allowing desire for food or drink to
+dominate decisions and behavior.</p></li>
+<li><p><strong>Disorder:</strong> Placing bodily appetite above reason, health, or
+spiritual well-being.</p></li>
+<li><p><strong>Wastefulness:</strong> Squandering resources through overindulgence.</p></li>
+<li><p><strong>Ingratitude:</strong> Treating food and drink as entitlement.</p></li>
+</ul>
+</section>
+<section id="benefits-of-temperance">
+<h2>Benefits of temperance<a class="headerlink" href="#benefits-of-temperance" title="Link to this heading">#</a></h2>
+<section id="personal-benefits">
+<h3>Personal benefits<a class="headerlink" href="#personal-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Improved health:</strong> Moderation in food and drink supports physical
+well-being, energy, and longevity.</p></li>
+<li><p><strong>Clearer mind:</strong> Restraint from excess preserves mental clarity,
+focus, and alertness.</p></li>
+<li><p><strong>Balanced enjoyment:</strong> Savoring food and drink in moderation
+increases appreciation and genuine satisfaction.</p></li>
+<li><p><strong>Strengthened willpower:</strong> Practicing moderation builds discipline
+and self-mastery across other areas of life.</p></li>
+</ul>
+</section>
+<section id="community-benefits">
+<h3>Community Benefits<a class="headerlink" href="#community-benefits" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Better stewardship of resources:</strong> Temperance prevents waste and
+encourages fair sharing of food and goods.</p></li>
+<li><p><strong>Public health and well-being:</strong> Communities marked by moderation
+enjoy fewer health problems.</p></li>
+<li><p><strong>Social harmony:</strong> When people eat and drink in moderation, they
+respectfully share, and enjoy each other’s company.</p></li>
+<li><p><strong>Generosity to the needy:</strong> Consuming with moderation leaves more
+available to aid those in need.</p></li>
+<li><p><strong>Inspiring example:</strong> Temperate individuals model healthy, grateful
+living, encouraging others to follow suit.</p></li>
+</ul>
+</section>
+</section>
+<section id="benefits-of-gluttony-as-a-self-preservation-emotion">
+<h2>Benefits of gluttony as a self-preservation emotion<a class="headerlink" href="#benefits-of-gluttony-as-a-self-preservation-emotion" title="Link to this heading">#</a></h2>
+<section id="id2">
+<h3>Personal benefits<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Immediate nourishment:</strong> gluttonous impulses ensure the body gets
+enough calories and nutrients, guarding against hunger and scarcity.</p></li>
+<li><p><strong>Stress relief:</strong> eating in abundance can soothe emotional tension,
+providing comfort during periods of anxiety or uncertainty.</p></li>
+<li><p><strong>Survival insurance:</strong> a tendency to overconsume helps the body
+build reserves of energy and fat that may be drawn upon in leaner
+times.</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>Community benefits<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Celebratory bonding:</strong> shared feasts and indulgent meals create
+spaces for communal joy, strengthening social ties.</p></li>
+<li><p><strong>Cultural preservation:</strong> gluttonous traditions (like banquets,
+harvest festivals, or holiday feasts) maintain rituals that honor
+history and identity.</p></li>
+<li><p><strong>Generosity display:</strong> abundance in eating often accompanies
+generosity in hosting, showcasing care and hospitality toward others.</p></li>
+<li><p><strong>Economic activity:</strong> high demand for plentiful food stimulates
+agricultural innovation, culinary arts, and food industries that
+serve broader communities.</p></li>
+<li><p><strong>Resource signaling:</strong> the ability to indulge demonstrates stability
+and abundance, reassuring others about communal security.</p></li>
+</ul>
+</section>
+</section>
+<section id="tips-for-the-continent-temperate">
+<h2>Tips for the continent temperate<a class="headerlink" href="#tips-for-the-continent-temperate" title="Link to this heading">#</a></h2>
+<p>To embrace fully the virtue of temperance, aim to experience these
+emotions more often:</p>
+<ul class="simple">
+<li><p><strong>Gratitude</strong> Appreciate what you already have before reaching for
+more. Keep a short daily list of simple blessings to remind yourself
+of sufficiency.</p></li>
+<li><p><strong>Anticipatory Joy</strong> Look forward to the rewards of moderation:
+clarity, energy, and steadiness. Visualize how your future self will
+feel when you act with balance today.</p></li>
+<li><p><strong>Reverence</strong> Feel respect for your body, mind, and spirit as
+precious. Let this emotional regard shape how you treat yourself and
+what you take in.</p></li>
+<li><p><strong>Healthy pride</strong> Take quiet satisfaction in moments when you chose
+moderation. Keep a record of balanced choices to remind yourself that
+restraint is a form of strength.</p></li>
+<li><p><strong>Satisfaction</strong> Notice the contentment that arises from “just
+enough.” Pause after eating, spending, or working to sense the
+pleasure of balance.</p></li>
+<li><p><strong>Gentle Joy</strong> Seek out modest, wholesome pleasures that lift the
+spirit without overwhelming it, like laughter with friends, a walk
+outdoors, or a favorite piece of music.</p></li>
+</ul>
+</section>
+<section id="tips-for-the-incontinent-temperate">
+<h2>Tips for the incontinent temperate<a class="headerlink" href="#tips-for-the-incontinent-temperate" title="Link to this heading">#</a></h2>
+<p>To become more consistent in embracing temperance, adopt the following
+habits:</p>
+<ul class="simple">
+<li><p><strong>Identify trigger situations:</strong> notice the contexts (stress,
+celebrations, boredom) where you tend to overindulge, and prepare
+alternative responses.</p></li>
+<li><p><strong>Practice mindful consumption:</strong> slow down during meals or
+pleasures, savoring each bite or experience to cultivate satisfaction
+with less.</p></li>
+<li><p><strong>Set gentle limits:</strong> define reasonable portions or timeframes
+beforehand, so you have a guidepost that helps resist excess.</p></li>
+<li><p><strong>Cultivate awareness of consequences:</strong> reflect on how
+overindulgence affects your health, energy, or relationships.</p></li>
+<li><p><strong>Use rituals of pause:</strong> create small delays before saying “yes” to
+another serving, purchase, or indulgence, giving your body and mind
+time to recalibrate.</p></li>
+<li><p><strong>Celebrate small victories:</strong> celebrate when you stop before excess.</p></li>
+<li><p><strong>Redirect craving energy:</strong> when urges feel overwhelming, channel
+them into a different activity like walking, journaling, or
+connecting with others.</p></li>
+<li><p><strong>Seek supportive environments:</strong> surround yourself with people,
+spaces, and routines that encourage moderation.</p></li>
+</ul>
+</section>
+<section id="invitations-for-the-incontinent-gluttonous">
+<h2>Invitations for the incontinent gluttonous<a class="headerlink" href="#invitations-for-the-incontinent-gluttonous" title="Link to this heading">#</a></h2>
+<p>Some of these thoughts might lead you to believe gluttony is justified.
+Here, there are some arguments for reflection and reconsideration.</p>
+<ul class="simple">
+<li><p><strong>“I deserve a treat, I’ve earned it.”</strong> <em>Invitation:</em> Rewarding
+yourself is healthy, but constant indulgence turns treats into habits
+that dull joy. Moderation preserves the pleasure and makes special
+moments truly special.</p></li>
+<li><p><strong>“It’s just this once.”</strong> <em>Invitation:</em> Occasional indulgence is
+natural, but repetition of “just this once” builds lasting patterns
+of excess. Choosing balance more often strengthens self-mastery.</p></li>
+<li><p><strong>“Wasting food is worse than overeating.”</strong> <em>Invitation:</em> Avoiding
+waste matters, but overconsumption harms your health without truly
+honoring the food. Sharing leftovers, saving portions, or creative
+reuse respects both body and resources.</p></li>
+<li><p><strong>“I need comfort right now.”</strong> <em>Invitation:</em> Food can soothe, but
+relying on it masks deeper needs for rest, connection, or emotional
+healing. Meeting those needs directly provides lasting comfort.</p></li>
+<li><p><strong>“Everyone else is eating this much.”</strong> <em>Invitation:</em> Social
+pressure normalizes excess, but your well-being isn’t determined by
+others’ plates. Quiet moderation can set an example and inspire
+healthier rhythms around you.</p></li>
+<li><p><strong>“It’s a special occasion.”</strong> <em>Invitation:</em> Celebrations invite
+abundance, but temperance doesn’t mean rejecting joy, it means
+enjoying without harm. Relishing a little less leaves you feeling
+better during and after.</p></li>
+<li><p><strong>“I’ll balance it out later.”</strong> <em>Invitation:</em> Plans to compensate
+with restriction or exercise often fall short, leaving the cycle
+unbroken. Practicing balance in the moment prevents the need for
+extremes later.</p></li>
+<li><p><strong>“More will make me feel better.”</strong> <em>Invitation:</em> Beyond a certain
+point, more food dulls the senses and drains energy. Stopping at
+“enough” nurtures both body and spirit, keeping pleasure sharp and
+refreshing.</p></li>
+</ul>
+</section>
+<section id="reflections-points-for-the-continent-gluttonous">
+<h2>Reflections points for the continent gluttonous<a class="headerlink" href="#reflections-points-for-the-continent-gluttonous" title="Link to this heading">#</a></h2>
+<p>Take some time to reflect on the long term consequences of your choices.</p>
+<ul class="simple">
+<li><p>Eating and drinking beyond your body’s need leaves you sluggish and
+sick. Days are heavy, short-tempered, and joyless, even with the
+people who matter most. <strong>Gluttony steals the strength that makes
+life worth savoring.</strong></p></li>
+<li><p>Your constant overindulgence strains your heart, liver, and stomach.
+The illnesses that follow do not just burden you, they force your
+loved ones to watch you suffer and care for what could have been
+prevented. <strong>Excess today becomes pain for both you and those who
+love you tomorrow.</strong></p></li>
+<li><p>Spending freely on endless meals, snacks, and drinks drains your
+resources. What could have gone to your family’s needs or future
+security is eaten up with nothing lasting to show. <strong>Gluttony devours
+not only your health but your household’s stability.</strong></p></li>
+<li><p>Lack of restraint in consuming leaves others with less, and can drive
+them into quiet resentment. What should be community turns into
+rivalry, and trust is lost. <strong>Excess not only depletes your strength,
+it depletes your relationships.</strong></p></li>
+</ul>
+</section>
+<section id="reflections-points-for-the-gluttonous">
+<h2>Reflections points for the gluttonous<a class="headerlink" href="#reflections-points-for-the-gluttonous" title="Link to this heading">#</a></h2>
+<p>These are not distant warnings; they are familiar outcomes for those who
+persist in justifying gluttony. If you do not change your relationship
+with excess, these moments may find you.</p>
+<ul class="simple">
+<li><p><strong>Losing your health to preventable illness:</strong> Overeating and
+overdrinking lead to obesity, diabetes, heart disease, and liver
+damage. These are not rare, they are the natural fruits of unchecked
+appetite. <em>Do not wait until your body breaks under a weight it was
+never meant to carry.</em></p></li>
+<li><p><strong>Becoming a burden to those you love:</strong> When your health collapses,
+your family and friends may be forced into caretaking roles. The very
+people you love most will carry the consequences of your choices. <em>Do
+not wait until their compassion turns to sorrow and exhaustion.</em></p></li>
+<li><p><strong>Living in constant fatigue and discomfort:</strong> Excess drains your
+energy, slows your body, and dulls your mind. Daily tasks feel heavy,
+and joy is smothered by lethargy. <em>Do not wait until even small
+pleasures feel like labors you can no longer bear.</em></p></li>
+<li><p><strong>Wasting your resources on fleeting indulgence:</strong> Money poured into
+endless meals, drinks, and cravings leaves little for security,
+family needs, or generosity. Your wealth vanishes with nothing
+lasting to show. <em>Do not wait until regret is your only inheritance.</em></p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="charity.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Charity</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="circle.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Circle of morality</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Temperance</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#gluttony">Gluttony</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-temperance">Benefits of temperance</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#personal-benefits">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#community-benefits">Community Benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#benefits-of-gluttony-as-a-self-preservation-emotion">Benefits of gluttony as a self-preservation emotion</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Personal benefits</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Community benefits</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-continent-temperate">Tips for the continent temperate</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tips-for-the-incontinent-temperate">Tips for the incontinent temperate</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#invitations-for-the-incontinent-gluttonous">Invitations for the incontinent gluttonous</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-continent-gluttonous">Reflections points for the continent gluttonous</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reflections-points-for-the-gluttonous">Reflections points for the gluttonous</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>
