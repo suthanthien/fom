@@ -22,6 +22,6 @@ essential to human flourishing and happiness.
    :caption: Contents:
 
    virtues_and_vices_index.rst
-   circle.rst
+   circle_index.rst
    credits.rst
    contacts.rst

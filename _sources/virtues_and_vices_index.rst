@@ -13,3 +13,4 @@
    diligence.rst
    charity.rst
    temperance.rst
+   chastity.rst
