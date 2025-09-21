@@ -198,7 +198,7 @@ Here, there are some arguments for reflection and reconsideration.
    begins in private.
 
 **********************************************
- Reflections points for the continent lastful
+ Reflections points for the continent lustful
 **********************************************
 
 Take some time to reflect on the long-term consequences of your choices.
@@ -218,7 +218,7 @@ Take some time to reflect on the long-term consequences of your choices.
    responsibility and hardship.**
 
 ************************************
- Reflections points for the lastful
+ Reflections points for the lustful
 ************************************
 
 These are not mere possibilities — they are common crossroads for those

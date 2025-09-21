@@ -135,7 +135,7 @@ according to principles that preserve equality and fairness.
 -  *Logical test:* There is no conceptual contradiction in everyone
    respecting rights; the maxim is coherent.
 
--  *Practical test:* The purpose of the maximm upholding rights
+-  *Practical test:* The purpose of the maxim upholding rights
    universally, remains achievable when universalized, because
    respecting others’ rights does not prevent anyone from having their
    own rights respected.
@@ -329,7 +329,7 @@ guidelines for putting Kant’s principles into practice.
 
 In Kantian ethics, virtues can serve as valid maxims because they are
 grounded in reason and duty rather than contingent feelings or desires.
-When expressed as universalizable principles, virtues articulate ways in
+When expressed as universalized principles, virtues articulate ways in
 which rational beings can respect one another’s dignity and act
 consistently with moral law:
 
