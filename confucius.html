@@ -1,0 +1,686 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Confucius &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'confucius';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Credits" href="credits.html" />
+    <link rel="prev" title="Immanuel Kant" href="kant.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="charity.html">Charity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="temperance.html">Temperance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="chastity.html">Chastity</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="circle_index.html">Circle of morality</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="circle.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kant.html">Immanuel Kant</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Confucius</a></li>
+
+
+
+
+
+
+
+
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/confucius.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Confucius</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Confucius</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#harmony">Harmony</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#righteousness">Righteousness</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#benevolence">Benevolence</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#rituals">Rituals</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#filial-pity">Filial pity</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#self-cultivation">Self-cultivation</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#circle-of-morality">Circle of morality</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#confucius-moral-guidelines">Confucius moral guidelines</a></li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="confucius">
+<h1>Confucius<a class="headerlink" href="#confucius" title="Link to this heading">#</a></h1>
+<p>Confucius (551–479 BCE) was a Chinese philosopher, teacher, and
+political thinker whose ideas shaped Chinese civilization and much of
+East Asia. Born in the state of Lu (modern-day Shandong province),
+Confucius devoted his life to teaching moral cultivation, proper
+governance, and social harmony.</p>
+<p>Although he never wrote books himself, his disciples compiled his
+teachings in the Analects, completed after his death around the 5th–4th
+century BCE. Other works associated with the Confucian tradition, such
+as the Book of Rites, Doctrine of the Mean, and Great Learning, further
+systematized his ethical vision.</p>
+<p>Between 206 BCE and 220 CE, Confucianism is established as state
+philosophy, embedding his ethics in law and education.</p>
+</section>
+<section id="harmony">
+<h1>Harmony<a class="headerlink" href="#harmony" title="Link to this heading">#</a></h1>
+<p>Confucius provides an account of the ethical traditions of his time,
+describing how behavior commonly understood as moral contributed to
+positive outcomes such as social stability, balance, and cooperative
+relationships.</p>
+<p>The concept of He (harmony) was originally associated with harmony in
+music. Confucius elevates this idea to the social sphere, teaching that
+true harmony is not uniformity. It does not mean that everyone produces
+the same sound; rather, diversity contributes to a greater whole, where
+all parts combine effectively. However, achieving such societal harmony
+requires that both citizens and rulers display virtuous moral behavior.</p>
+<p>Harmony depends on avoiding extremes in conduct and practicing proper
+emotional regulation. A noble person should not be considered noble
+merely by birth, but by exhibiting moral excellence. In his teachings,
+Confucius redefines the Junzi (traditionally a noble person by birth) to
+include this moral dimension. The Junzi serves as a role model for
+others, encouraging widespread ethical behavior.</p>
+</section>
+<section id="righteousness">
+<h1>Righteousness<a class="headerlink" href="#righteousness" title="Link to this heading">#</a></h1>
+<p>One key characteristic of moral behavior in Confucian ethics is Yi
+(righteousness or integrity). Yi is the disposition to prioritize moral
+duty over personal gain.</p>
+<p>Some concrete expressions of righteousness include:</p>
+<ul class="simple">
+<li><p>Choosing ethical action even if it brings no material gain or
+involves personal inconvenience.</p></li>
+<li><p>Correcting others courageously, but with respect and consideration.</p></li>
+<li><p>Advising rulers against unjust policies.</p></li>
+<li><p>Treating subjects fairly, avoiding favoritism, and enforcing justice
+impartially.</p></li>
+</ul>
+</section>
+<section id="benevolence">
+<h1>Benevolence<a class="headerlink" href="#benevolence" title="Link to this heading">#</a></h1>
+<p>The second key characteristic of moral behavior in Confucian ethics is
+Ren (humaneness or benevolence). Ren is the disposition to show care,
+compassion, and goodwill toward others.</p>
+<p>Some concrete expressions of benevolence include:</p>
+<ul class="simple">
+<li><p>Showing empathy in daily interactions through attentive listening and
+careful speech.</p></li>
+<li><p>Practicing self-control, especially over anger, to prevent harm to
+others.</p></li>
+<li><p>Acting with sincerity in friendships and diligence in carrying out
+responsibilities.</p></li>
+<li><p>Correcting mistakes gently, in ways that preserve the dignity of the
+person being corrected.</p></li>
+<li><p>Respecting the silver rule: “Do not impose on others what you
+yourself do not desire.”</p></li>
+</ul>
+</section>
+<section id="rituals">
+<h1>Rituals<a class="headerlink" href="#rituals" title="Link to this heading">#</a></h1>
+<p>Cultivating benevolence and righteousness is possible only through the
+consistent practice of Li (rituals), which teach, reinforce, and embody
+these dispositions.</p>
+<p>Confucius illustrates the moral and social function of ritual through a
+wide range of traditions and practices:</p>
+<ul class="simple">
+<li><p><strong>Sacrifices to Heaven and Earth:</strong> Rulers performed elaborate rites
+to uphold cosmic harmony and political legitimacy. These ceremonies
+cultivated humility and gratitude, reminding rulers of their
+dependence on Heaven and their duty to govern justly in service of
+the people.</p></li>
+<li><p><strong>Court ceremonies:</strong> Formalized greetings, banquets, and
+hierarchical protocols in dealings with superiors or envoys fostered
+respect and restraint. Such practices trained officials to honor the
+dignity of others and promoted fairness by treating people according
+to their role.</p></li>
+<li><p><strong>Investiture and appointment rites:</strong> Rituals for granting office,
+receiving mandates, or bestowing titles emphasized that political
+authority is a responsibility an office held in service to the
+people.</p></li>
+<li><p><strong>Filial piety rituals:</strong> Daily gestures of respect toward parents,
+such as greetings, service, and deference. These practices train
+individuals to see the well-being of others, beginning with family,
+as inseparable from their own, laying the groundwork for extending
+kindness outward into society.</p></li>
+<li><p><strong>Ancestral offerings:</strong> Food, incense, and libations offered to
+deceased relatives. The ritual fosters a sense of shared humanity
+across time, encouraging gratitude and a compassionate recognition of
+how one’s life depends on others, both living and departed.</p></li>
+<li><p><strong>Funerary and mourning rituals:</strong> Extended mourning periods,
+specific garments, and regulated expressions of grief. These
+practices refine the capacity to feel deeply with others. Benevolence
+here takes shape as genuine solidarity in sorrow, strengthening bonds
+of compassion within the community</p></li>
+<li><p><strong>Marriage rites:</strong> A multi-step process of betrothal, dowry
+exchange, and ceremonial union. By binding households together,
+marriage rites teach benevolence as a commitment to shared life,
+where fidelity and fairness in intimate relationships become the
+basis for harmony in society.</p></li>
+<li><p><strong>Seasonal sacrifices:</strong> Spring and autumn ceremonies marking
+planting and harvest. These ceremonies cultivate benevolence by
+fostering gratitude for shared sustenance and reinforcing the duty to
+care for others, since survival and flourishing are never individual
+achievements but collective ones.</p></li>
+<li><p><strong>Offerings to spirits of mountains and rivers:</strong> Rites honoring
+local deities and natural forces. These rites teach respect for the
+environment as a partner in human life, awakening compassion that
+reaches beyond social bonds to embrace the broader harmony of
+creation.</p></li>
+<li><p><strong>Forms of greeting:</strong> Bows, gestures, and respectful language
+appropriate to status. They teach attentiveness and respect in even
+the smallest interactions, cultivating the habit of recognizing the
+worth of every person.</p></li>
+<li><p><strong>Banquet etiquette:</strong> Rules of seating, order of serving, and
+conduct at communal meals. They foster generosity and fairness,
+reminding participants that communal enjoyment depends on disciplined
+attention to the needs of all.</p></li>
+<li><p><strong>Dress codes:</strong> Prescribed clothing by rank, season, and occasion.
+By learning to dress in harmony with time, place, and role,
+individuals are taught to practice self-restraint and to express care
+for the social fabric.</p></li>
+<li><p><strong>Speech etiquette:</strong> Modesty and careful phrasing in daily
+conversation. By adopting the practice, people learn to balance
+honesty with kindness.</p></li>
+</ul>
+</section>
+<section id="filial-pity">
+<h1>Filial pity<a class="headerlink" href="#filial-pity" title="Link to this heading">#</a></h1>
+<p>Xiao (filial piety) is the affection, respect, and reverence that
+children nurture toward their parents. It provides the emotional
+foundation for following parental guidance and observing family rituals.
+Filial piety is cultivated and expressed through ritual practice, and
+the disposition formed within the family extends outward into society,
+shaping relationships of respect and harmony in the wider world.</p>
+<p>At the same time, filial piety does not mean blind obedience. Genuine
+respect requires sincerity but also discernment. If parents act wrongly,
+a filial child should remonstrate gently, offering correction with
+humility. Yet if the advice is not accepted, the child neither insists
+nor rebels, but continues to show respect and refrains from open
+opposition.</p>
+</section>
+<section id="self-cultivation">
+<h1>Self-cultivation<a class="headerlink" href="#self-cultivation" title="Link to this heading">#</a></h1>
+<p>Xiūshēn (self-cultivation) is the ongoing effort to refine one’s moral
+character through reflection, learning, and disciplined practice. It
+develops the inner capacities necessary for ethical living. Through
+self-cultivation, an individual internalizes filial piety toward
+parents, recognizes the importance of rituals and observes them
+sincerely, strengthens the practice of humaneness, and cultivates the
+resolve to follow righteousness.</p>
+<p>Confucius provides several concrete practices to cultivate oneself:</p>
+<ul class="simple">
+<li><p><strong>Reflection on actions and motives:</strong> Regularly examine one’s own
+behavior to identify moral shortcomings and opportunities for
+improvement.</p></li>
+<li><p><strong>Lifelong learning:</strong> Study the classics, observe virtuous models,
+and seek guidance from teachers and elders.</p></li>
+<li><p><strong>Observing rituals:</strong> Use rituals as opportunities to practice
+respect, propriety, and attentiveness.</p></li>
+</ul>
+</section>
+<section id="circle-of-morality">
+<h1>Circle of morality<a class="headerlink" href="#circle-of-morality" title="Link to this heading">#</a></h1>
+<p>According to Confucius, filial piety and ritual observance are among a
+person’s foremost obligations. An individual must honor their parents
+and show respect through proper etiquette. At the same time, Confucius
+emphasizes the importance of role models. When parents respect their
+elders and uphold ritual practices, children naturally learn through the
+lived experience of family life. Likewise, when rulers and elders embody
+these practices, they provide others with the opportunity to learn.
+Through repeated practice and social interaction, people gradually come
+to grasp the deeper meaning of these rituals, and practice itself is
+transformed into internalized benevolence and integrity.</p>
+<p>Thus, Confucian ethics can be understood as an ethics of tradition.
+People acquire traditions through their lived experience within society,
+and they carry a moral obligation to uphold them. Over time, through
+self-cultivation and practice, they come to recognize that the
+traditions themselves embody universal principles of morality.</p>
+</section>
+<section id="confucius-moral-guidelines">
+<h1>Confucius moral guidelines<a class="headerlink" href="#confucius-moral-guidelines" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p><strong>Be filial:</strong> Care for parents’ well-being (health, emotional
+support). Spend regular time with family and show appreciation for
+their efforts. Uphold family traditions and remember ancestors.</p></li>
+<li><p><strong>Follow rituals:</strong> Observe social etiquette: politeness, greetings,
+gratitude. Take part in meaningful family or community rituals
+(festivals, ceremonies). Show respect in professional and public
+settings (e.g., attentive listening, appropriate dress, banquet
+etiquette).</p></li>
+<li><p><strong>Practice Benevolence:</strong> Listen actively and try to understand
+others’ feelings. Offer help to those in need, even in small ways
+(sharing, comforting, volunteering). Avoid harsh speech; use words
+that encourage.</p></li>
+<li><p><strong>Follow the silver rule:</strong> Before acting, ask yourself: Would I want
+this done to me? Refrain from gossip, exploitation, or unfair
+criticism. Show consideration in daily interactions (e.g., giving
+others space, respecting their time).</p></li>
+<li><p><strong>Be righteous:</strong> Choose fairness over convenience or profit. Speak
+up when witnessing injustice, even if it’s unpopular, but remain
+respectful to parents and elders. Avoid compromising integrity for
+personal advantage.</p></li>
+<li><p><strong>Cultivate virtues:</strong> Seek knowledge and wisdom through study and
+reflection. Acknowledge mistakes and learn from them.</p></li>
+<li><p><strong>Seek harmony:</strong> Accept diversity, work toward solutions that
+benefit all, not just yourself. Avoid unnecessary conflicts; when
+disagreements arise, seek respectful dialogue. Balance personal needs
+with the well-being of the group.</p></li>
+<li><p><strong>Lead by virtue:</strong> If in a leadership role, be transparent, fair,
+and compassionate. Set an example by embodying the values you expect
+from others.</p></li>
+</ul>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="kant.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Immanuel Kant</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="credits.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Credits</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Confucius</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#harmony">Harmony</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#righteousness">Righteousness</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#benevolence">Benevolence</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#rituals">Rituals</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#filial-pity">Filial pity</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#self-cultivation">Self-cultivation</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#circle-of-morality">Circle of morality</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#confucius-moral-guidelines">Confucius moral guidelines</a></li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>
