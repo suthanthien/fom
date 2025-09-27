@@ -17,9 +17,9 @@ systematized his ethical vision.
 Between 206 BCE and 220 CE, Confucianism is established as state
 philosophy, embedding his ethics in law and education.
 
-#########
+*********
  Harmony
-#########
+*********
 
 Confucius provides an account of the ethical traditions of his time,
 describing how behavior commonly understood as moral contributed to
@@ -40,9 +40,9 @@ Confucius redefines the Junzi (traditionally a noble person by birth) to
 include this moral dimension. The Junzi serves as a role model for
 others, encouraging widespread ethical behavior.
 
-###############
+***************
  Righteousness
-###############
+***************
 
 One key characteristic of moral behavior in Confucian ethics is Yi
 (righteousness or integrity). Yi is the disposition to prioritize moral
@@ -57,9 +57,9 @@ Some concrete expressions of righteousness include:
 -  Treating subjects fairly, avoiding favoritism, and enforcing justice
    impartially.
 
-#############
+*************
  Benevolence
-#############
+*************
 
 The second key characteristic of moral behavior in Confucian ethics is
 Ren (humaneness or benevolence). Ren is the disposition to show care,
@@ -78,9 +78,9 @@ Some concrete expressions of benevolence include:
 -  Respecting the silver rule: “Do not impose on others what you
    yourself do not desire.”
 
-#########
+*********
  Rituals
-#########
+*********
 
 Cultivating benevolence and righteousness is possible only through the
 consistent practice of Li (rituals), which teach, reinforce, and embody
@@ -160,9 +160,9 @@ wide range of traditions and practices:
    conversation. By adopting the practice, people learn to balance
    honesty with kindness.
 
-#############
+*************
  Filial pity
-#############
+*************
 
 Xiao (filial piety) is the affection, respect, and reverence that
 children nurture toward their parents. It provides the emotional
@@ -178,9 +178,9 @@ humility. Yet if the advice is not accepted, the child neither insists
 nor rebels, but continues to show respect and refrains from open
 opposition.
 
-##################
+******************
  Self-cultivation
-##################
+******************
 
 Xiūshēn (self-cultivation) is the ongoing effort to refine one’s moral
 character through reflection, learning, and disciplined practice. It
@@ -202,9 +202,9 @@ Confucius provides several concrete practices to cultivate oneself:
 -  **Observing rituals:** Use rituals as opportunities to practice
    respect, propriety, and attentiveness.
 
-####################
+********************
  Circle of morality
-####################
+********************
 
 According to Confucius, filial piety and ritual observance are among a
 person’s foremost obligations. An individual must honor their parents
@@ -223,9 +223,9 @@ and they carry a moral obligation to uphold them. Over time, through
 self-cultivation and practice, they come to recognize that the
 traditions themselves embody universal principles of morality.
 
-############################
+****************************
  Confucius moral guidelines
-############################
+****************************
 
 -  **Be filial:** Care for parents’ well-being (health, emotional
    support). Spend regular time with family and show appreciation for
