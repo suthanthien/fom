@@ -8,3 +8,4 @@
 
    circle.rst
    kant.rst
+   confucius.rst
