@@ -349,9 +349,7 @@ internal patterns, history, and continuity of their relationships.
 
 Therefore, inclusion is a moral act because it enables the active
 preservation of relational continuity, allowing partners to hold one
-another’s identities with care and responsiveness. Conversely, exclusion
-constitutes an ethical harm, as it undermines the conditions that allow
-continuity to persist.
+another’s identities with care and responsiveness.
 
 Examples of inclusion:
 
