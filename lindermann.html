@@ -1,0 +1,828 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Hilde Lindermann &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'lindermann';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Credits" href="credits.html" />
+    <link rel="prev" title="Immanuel Kant" href="kant.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="charity.html">Charity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="temperance.html">Temperance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="chastity.html">Chastity</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="circle_index.html">Circle of morality</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="circle.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="confucius.html">Confucius</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kant.html">Immanuel Kant</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Hilde Lindermann</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/lindermann.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Hilde Lindermann</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#relational-continuity">Relational continuity</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dependency-and-agency">Dependency and Agency</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#from-situated-experiences-to-habits">From situated experiences to habits</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#universal-rules">Universal rules</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#virtues">Virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#inclusion">Inclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lindermann-moral-guidelines">Lindermann moral guidelines</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="hilde-lindermann">
+<h1>Hilde Lindermann<a class="headerlink" href="#hilde-lindermann" title="Link to this heading">#</a></h1>
+<p>Hilde Lindemann (born in 1950) is an American philosopher and
+bioethicist renowned for her work on feminist ethics, narrative ethics,
+and relational approaches to moral philosophy. She has focused on the
+intersection of ethics, identity, and social justice, emphasizing how
+our relationships and social contexts shape moral obligations.</p>
+<p>Her works on ethics include:</p>
+<ul class="simple">
+<li><p><strong>An Invitation to Feminist Ethics</strong>. This collection contains
+Lindemann’s framing essay on feminist approaches to moral theory.</p></li>
+<li><p><strong>Holding and Letting Go: The Social Practice of Personal
+Identities:</strong> The book explores the ethical practice of “holding”
+identities in relationships, and the responsibility to sustain or
+release them when appropriate.</p></li>
+</ul>
+<section id="relational-continuity">
+<h2>Relational continuity<a class="headerlink" href="#relational-continuity" title="Link to this heading">#</a></h2>
+<p>Lindemann argues that the morality of an action depends on whether it
+sustains the continuity of relationships between people.</p>
+<p>Relationships are shaped through <strong>lived experiences</strong>, such as:</p>
+<ul class="simple">
+<li><p><strong>Repeated interactions:</strong> Daily routines, caregiving, conversations,
+and shared challenges that build mutual understanding.</p></li>
+<li><p><strong>Mutual responsiveness:</strong> Attending to one another’s needs,
+emotions, and reactions.</p></li>
+<li><p><strong>Negotiation and adaptation:</strong> Working through conflicts,
+compromises, and adjustments to define and fulfill obligations.</p></li>
+<li><p><strong>Storytelling and reflection:</strong> Sharing experiences and reflecting
+on the past, which codifies understanding and creates shared moral
+norms.</p></li>
+</ul>
+<p>As relationships evolve, they accumulate a history of interactions. Over
+time, partners learn patterns of behavior, build trust, and gain insight
+into each other’s preferences and values. This knowledge forms a
+foundation of shared understanding and mutual expectations, which
+together create a <strong>relational identity</strong>.</p>
+<p><strong>Relational continuity</strong> refers to the smooth development of the
+relational identity through stages that are perceived to be coherently
+connected by all partners. When continuity is preserved, individuals
+feel recognized, respected, and cared for, and trust grows stronger over
+time. By contrast, breaking continuity erodes trust and may be
+experienced as betrayal or abandonment. Continuity can take different
+forms: it may involve preserving familiar patterns, adapting roles as
+circumstances shift, or, at times, letting go of the relationship
+responsibly. What matters morally is that such transitions are managed
+through recognition and responsiveness.</p>
+<p>Preserving relational continuity is a moral act, an expression of
+respect for one’s partner and a commitment to the shared identity. It is
+maintained through:</p>
+<ul class="simple">
+<li><p><strong>Responsiveness:</strong> Attending to the other’s needs, emotions, and
+cues.</p></li>
+<li><p><strong>Consistency:</strong> Fulfilling expectations reliably and showing up over
+time.</p></li>
+<li><p><strong>Recognition:</strong> Affirming the other as the same person with whom one
+shares a history, even amid changing circumstances (e.g., illness).</p></li>
+<li><p><strong>Adaptation:</strong> Adjusting roles and responsibilities as the
+relationship develops (e.g., an adult child caring for an aging
+parent).</p></li>
+<li><p><strong>Communication:</strong> Sustaining togetherness through shared stories,
+affirmations, and dialogue.</p></li>
+</ul>
+<p>Conversely, continuity is broken by:</p>
+<ul class="simple">
+<li><p><strong>Neglect:</strong> Ignoring the other’s needs.</p></li>
+<li><p><strong>Betrayal:</strong> Violating trust through broken promises or actions that
+disregard dignity.</p></li>
+<li><p><strong>Objectification:</strong> Reducing the other to a task, burden, or
+abstract “case” rather than treating them as a partner.</p></li>
+<li><p><strong>Abrupt withdrawal:</strong> Ending contact or failing to honor the shared
+history.</p></li>
+<li><p><strong>Disregarding narrative identity:</strong> Ignoring the embedded history
+and treating the relationship as if it had no past.</p></li>
+</ul>
+</section>
+<section id="dependency-and-agency">
+<h2>Dependency and Agency<a class="headerlink" href="#dependency-and-agency" title="Link to this heading">#</a></h2>
+<p><strong>Dependency</strong> arises when one person relies on another for support,
+care, or well-being. It is a natural aspect of many relationships, such
+as those between parents and children, caregivers and patients, or
+mentors and mentees.</p>
+<p><strong>Agency</strong> is the capacity to act intentionally, make choices, and
+influence outcomes. Even when someone is partially dependent, they
+retain some degree of agency: the ability to express preferences, make
+decisions, or assert autonomy.</p>
+<p>When a relationship involves dependency, it is ethically important to
+respect both partners’ choices and capacities, even in moments of
+vulnerability. Moral responsibility lies in balancing two demands:
+addressing the dependent partner’s needs while also upholding their
+agency as much as possible. The <strong>continuity</strong> of the relationship
+becomes the central ethical measure, with morality judged by how well
+this balance maintains connection and mutual recognition.</p>
+<p>Examples:</p>
+<ul class="simple">
+<li><p><strong>Parent–child:</strong> The child relies on the parent for care, yet
+expresses preferences and learns decision-making; the parent responds
+by guiding without overcontrolling.</p></li>
+<li><p><strong>Friendship:</strong> A friend may rely on support during a crisis but
+chooses whether to confide or accept help; the other friend respects
+timing, privacy, and willingness.</p></li>
+<li><p><strong>Doctor–patient:</strong> The patient depends on medical care yet consents
+to treatment; the doctor ensures safety while respecting informed
+consent.</p></li>
+<li><p><strong>Mentorship–mentee:</strong> The mentee depends on guidance but decides how
+to act on advice; the mentor offers feedback while allowing
+independent judgment.</p></li>
+<li><p><strong>Romantic partnership:</strong> One partner may rely on emotional,
+practical, or financial support; the other respects boundaries and
+negotiates compromises to preserve autonomy.</p></li>
+<li><p><strong>Neighbors:</strong> Occasional reliance for assistance is balanced by
+respecting privacy; help is offered when possible but without
+overstepping.</p></li>
+</ul>
+</section>
+<section id="from-situated-experiences-to-habits">
+<h2>From situated experiences to habits<a class="headerlink" href="#from-situated-experiences-to-habits" title="Link to this heading">#</a></h2>
+<p>Every interaction in a relationship, whether routine or extraordinary,
+contributes to a shared record of experience and forms habits and
+expectations. Over time, these experiences do:</p>
+<ul class="simple">
+<li><p>teach each person what to expect from the other.</p></li>
+<li><p>establish patterns of response.</p></li>
+<li><p>form an implicit moral grammar that guides the relationship.</p></li>
+</ul>
+<p>Examples:</p>
+<ul class="simple">
+<li><p><strong>Parent–child relationship:</strong></p>
+<ul>
+<li><p><em>Lived experiences</em>: A parent consistently comforts the child
+during nightmares, attends school events, and listens to worries.</p></li>
+<li><p><em>Expectations</em>: The child expects protection and emotional
+support, while the parent expects trust, affection, and respect.</p></li>
+</ul>
+</li>
+<li><p><strong>Friendship:</strong></p>
+<ul>
+<li><p><em>Lived experiences</em>: Friends share confidences, celebrate
+successes, and support one another through hardships.</p></li>
+<li><p><em>Expectations</em>: Each friend expects loyalty, reliability, and
+confidentiality, as well as a balance between giving and receiving
+support.</p></li>
+</ul>
+</li>
+<li><p><strong>Doctor–Patient Relationship:</strong></p>
+<ul>
+<li><p><em>Lived experiences</em>: Repeated visits in which the doctor listens
+carefully, respects confidentiality, and explains treatment
+options clearly.</p></li>
+<li><p><em>Expectations</em>: The patient expects trust, privacy, attentive
+listening, and honest advice, while the doctor expects disclosure
+of relevant information and cooperation.</p></li>
+</ul>
+</li>
+<li><p><strong>Workplace Mentorship:</strong></p>
+<ul>
+<li><p><em>Lived experiences:</em> A mentor provides constructive feedback,
+advocates for opportunities, and models professional integrity.</p></li>
+<li><p><em>Expectations:</em> The mentee expects guidance, honesty, and
+reliability; the mentor expects effort, receptiveness, and
+professionalism.</p></li>
+</ul>
+</li>
+<li><p><strong>Romantic Partnership:</strong></p>
+<ul>
+<li><p><em>Lived experiences:</em> Partners share daily routines, resolve
+conflicts with care, and affirm one another through affection and
+support.</p></li>
+<li><p><em>Expectations:</em> Partners expect fidelity, emotional availability,
+and respect, as well as conflict resolution within the framework
+of loyalty and love.</p></li>
+</ul>
+</li>
+<li><p><strong>Neighborly Relationship:</strong></p>
+<ul>
+<li><p><em>Lived experiences:</em> Neighbors greet each other, help with small
+tasks (such as collecting mail), and look out for one another’s
+safety.</p></li>
+<li><p><em>Expectations:</em> Neighbors expect civility, fairness, and
+occasional helpfulness, along with respect for boundaries and
+property.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="universal-rules">
+<h2>Universal rules<a class="headerlink" href="#universal-rules" title="Link to this heading">#</a></h2>
+<p>Lindemann argues that ethics is grounded in preserving the continuity of
+relationships through lived experiences, rather than in the application
+of abstract rules. However, <strong>rule</strong> are not irrelevant, they are useful
+when understood in the context of the relationship. Their value lies in
+how they support, clarify, or safeguard continuity.</p>
+<p>Why rules remain useful:</p>
+<ul class="simple">
+<li><p><strong>Providing a framework for reflection:</strong> Relationships are complex,
+emotional, and often unpredictable. In difficult moments, abstract
+principles (such as respect autonomy) can provide orientation when
+relational instincts feel unclear.</p></li>
+<li><p><strong>Guarding against blind spots:</strong> Embedded histories can foster bias
+or neglect. Rules remind us of broader ethical standards that
+counteract harmful relational patterns.</p></li>
+<li><p><strong>Offering shared language:</strong> Rules supply a common vocabulary for
+discussing relational tensions and for articulating why certain
+actions threaten continuity.</p></li>
+<li><p><strong>Structuring institutions that support continuity:</strong> Many
+relationships, doctor–patient, teacher–student, mentor–mentee, are
+embedded in institutions. Ethical codes formalize expectations.</p></li>
+<li><p><strong>Acting as safeguards under stress:</strong> When emotions run high, people
+may act impulsively in ways that damage relationships. Rules provide
+guardrails that protect continuity in fragile moments.</p></li>
+<li><p><strong>Preventing unjust termination:</strong> Rules establish minimum
+obligations that must be honored before a relationship can end or be
+redefined.</p></li>
+</ul>
+<p>Illustrative examples:</p>
+<ul class="simple">
+<li><p><strong>Respect for autonomy:</strong> A teenager seeks more independence, but the
+parent continues to treat them as a small child. Invoking autonomy,
+the parent reflects: “My child has the right to make some decisions.”
+This shift from control to guidance preserves care while allowing the
+relationship to evolve into a more balanced family relationship.</p></li>
+<li><p><strong>Fairness and reciprocity:</strong> One friend dominates conversations,
+leaving the other feeling unheard. The overlooked friend appeals to
+fairness: “Our friendship should be mutual, not just about you.” The
+principle articulates the imbalance and opens space for repair.</p></li>
+<li><p><strong>Informed consent:</strong> A doctor dismisses a patient’s preferences,
+assuming they “know best.” The rule of informed consent requires the
+doctor to involve the patient in decisions.</p></li>
+<li><p><strong>Professional responsibility:</strong> A mentor frequently cancels
+meetings, leaving the mentee unsupported. The mentee invokes
+professional standards, reminding the mentor that guidance is part of
+their role.</p></li>
+<li><p><strong>Respect for boundaries:</strong> One partner feels smothered by constant
+demands for attention, while the other feels neglected when space is
+requested. Clarifying boundaries and expectations improves the
+relationship through healthier mutual respect.</p></li>
+<li><p><strong>Respect for rights:</strong> A neighbor repeatedly blocks another’s
+driveway, insisting it is “just temporary.” The affected neighbor
+appeals to fairness and property rights, framing the issue as one of
+mutual respect.</p></li>
+</ul>
+</section>
+<section id="virtues">
+<h2>Virtues<a class="headerlink" href="#virtues" title="Link to this heading">#</a></h2>
+<p>The virtues can be regarded as moral because they nurture and contribute
+to the preservation of relational continuity</p>
+<ul class="simple">
+<li><p><strong>Humility:</strong> Allows one to acknowledge limitations and mistakes,
+making space for forgiveness and repair. Prevents domination or
+arrogance, which could fracture mutual recognition. Strengthens
+adaptability by prioritizing the relationship over ego.</p></li>
+<li><p><strong>Kindness:</strong> Nurtures trust through everyday acts of care and
+attentiveness. Reinforces responsiveness, showing the other they are
+valued and seen. Softens conflicts, enabling smoother adaptation
+during challenges.</p></li>
+<li><p><strong>Patience:</strong> Provides stability during times of frustration, change,
+or slow growth in the relationship. Allows for repeated interactions
+to unfold without haste or resentment. Sustains consistency and
+resilience in the face of difficulties.</p></li>
+<li><p><strong>Diligence:</strong> Demonstrates commitment by showing up reliably and
+fulfilling responsibilities. Upholds consistency, which is central to
+preserving trust and shared identity. Ensures responsiveness does not
+fade over time due to neglect or complacency.</p></li>
+<li><p><strong>Charity:</strong> Grounds the relationship in self-giving concern for the
+other’s good. Motivates adaptation for the sake of the shared
+relationship. Enriches storytelling and reflection, creating a
+history of generosity and shared meaning.</p></li>
+<li><p><strong>Temperance:</strong> Regulates impulses that could disrupt trust. Protects
+continuity by preventing behaviors that might fracture respect or
+recognition. Enables balanced negotiation and compromise.</p></li>
+<li><p><strong>Chastity:</strong> Honors the dignity of the other, ensuring they are
+never objectified. Preserves continuity by safeguarding trust in
+contexts of intimacy and fidelity. Encourages responsible adaptation
+of relational roles without betrayal.</p></li>
+</ul>
+</section>
+<section id="inclusion">
+<h2>Inclusion<a class="headerlink" href="#inclusion" title="Link to this heading">#</a></h2>
+<p><strong>Inclusion</strong> refers to practices and attitudes that ensure individuals
+and groups are recognized, respected, and allowed to participate fully
+in social, institutional, and relational life. It is the opposite of
+exclusion, which marginalizes or silences people by denying them
+recognition, opportunities, or belonging.</p>
+<p>Inclusion involves:</p>
+<ul class="simple">
+<li><p><strong>Recognition:</strong> seeing someone as a full moral agent with a voice
+and identity.</p></li>
+<li><p><strong>Participation:</strong> ensuring that their perspectives and needs are
+taken into account in decisions and practices.</p></li>
+<li><p><strong>Equity:</strong> providing fair conditions so that differences (e.g.,
+disability, gender, culture) do not lead to disadvantage or
+marginalization.</p></li>
+</ul>
+<p><strong>Relational continuity</strong> does not exist in isolation; it is always
+embedded within broader social contexts. In this sense, inclusion is
+critical because the ability of partners to sustain relational
+continuity can be influenced by external actors. When external actors,
+such as institutions, social groups, or authorities, deny inclusion,
+they create pressures that the partners must navigate. The partners are
+now required to respond to expectations that may conflict with the
+internal patterns, history, and continuity of their relationships.</p>
+<p>Therefore, inclusion is a moral act because it enables the active
+preservation of relational continuity, allowing partners to hold one
+another’s identities with care and responsiveness. Conversely, exclusion
+constitutes an ethical harm, as it undermines the conditions that allow
+continuity to persist.</p>
+<p>Examples of inclusion:</p>
+<ul class="simple">
+<li><p><strong>Grandparent–grandchild:</strong> A community center provides translation
+services so a grandparent who speaks a different language can attend
+a grandchild’s school play. The grandparent–grandchild relationship
+is included and reinforced through the shared experience.</p></li>
+<li><p><strong>Caregivers:</strong> hospital has a patient recovering from surgery whose
+primary caregiver is their adult child. Instead of limiting medical
+updates to “spouses only,” the hospital recognizes the adult child as
+the key caregiver and includes them in medical consultations and care
+planning.</p></li>
+</ul>
+<p>Examples of exclusion:</p>
+<ul class="simple">
+<li><p><strong>Romantic partnership:</strong> During a hospital stay, only “immediate
+family” is permitted visitation, excluding a long-term unmarried
+partner. The exclusion undermines the couple’s shared history and
+care practices, forcing the included partner to choose between
+honoring the relationship and complying with institutional norms.</p></li>
+<li><p><strong>Workplace exclusion:</strong> An employee is repeatedly left out of
+after-work gatherings due to assumptions about their lifestyle.
+Informal bonds with colleagues fail to develop, damaging the trust
+and mutual recognition necessary for professional collaboration.</p></li>
+</ul>
+</section>
+<section id="lindermann-moral-guidelines">
+<h2>Lindermann moral guidelines<a class="headerlink" href="#lindermann-moral-guidelines" title="Link to this heading">#</a></h2>
+<p>For those seeking to apply Lindermann ethics, this list provides
+practical guidelines for putting Lindermanns’s principles into practice.</p>
+<ul class="simple">
+<li><p><strong>Prioritize relationships:</strong> Schedule regular time to connect with
+family, friends, and community. Make decisions with the impact on
+your relationships in mind. Check in with people affected by your
+choices and ask how they feel.</p></li>
+<li><p><strong>Understand context:</strong> Gather background information before making
+moral or professional decisions. Consider cultural norms, social
+pressures, and personal circumstances. Avoid one-size-fits-all
+solutions; tailor actions to the specific situation.</p></li>
+<li><p><strong>Honor personal identity:</strong> Respect others’ self-descriptions,
+pronouns, and chosen lifestyles. Support people in expressing
+themselves authentically. Reflect on how your own identity affects
+your ethical judgments.</p></li>
+<li><p><strong>Listen to narratives:</strong> Encourage people to share their stories
+before judging or acting. Practice active listening: focus fully,
+avoid interrupting, and summarize understanding. Use narratives to
+understand motivations, challenges, and moral implications.</p></li>
+<li><p><strong>Care and empathy:</strong> Ask yourself: “What would it feel like to be in
+their position?” Offer support through acts of kindness, attention,
+or advocacy. Make care a deliberate part of daily routines, not just
+emergencies.</p></li>
+<li><p><strong>Challenge abstraction:</strong> Apply ethical principles to real
+situations rather than treating them as rigid rules. Consider
+concrete outcomes and practical consequences of decisions. Use case
+studies or personal experiences to test moral reasoning.</p></li>
+<li><p><strong>Recognize social power dynamics:</strong> Identify who holds power in
+situations and how it affects fairness. Advocate for marginalized
+voices in conversations, policies, or workplaces. Reflect on how your
+own position may influence ethical choices.</p></li>
+<li><p><strong>Engage in mutual responsibility:</strong> Collaborate on decisions that
+affect shared spaces or communities. Take accountability for mistakes
+and repair relationships when harmed. Encourage dialogue about shared
+obligations and collective goals.</p></li>
+<li><p><strong>Foster inclusion:</strong> Invite diverse perspectives and genuinely
+consider them in decision-making. Challenge exclusionary practices in
+your environment. Support initiatives that amplify underrepresented
+voices.</p></li>
+<li><p><strong>Balance holding and letting go:</strong> Offer guidance or support without
+imposing control. Recognize when to step back to allow autonomy and
+growth. Reflect on when intervention is helpful versus overbearing.</p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="kant.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Immanuel Kant</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="credits.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Credits</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#relational-continuity">Relational continuity</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dependency-and-agency">Dependency and Agency</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#from-situated-experiences-to-habits">From situated experiences to habits</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#universal-rules">Universal rules</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#virtues">Virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#inclusion">Inclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lindermann-moral-guidelines">Lindermann moral guidelines</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>

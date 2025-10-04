@@ -7,5 +7,6 @@
    :caption: Contents:
 
    circle.rst
-   kant.rst
    confucius.rst
+   kant.rst
+   lindermann.rst
