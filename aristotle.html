@@ -1,0 +1,920 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Aristotle &#8212; FoM  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=8f2a1f02" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'aristotle';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Confucius" href="confucius.html" />
+    <link rel="prev" title="Introduction" href="circle.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search..."
+         aria-label="Search..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.svg" class="logo__image only-light" alt="FoM  documentation - Home"/>
+    <script>document.write(`<img src="_static/logo.svg" class="logo__image only-dark" alt="FoM  documentation - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="virtues_and_vices_index.html">Virtues and vices</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="virtues_and_vices.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="humility.html">Humility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kindness.html">Kindness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="patience.html">Patience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="diligence.html">Diligence</a></li>
+<li class="toctree-l2"><a class="reference internal" href="charity.html">Charity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="temperance.html">Temperance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="chastity.html">Chastity</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="circle_index.html">Circle of morality</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="circle.html">Introduction</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Aristotle</a></li>
+<li class="toctree-l2"><a class="reference internal" href="confucius.html">Confucius</a></li>
+<li class="toctree-l2"><a class="reference internal" href="kant.html">Immanuel Kant</a></li>
+<li class="toctree-l2"><a class="reference internal" href="lindermann.html">Hilde Lindermann</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="credits.html">Credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contacts.html">Contacts</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/aristotle.rst" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.rst</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Aristotle</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#flourishing">Flourishing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#moral-virtues">Moral virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#intellectual-virtues">Intellectual virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-wisdom">Practical wisdom</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-wisdom-in-practice">Practical wisdom in practice</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#aristotle-s-moral-guidelines">Aristotle’s moral guidelines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#traditions">Traditions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cardinal-virtues">Cardinal virtues</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="aristotle">
+<h1>Aristotle<a class="headerlink" href="#aristotle" title="Link to this heading">#</a></h1>
+<p>Aristotle (384–322 BCE) was an ancient Greek philosopher and polymath.
+He founded his own school in Athens, where he taught and conducted
+research in philosophy, science, logic, and ethics. Aristotle’s writings
+laid the foundation for much of Western philosophy and continue to
+influence ethical thought today.</p>
+<p>Aristotle wrote extensively on moral philosophy, and his ethical ideas
+are mainly found in two key works:</p>
+<ul class="simple">
+<li><p><strong>Nicomachean Ethics:</strong> Considered his most significant ethical
+treatise. It explores the nature of happiness and virtue, examining
+how humans can live the best possible life.</p></li>
+<li><p><strong>Eudemian Ethics:</strong> A similar work, overlapping in content with the
+Nicomachean Ethics. It provides additional insights into practical
+reasoning and the development of character.</p></li>
+</ul>
+<section id="flourishing">
+<h2>Flourishing<a class="headerlink" href="#flourishing" title="Link to this heading">#</a></h2>
+<p>In his works, Aristotle argues that moral behavior is that which enables
+the <strong>flourishing (Eudaimonia)</strong> of individuals within a community.</p>
+<p>The argument can be summarized as follows:</p>
+<ul class="simple">
+<li><p>Every being has a function: a characteristic activity that expresses
+its nature.</p></li>
+<li><p>Performing one’s function well constitutes the final end of life,
+pursued for its own sake; everything else is merely a means to this
+end.</p></li>
+<li><p>A good life for any being is therefore the successful performance of
+its function. Moral behavior is that which enables a good life by
+allowing one to fulfill this function well.</p></li>
+<li><p>For human beings, the characteristic function is rational activity
+expressed collectively: the ability to communicate, cooperate, and
+deliberate with others in pursuit of shared goals and understanding.</p></li>
+<li><p>Flourishing is the development and exercise of this collective
+rational function: becoming better at reasoning, communicating,
+collaborating and deciding together.</p></li>
+<li><p>Therefore, for humans, flourishing as rational individuals within a
+community is the ultimate moral goal.</p></li>
+</ul>
+<p>Flourishing involves the following practices:</p>
+<ul class="simple">
+<li><p>Cultivating thinking, reasoning, and debating as central parts of
+one’s life to contribute effectively to collective deliberation.</p></li>
+<li><p>Encouraging others to develop their own capacities for thinking,
+reasoning, and debate.</p></li>
+<li><p>Engaging with friends and family, supporting one another’s moral and
+intellectual development.</p></li>
+<li><p>Participating in political life and contributing to shared decisions
+that shape the community’s pursuit of the good.</p></li>
+</ul>
+<p>In the following, we use the term <strong>common good</strong> as a synonym for the
+flourishing of the community and the individuals within it.</p>
+</section>
+<section id="moral-virtues">
+<h2>Moral virtues<a class="headerlink" href="#moral-virtues" title="Link to this heading">#</a></h2>
+<p>Moral virtues are enduring excellencies of character that regulate a
+person’s desires, emotions, and actions so they accord with reason.</p>
+<ul class="simple">
+<li><p>They are cultivated through consistent practice and habituation,
+beginning in early life and strengthened through education, example,
+and repeated action.</p></li>
+<li><p>They are expressed within social contexts, such as relationships,
+friendships, civic participation, and communal life.</p></li>
+<li><p>Acting virtuously influences others and contributes both to the
+flourishing of the community and to the well-being of the individual
+within it.</p></li>
+</ul>
+<p>At their core, moral virtues involve finding the proper balance in one’s
+emotions, desires, and actions. Aristotle refers to this balance as the
+doctrine of the mean, according to which virtue lies between the
+extremes of excess and deficiency. This is a list of moral virtues
+included in Aristotle’s ethic:</p>
+<ul class="simple">
+<li><p><strong>Courage:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Recklessness – rushing into danger without regard for
+risk.</p></li>
+<li><p><em>Deficiency:</em> Cowardice – excessive fear that prevents one from
+acting when necessary.</p></li>
+<li><p><em>Balance:</em> A courageous person assesses danger rationally, acts
+when duty or justice demands it.</p></li>
+</ul>
+</li>
+<li><p><strong>Temperance:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Insensibility – rejecting natural pleasures to an
+unhealthy degree.</p></li>
+<li><p><em>Deficiency:</em> Overindulgence – surrendering to pleasure without
+restraint.</p></li>
+<li><p><em>Balance:</em> Temperance involves enjoying pleasures thoughtfully,
+taking what is good in measure, guided by health, reason, and
+respect for the common good.</p></li>
+</ul>
+</li>
+<li><p><strong>Generosity:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Prodigality – giving freely to others and neglecting own
+needs.</p></li>
+<li><p><em>Deficiency:</em> Stinginess – clinging to possessions and neglecting
+others’ needs.</p></li>
+<li><p><em>Balance:</em> Generosity uses one’s means wisely, giving freely when
+it benefits others or serves a worthy purpose.</p></li>
+</ul>
+</li>
+<li><p><strong>Magnificence:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Vulgarity – spending ostentatiously for display.</p></li>
+<li><p><em>Deficiency:</em> Meanness – avoiding necessary expenses in important
+matters.</p></li>
+<li><p><em>Balance:</em> Magnificence expresses greatness of spirit in large
+undertakings, spending with purpose, proportion, and good
+judgment.</p></li>
+</ul>
+</li>
+<li><p><strong>Magnanimity:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Vanity – claiming honors or recognition beyond one’s
+merit.</p></li>
+<li><p><em>Deficiency:</em> Undue humility – failing to acknowledge one’s
+genuine worth.</p></li>
+<li><p><em>Balance:</em> Magnanimity means accepting honors that rightly
+correspond to one’s virtues and achievements, neither exaggerating
+nor dismissing one’s own excellence.</p></li>
+</ul>
+</li>
+<li><p><strong>Patience:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Irascibility – anger that is quick, harsh, or
+disproportionate.</p></li>
+<li><p><em>Deficiency:</em> Apathy – indifference to genuine wrongdoing.</p></li>
+<li><p><em>Balance:</em> A good-tempered person feels anger only for just
+reasons and channels it calmly toward correction rather than
+retaliation.</p></li>
+</ul>
+</li>
+<li><p><strong>Truthfulness:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Boastfulness – exaggerating or inflating one’s qualities
+and achievements to impress others.</p></li>
+<li><p><em>Deficiency:</em> Self-deprecation – denying or diminishing one’s
+genuine qualities.</p></li>
+<li><p><em>Balance:</em> Truthfulness is sincerity in self-expression. The
+truthful person speaks plainly and authentically, showing one’s
+character and deeds without distortion.</p></li>
+</ul>
+</li>
+<li><p><strong>Wittiness:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Buffoonery – joking inappropriately or at others’
+expense.</p></li>
+<li><p><em>Deficiency:</em> Boorishness – lacking a sense of humor or social
+ease.</p></li>
+<li><p><em>Balance:</em> Wittiness engages others with tact and good sense,
+using humor to uplift conversation and foster connection without
+offense or vulgarity.</p></li>
+</ul>
+</li>
+<li><p><strong>Friendliness:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Obsequiousness – pleasing others excessively.</p></li>
+<li><p><em>Deficiency:</em> Quarrelsomeness – being habitually disagreeable or
+hostile.</p></li>
+<li><p><em>Balance:</em> Friendliness treats others with goodwill and respect,
+agreeing or disagreeing honestly while maintaining harmony and
+sincerity in social life.</p></li>
+</ul>
+</li>
+<li><p><strong>Justice:</strong></p>
+<ul>
+<li><p>Excess: Grasping advantage – taking more than one’s fair share of
+goods, honors, or benefits, often at the expense of others.</p></li>
+<li><p>Deficiency: Neglect of fairness – yielding one’s due in
+relationships or society.</p></li>
+<li><p>Balance: A just person takes and distributes goods,
+responsibilities, and recognition in proportion to merit or need,
+and respecting the rights of others as equal participants in a
+shared moral order.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="intellectual-virtues">
+<h2>Intellectual virtues<a class="headerlink" href="#intellectual-virtues" title="Link to this heading">#</a></h2>
+<p>Intellectual virtues are enduring excellencies of character that
+determine how a person thinks, and acts in relation to the physical
+world or the community. They can be regarded as mental skills,
+cultivated through study, reflection, experience, and habituation.
+Unlike moral virtues, intellectual virtues are not a mean between
+extremes; there is never too much of them.</p>
+<p>This is a list of intellectual virtues included in Aristotle’s ethic:</p>
+<ul class="simple">
+<li><p><strong>Art</strong></p>
+<ul>
+<li><p>The capacity to make or produce something according to rational
+principles. It involves skill, method, and knowledge of causes.
+Examples include architecture, medicine, and music.</p></li>
+<li><p><em>How to develop:</em> Art requires learning the rules and methods of
+one’s craft, observing how masters work, and improving through
+trial, error, and reflection.</p></li>
+</ul>
+</li>
+<li><p><strong>Practical Wisdom:</strong></p>
+<ul>
+<li><p>The ability to deliberate well about what is good and beneficial
+for oneself and the community. It applies moral principles to
+concrete situations and guides right action.</p></li>
+<li><p><em>How to develop:</em> Practical wisdom develops through lived
+experience, reflection, and dialogue. It grows by practicing moral
+virtues, learning from mistakes, and participating in shared
+reasoning within social and civic life.</p></li>
+</ul>
+</li>
+<li><p><strong>Scientific Knowledge:</strong></p>
+<ul>
+<li><p>Knowledge of necessary and universal truths, derived through
+demonstration and reasoning. It concerns truths that cannot be
+otherwise, such as those found in mathematics, logic, or physics.</p></li>
+<li><p><em>How to develop:</em> Scientific knowledge is cultivated by systematic
+study, questioning assumptions, and understanding causes rather
+than memorizing facts. It grows through disciplined inquiry,
+rigorous proof, and commitment to coherence and evidence</p></li>
+</ul>
+</li>
+<li><p><strong>Intuitive Reason:</strong></p>
+<ul>
+<li><p>The capacity to grasp first principles, the self-evident truths on
+which reasoning depends. It is immediate and non-discursive,
+rather than derived step by step.</p></li>
+<li><p><em>How to develop:</em> Intuitive reason is strengthened by careful
+observation, deep contemplation, and reflection on foundational
+truths. It develops through attentiveness and the habitual search
+for underlying causes, beyond surface appearances.</p></li>
+</ul>
+</li>
+<li><p><strong>Philosophical Wisdom:</strong></p>
+<ul>
+<li><p>The capacity to contemplate the ultimate causes and the highest
+realities, seeking knowledge of eternal truths.</p></li>
+<li><p><em>How to practice:</em> Philosophical wisdom is cultivated through
+sustained contemplation, study, and the love of truth for its own
+sake. It grows through reflection, and pursuit of understanding
+beyond immediate utility, aiming at the intellectual joy of
+grasping what is universally and eternally true.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="practical-wisdom">
+<h2>Practical wisdom<a class="headerlink" href="#practical-wisdom" title="Link to this heading">#</a></h2>
+<p>Practical wisdom (Phronesis) is the intellectual virtue that directs the
+application of moral virtues. It is the capacity to deliberate well
+about what is good, beneficial, and just in particular circumstances.
+Through practical wisdom, individuals translate moral understanding into
+effective action, making sound judgments that align with reason and
+promote the common good.</p>
+<p>Practical wisdom develops gradually through <strong>lived experience</strong>,
+reflection, and dialogue. Its development involves the following
+activities:</p>
+<ul class="simple">
+<li><p>Taking time to consider the consequences, benefits, and moral
+implications of choices.</p></li>
+<li><p>Learning from successes and mistakes to improve judgment in future
+situations.</p></li>
+<li><p>Observing how experienced individuals navigate ethical challenges.</p></li>
+<li><p>Discussing decisions with friends, mentors, or community members to
+refine judgment and understanding.</p></li>
+<li><p>Balancing personal goals with the welfare of others.</p></li>
+<li><p>Contributing to communal decision-making and the governance of the
+community.</p></li>
+<li><p>Anticipating how actions affect others and adjusting choices
+accordingly.</p></li>
+</ul>
+</section>
+<section id="practical-wisdom-in-practice">
+<h2>Practical wisdom in practice<a class="headerlink" href="#practical-wisdom-in-practice" title="Link to this heading">#</a></h2>
+<p>Here’s a list of examples showing practical wisdom applied to the
+exercise of moral virtues:</p>
+<ul class="simple">
+<li><p><strong>Courage:</strong> A firefighter must rescue someone from a burning
+building. Courage motivates the act, while practical wisdom guides
+deciding how to act in concert with the team, who should enter first,
+and how to coordinate efforts to protect both victims and colleagues.</p></li>
+<li><p><strong>Temperance:</strong> At a social gathering, a person wants to enjoy food
+and drink. Temperance restrains overindulgence, while practical
+wisdom helps judge how much is appropriate for the occasion, social
+expectations, and personal well-being.</p></li>
+<li><p><strong>Generosity:</strong> A colleague wants to help someone in need. Generosity
+motivates giving, while practical wisdom guides deciding when, how,
+and to what extent to give, balancing personal resources with the
+recipient’s actual needs.</p></li>
+<li><p><strong>Magnificence:</strong> A city council member plans a large community
+event. Magnificence inspires ambition, while practical wisdom helps
+determine the scale, timing, and structure of the event so it serves
+the community’s needs effectively, promotes shared enjoyment, and
+uses resources responsibly.</p></li>
+<li><p><strong>Magnanimity:</strong> A researcher receives public recognition.
+Magnanimity allows them to accept honor gracefully, while practical
+wisdom guides how to acknowledge collaborators, respond in speeches
+or interviews, and behave in a way that encourages trust and respect
+in the community.</p></li>
+<li><p><strong>Patience:</strong> A teacher faces a disruptive student. Good temper
+restrains anger, while practical wisdom helps decide whether to speak
+privately or publicly, how to address the behavior proportionately,
+and how to balance discipline with encouragement.</p></li>
+<li><p><strong>Truthfulness:</strong> An employee reports on a project’s progress.
+Truthfulness motivates honesty, while practical wisdom guides how to
+present setbacks or challenges constructively, when to raise issues,
+and how to communicate effectively with stakeholders.</p></li>
+<li><p><strong>Wittiness:</strong> A team leader wants to lighten the mood during a tense
+meeting. Wittiness allows humor, while practical wisdom helps decide
+what joke or comment is appropriate for the audience and context,
+when to interject it, and how to maintain respect.</p></li>
+<li><p><strong>Friendliness:</strong> A manager mediates a conflict between coworkers.
+Friendliness motivates kind interaction, while practical wisdom
+guides how to listen actively, balance fairness with empathy, and
+propose solutions that maintain positive relationships.</p></li>
+<li><p><strong>Justice:</strong> A judge must resolve a civil dispute. Justice motivates
+fairness, while practical wisdom helps weigh evidence, consider
+mitigating circumstances, and decide how best to apply rules to this
+specific situation.</p></li>
+</ul>
+</section>
+<section id="aristotle-s-moral-guidelines">
+<h2>Aristotle’s moral guidelines<a class="headerlink" href="#aristotle-s-moral-guidelines" title="Link to this heading">#</a></h2>
+<p>For those seeking to apply Aristotelian ethics, this list provides
+practical guidelines for putting Aristotle’s ideas into practice.</p>
+<ul class="simple">
+<li><p><strong>Aim to flourishing:</strong> Reflect regularly on whether your actions
+contribute to growth and well-being of yourself and your community.
+Make choices that develop your and other’s potential over time.</p></li>
+<li><p><strong>Seek the mean:</strong> Avoid extremes of excess and deficiency; virtue
+lies in moderation relative to us and the situation. Reflect after
+decisions: did you go too far or not far enough?</p></li>
+<li><p><strong>Develop moral habits:</strong> Repeat good actions until they become
+natural. Keep a journal to track moral progress and identify good
+patterns of behavior. Surround yourself with virtuous people who
+inspire good habits.</p></li>
+<li><p><strong>Cultivate practical wisdom:</strong> Observe and learn from people who
+make balanced, ethical decisions. Reflect on past experiences to
+improve future judgment. Avoid acting out of emotion alone,
+deliberate before deciding.</p></li>
+<li><p><strong>Value friendship and social relationships:</strong> Moral development
+occurs in community; cultivate friendships based on mutual respect
+and virtue. Contribute actively to your community: volunteer, listen,
+help others.</p></li>
+<li><p><strong>Balance self-interest with the common good:</strong> Pursue your own
+flourishing in a way that contributes to the well-being of the
+community.</p></li>
+<li><p><strong>Seek self-improvement:</strong> Seek continual self-improvement through
+reading, reflection, and dialogue. Encourage ethical discussions with
+friends, family, or students.</p></li>
+</ul>
+</section>
+<section id="traditions">
+<h2>Traditions<a class="headerlink" href="#traditions" title="Link to this heading">#</a></h2>
+<p>Aristotle’s ethics is fundamentally an ethics of <strong>situated
+experience</strong>. To act virtuously, one must engage with the world
+directly, interact with fellow community members, and cultivate the
+capacity to discern what is right, moral, and proper in concrete
+circumstances.</p>
+<p>Virtues must be practiced consistently until they become a stable
+disposition. When individuals practice virtuous actions in concert with
+others, these habits extend beyond the personal level. Recurrent,
+collectively practiced virtues can solidify into social <strong>traditions</strong>,
+guiding the community toward norms of behavior that sustain human
+flourishing.</p>
+<p>Am example of traditions deriving from Aristotle’s ethics are:</p>
+<ul class="simple">
+<li><p><strong>Democratic civil debate:</strong> Community members engage in open and
+respectful discussion, expressing and considering differing
+viewpoints to promote collective understanding and decision-making.</p></li>
+<li><p><strong>Education and mentorship:</strong> Experienced individuals guide others by
+sharing knowledge, skills, and moral insight, fostering
+intergenerational learning and personal growth.</p></li>
+<li><p><strong>Rituals of recognition:</strong> The community gathers to acknowledge and
+celebrate individual or collective achievements, contributions, and
+virtues, reinforcing shared values and social cohesion.</p></li>
+<li><p><strong>Civic participation:</strong> Citizens take an active role in public life
+by engaging in decision-making, volunteering, and collaborating to
+advance the common good.</p></li>
+</ul>
+</section>
+<section id="cardinal-virtues">
+<h2>Cardinal virtues<a class="headerlink" href="#cardinal-virtues" title="Link to this heading">#</a></h2>
+<p>For Aristotle, virtue lies in the mean between two extremes. Each vice
+represents an excess of some trait, while virtue finds the balanced
+point. Although one extreme is often recognized as a vice and the other
+not, Aristotle holds that both are morally defective, for neither leads
+to a flourishing life.</p>
+<p>The following is a description of the cardinal virtues according to the
+doctrine of the mean.</p>
+<ul class="simple">
+<li><p><strong>Humility:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Self-abasement – denying one’s own worth or talents,
+shrinking from rightful responsibility or recognition.</p></li>
+<li><p><em>Deficiency:</em> Pride – an inflated sense of self-importance that
+despises others and refuses correction.</p></li>
+<li><p><em>Balance:</em> The humble person has a just estimation of themselves,
+acknowledging both strengths and limitations, and giving credit to
+others where it is due.</p></li>
+</ul>
+</li>
+<li><p><strong>Kindness:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Obsequiousness – an excessive eagerness to please,
+giving aid or approval without discernment.</p></li>
+<li><p><em>Deficiency:</em> Envy – resentment of others’ good fortune and a
+refusal to rejoice in their happiness.</p></li>
+<li><p><em>Balance:</em> The kind person sincerely wishes others well, helps
+when fitting, and takes joy in the good of others.</p></li>
+</ul>
+</li>
+<li><p><strong>Patience:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Apathy – indifference to wrongs or delays, tolerating
+injustice and unfair treatment.</p></li>
+<li><p><em>Deficiency:</em> Wrath – uncontrolled anger that lashes out and seeks
+vengeance.</p></li>
+<li><p><em>Balance:</em> The patient person bears trials calmly, restrains
+anger, and responds to provocation with measured judgment.</p></li>
+</ul>
+</li>
+<li><p><strong>Diligence:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Overzealousness – a restless drive that ignores rest,
+proportion, or contemplation.</p></li>
+<li><p><em>Deficiency:</em> Sloth – a sluggish neglect of one’s duties and an
+aversion to effort or purpose.</p></li>
+<li><p><em>Balance:</em> The diligent person applies steady, purposeful effort
+to worthy tasks, balancing labor with proper rest and reflection.</p></li>
+</ul>
+</li>
+<li><p><strong>Charity:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Prodigality – giving or spending without limits,
+neglecting one’s responsibilities or enabling harm.</p></li>
+<li><p><em>Deficiency:</em> Greed – hoarding possessions or wealth, valuing
+material gain over moral good.</p></li>
+<li><p><em>Balance:</em> The charitable person gives generously and wisely,
+seeking the genuine good of others while maintaining due care for
+their own needs.</p></li>
+</ul>
+</li>
+<li><p><strong>Temperance:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Insensibility – rejecting pleasure altogether, despising
+the natural enjoyments.</p></li>
+<li><p><em>Deficiency:</em> Gluttony – overindulgence in food, and drink.</p></li>
+<li><p><em>Balance:</em> The temperate person enjoys pleasures in moderation,
+guided by reason and mindful of health, and harmony.</p></li>
+</ul>
+</li>
+<li><p><strong>Chastity:</strong></p>
+<ul>
+<li><p><em>Excess:</em> Prudishness – an excessive fear or shame of sexuality,
+denying its natural goodness and role in human affection.</p></li>
+<li><p><em>Deficiency:</em> Lust – uncontrolled desire that leads to treating
+others as objects for pleasure rather than persons to be loved.</p></li>
+<li><p><em>Balance:</em> The chaste person orders desire according to love,
+respect, and fidelity.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="circle.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Introduction</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="confucius.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Confucius</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#flourishing">Flourishing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#moral-virtues">Moral virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#intellectual-virtues">Intellectual virtues</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-wisdom">Practical wisdom</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#practical-wisdom-in-practice">Practical wisdom in practice</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#aristotle-s-moral-guidelines">Aristotle’s moral guidelines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#traditions">Traditions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cardinal-virtues">Cardinal virtues</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <div class="bd-footer">
+    <div class="bd-footer__inner bd-page-width">
+      <div class="footer-license" style="text-align: center; font-size: small; margin-top: 1em;">
+        © 2025 Suthan Thien. Licensed under a
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
+      </div>
+    </div>
+  </div>
+
+  </body>
+</html>
