@@ -11,3 +11,4 @@
    confucius.rst
    kant.rst
    lindermann.rst
+   ramose.rst
