@@ -23,5 +23,6 @@ essential to human flourishing and happiness.
 
    virtues_and_vices_index.rst
    circle_index.rst
+   religious_views.rst
    credits.rst
    contacts.rst
