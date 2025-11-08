@@ -7,3 +7,4 @@
    :caption: Contents:
 
    aquinas.rst
+   santideva.rst
