@@ -8,3 +8,4 @@
 
    aquinas.rst
    santideva.rst
+   al_ghazali.rst
