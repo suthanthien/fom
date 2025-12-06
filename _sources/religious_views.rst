@@ -10,3 +10,4 @@
    santideva.rst
    al_ghazali.rst
    ramanuja.rst
+   maimonides.rst
