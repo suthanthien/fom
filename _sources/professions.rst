@@ -12,3 +12,4 @@
    al_haytham.rst
    drucker.rst
    gandhi.rst
+   dewey.rst
