@@ -1,6 +1,6 @@
-################
- Perter Drucker
-################
+###############
+ Peter Drucker
+###############
 
 Peter F. Drucker (1909–2005) was one of the most influential management
 thinkers of the twentieth century and is widely regarded as the father
