@@ -13,3 +13,5 @@
    drucker.rst
    gandhi.rst
    dewey.rst
+   black_elk.rst
+   professions_conclusion.rst
