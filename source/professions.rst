@@ -7,6 +7,7 @@
    :caption: Contents:
 
    hippocrates.rst
+   nishikawa.rst
    smith.rst
    mozi.rst
    al_haytham.rst
