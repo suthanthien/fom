@@ -13,14 +13,15 @@ Professional ethics consistently calls for a commitment to the public
 good, or, at minimum, a balanced position in which both societal
 interests and personal interests are respected.
 
-Some thinkers place self-interest at the center of professional
-motivation and regard the welfare of the community as a practical
-necessity: without concern for others, a professional’s success and
-effectiveness would ultimately be undermined. Other thinkers define care
-for others as the primary purpose of the professional role. Despite
-these differences, both perspectives converge on a shared conclusion: a
+Almost all of the thinkers examined define care for others as the
+primary purpose of the professional role, seeing ethical conduct as
+grounded in fidelity to that purpose. Adam Smith is the notable
+exception: he places self-interest at the center of professional
+motivation and treats concern for others as a practical necessity,
+necessary to sustain one’s own effectiveness and success. Despite this
+difference, both perspectives converge on a shared conclusion: a
 professional’s capacity to function depends on the **trust granted by
-society**. Consequently, all agree that this trust must be respected and
+society.** Consequently, all agree that this trust must be respected and
 actively maintained through careful, competent, and ethical service.
 
 From this standpoint, **technical expertise** itself becomes a moral
@@ -85,3 +86,64 @@ behaviours:
 
 -  **Integrity:** Teach your craft and ethical conduct by example, and
    follow the rules you expect others to respect.
+
+***********
+ Sincerity
+***********
+
+Almost all of the thinkers examined agree on the central importance of
+the virtue of sincerity:
+
+-  **Sincerity:** remaining faithful to the true purpose of one’s
+   profession and resisting the distortion of that purpose by external
+   or purely instrumental motivations.
+
+There is one notable exception to this shared emphasis: the ethical
+thought of Adam Smith. Smith is unique in that he reverses the
+relationship between professional role and self-interest. The other
+thinkers share a tendency to ground ethical conduct in fidelity to
+professional purpose and treat profit as a natural consequence of work
+well performed. Although Smith does not deny the existence of moral
+motivation such as sympathy, approval, or concern for propriety, he
+takes self-interest as the primary driver of professional activity. In
+his framework, professional moral conduct emerges as an instrument that
+helps render self-interest sustainable and socially productive.
+
+Unlike the other thinkers, Smith did not base his ethical account on
+firsthand experience of professional practice; instead, he approached it
+from a systematic, philosophical perspective. From this vantage point,
+he developed a comprehensive account of how the wealth of nations is
+generated. Drawing on Enlightenment principles of reason and an
+evolutionary understanding of social processes, Smith portrays morality
+not as a starting point, but as an emergent outcome of repeated
+interactions among self-interested individuals.
+
+This account is coherent, yet it does not undermine the claim hat
+sincerity is central to the proper ethical functioning of a profession.
+Even if sincerity arises historically from repeated interactions aimed
+at securing a livelihood, it can nonetheless become internalized by a
+community as a principle worthy of affirmation in its own right.
+Sincerity encompasses several interrelated dimensions that, in many
+respects, are already present in Adam Smith’s portrayal of sympathy and
+concern for others: (1) the network of relationships that bind
+individuals together; (2) the trust required to sustain those
+relationships over time; (3) the aspiration toward purposes greater than
+mere self-preservation; and (4) an awareness of one’s own desires
+coupled with respect for the similar desires of others.
+
+Smith demonstrates that self-interest need not be condemned or
+suppressed by the state, since moral norms tend to emerge naturally from
+social interaction. His argument thus functions as a justification, at
+the level of political economy, for refraining from the imposition of
+rigid ethical laws. Moral judgment is largely left to society itself,
+which is expected to regulate conduct through shared norms and
+expectations. Nonetheless, Smith does not deny that ethical conduct
+pursued for its own sake is more effective and stable. Indeed, Smith
+ultimately acknowledges that unchecked self-interest can justify state
+intervention in certain circumstances, leading him to examine when such
+intervention is warranted and when it is not.
+
+Therefore, although Adam Smith does not explicitly advocate sincerity as
+a principle to be enforced through state-imposed ethical laws, he
+nonetheless would agree that society would function more effectively
+when sincerity is widely practiced and valued.
