@@ -138,10 +138,11 @@ the level of political economy, for refraining from the imposition of
 rigid ethical laws. Moral judgment is largely left to society itself,
 which is expected to regulate conduct through shared norms and
 expectations. Nonetheless, Smith does not deny that ethical conduct
-pursued for its own sake is more effective and stable. Indeed, Smith
-ultimately acknowledges that unchecked self-interest can justify state
-intervention in certain circumstances, leading him to examine when such
-intervention is warranted and when it is not.
+pursued for its own sake is more effective and stable; this claim lies
+outside the primary scope of his analysis. Indeed, Smith ultimately
+acknowledges that unchecked self-interest can justify state intervention
+in certain circumstances, leading him to examine when such intervention
+is warranted and when it is not.
 
 Therefore, although Adam Smith does not explicitly advocate sincerity as
 a principle to be enforced through state-imposed ethical laws, he
