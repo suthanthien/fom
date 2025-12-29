@@ -39,10 +39,8 @@ political and philosophical works:
 In a manner similar to Aristotle’s functional argument, Al-Farābī
 maintains that human beings ultimately seek happiness, understood as the
 perfection of their distinctive rational capacities. While pleasure is
-commonly pursued, it is unstable and its pursuit is shared with
-non-rational animals. What distinguishes human beings is their capacity
-for intellect and reason. True happiness, for Al-Farābī, lies in the
-full actualization of these capacities, culminating in intellectual
+commonly pursued, it is unstable. True happiness, for Al-Farābī, lies in
+the full actualization of reason, culminating in intellectual
 perfection. A moral life is therefore one oriented toward the
 **cultivation of the intellect** and the apprehension of truth.
 
@@ -122,6 +120,39 @@ direction of the entire political community. The ruler owes the
 community careful and informed decision-making, along with efforts to
 define the best policies and establish institutions that promote the
 virtuous development of its members toward happiness.
+
+*********
+ Virtues
+*********
+
+For Al-Farābī, a virtuous ruler cultivates virtues that guide action
+toward the common good and the flourishing of the community:
+
+-  **Practical wisdom:** A ruler discerns the needs and capacities of
+   citizens, anticipates the consequences of policies, and chooses
+   courses of action that align the organization of society with moral
+   and intellectual principles.
+
+-  **Justice:** A statesman distributes responsibilities, benefits, and
+   burdens according to each person’s role, ensuring that laws and
+   decisions maintain balance between individual and collective
+   interests.
+
+-  **Courage:** Even when faced with opposition or political danger, a
+   ruler enforces beneficial policies and stands by decisions that
+   promote the welfare of the community.
+
+-  **Temperance:** The ruler moderates personal desires and impulses,
+   making measured choices in both private conduct and public
+   governance.
+
+-  **Generosity:** By providing for the needs of citizens and supporting
+   communal projects, the ruler fosters trust, loyalty, and cohesion
+   within society.
+
+-  **Piety:** The statesman aligns governance with moral and spiritual
+   principles, ensuring that laws and policies reflect a higher ethical
+   order.
 
 ************************
  Philosophical guidance

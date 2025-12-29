@@ -9,3 +9,4 @@
    sun_tzu.rst
    cicero.rst
    al_farabi.rst
+   bentham.rst
