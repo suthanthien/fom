@@ -11,3 +11,4 @@
    al_farabi.rst
    machiavelli.rst
    bentham.rst
+   nishida.rst
