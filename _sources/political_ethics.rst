@@ -12,3 +12,5 @@
    machiavelli.rst
    bentham.rst
    nishida.rst
+   mbiti.rst
+   sen.rst
