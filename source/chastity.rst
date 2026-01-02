@@ -71,7 +71,7 @@ Community Benefits
    bonds built on fidelity and love.
 
 *************************************************
- Benefits of list as a self-preservation emotion
+ Benefits of lust as a self-preservation emotion
 *************************************************
 
 Personal benefits
