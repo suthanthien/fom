@@ -107,18 +107,19 @@ would make a community leader effective:
    acknowledge personal limitations, and defer to collective wisdom
    where appropriate.
 
--  **Honesty:** Leaders are committed to truthfulness in speech and
-   action as the basis of trust. They communicate openly, admit
-   mistakes, avoid deceit, and act transparently in communal affairs.
+-  **Trustworthiness:** Leaders act in ways that sustain trust within
+   the community. They speak and act reliably within their roles, and
+   ensure that communication serves social harmony.
 
 -  **Kindness:** Leaders promotes communal flourishing and eases the
    burdens of others. They attend carefully to grievances, favor
    reconciliation over punishment, and support initiatives that
    strengthen social cohesion.
 
--  **Faith:** Leaders are committed to their relationships, community,
-   and inherited traditions. They act in ways that align with communal
-   expectations and uphold the values embedded in shared practices.
+-  **Fidelity:** Leaders are committed to their relationships,
+   community, and inherited traditions. They act in ways that align with
+   communal expectations and uphold the values embedded in shared
+   practices.
 
 -  **Patience:** Leaders have the capacity to endure difficulty and
    conflict in the pursuit of lasting harmony. They mediate tensions
@@ -134,14 +135,6 @@ would make a community leader effective:
    community, and tradition. They model commitment through consistent
    participation, careful attention to communal affairs, and
    conscientious administration.
-
--  **Temperance:** Leaders practice self-restraint and avoid excess that
-   could disrupt social harmony. They enforce norms fairly, distribute
-   resources equitably, and resist the misuse of authority for personal
-   advantage.
-
--  **Chastity:** A leader’s conduct respects marriage, kinship
-   obligations, and the integrity of family relationships.
 
 ****************************
  Mbiti's ethical guidelines
