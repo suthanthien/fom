@@ -159,10 +159,12 @@ capabilities, would support effective and ethical public administration:
    opportunities, and ensure that laws and policies improve comparative
    justice for all citizens.
 
--  **Courage:** Courage is necessary to act for justice even when it is
-   difficult or unpopular. Policymakers advocate for marginalized
-   groups, challenge entrenched power structures, and implement policies
-   that protect the vulnerable despite opposition.
+-  **Courage:** Justice often requires sustaining policies and
+   institutional reforms that withstand political pressure and social
+   disagreement. Policymakers remain committed to addressing manifest
+   injustices, especially those affecting marginalized groups, even when
+   such efforts face resistance, grounding their actions in publicly
+   defensible reasons.
 
 -  **Honesty:** Policies and decisions must be transparent and
    accountable. Policymakers ensure truthful communication, maintain
@@ -174,35 +176,22 @@ capabilities, would support effective and ethical public administration:
    the limits of technical expertise and predictive models when
    designing policy.
 
--  **Kindness**: It is morally important to design institutions and
-   policies that improve the lives of the disadvantaged. Policymakers
-   support programs that provide healthcare, education, and social
-   security, create opportunities for participation, and empower
-   communities, while ensuring that these initiatives genuinely expand
-   people’s freedoms and choices.
+-  **Kindness**: Policymakers take seriously the lived experiences of
+   deprivation, suffering, and disadvantage, and allow these realities
+   to inform institutional priorities and policy design. Attention to
+   how policies affect the worst-off guides efforts in health,
+   education, social protection, and political inclusion, with the aim
+   of expanding people’s substantive freedoms.
 
 -  **Patience:** Social change and the expansion of capabilities take
    time; justice is often a process. Policymakers support gradual
    reforms that expand freedoms.
 
--  **Diligence:** Freedom and capability expansion require sustained,
-   careful effort. Policymakers evaluate policy implications using data
-   and ethical reasoning, follow through on reforms and programs, and
-   encourage personal effort in education, civic engagement, and
-   reflective decision-making.
-
--  **Charity:** Policymakers actively work to reduce deprivation and
-   inequality, addressing systemic disadvantages. They implement reforms
-   that expand real opportunities, and prevent suffering
-
--  **Temperance:** Temperance involves avoiding excess in personal or
-   institutional actions and balancing competing values. Policymakers
-   seek compromise among freedom, equality, dignity, and security, and
-   avoid imposing any single value to the exclusion of others.
-
--  **Chastity:** Policymakers promote respectful social norms, protect
-   individuals from coercion or discrimination, and create institutions
-   that safeguard personal freedoms.
+-  **Diligence:** Advancing freedom and justice requires sustained
+   attention to how policies affect people’s actual capabilities.
+   Policymakers continually evaluate outcomes using empirical evidence
+   and public feedback, revise policies when they fail to reduce
+   deprivation or expand opportunity.
 
 **************************
  Sen's ethical guidelines
