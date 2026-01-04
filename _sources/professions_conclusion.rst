@@ -109,14 +109,15 @@ takes self-interest as the primary driver of professional activity. In
 his framework, professional moral conduct emerges as an instrument that
 helps render self-interest sustainable and socially productive.
 
-Unlike the other thinkers, Smith did not base his ethical account on
-firsthand experience of professional practice; instead, he approached it
-from a systematic, philosophical perspective. From this vantage point,
-he developed a comprehensive account of how the wealth of nations is
-generated. Drawing on Enlightenment principles of reason and an
-evolutionary understanding of social processes, Smith portrays morality
-not as a starting point, but as an emergent outcome of repeated
-interactions among self-interested individuals.
+Unlike the other thinkers (Jonas is the only other exception), Smith did
+not base his ethical account on firsthand experience of professional
+practice; instead, he approached it from a systematic, philosophical
+perspective. From this vantage point, he developed a comprehensive
+account of how the wealth of nations is generated. Drawing on
+Enlightenment principles of reason and an evolutionary understanding of
+social processes, Smith portrays morality not as a starting point, but
+as an emergent outcome of repeated interactions among self-interested
+individuals.
 
 This account is coherent, yet it does not undermine the claim hat
 sincerity is central to the proper ethical functioning of a profession.

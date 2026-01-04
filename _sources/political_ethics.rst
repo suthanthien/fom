@@ -11,6 +11,7 @@
    cicero.rst
    al_farabi.rst
    machiavelli.rst
+   de_la_vega.rst
    bentham.rst
    nishida.rst
    mbiti.rst
