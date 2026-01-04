@@ -29,9 +29,9 @@ the second half of his career:
    continued refining his views in essays on biotechnology, medical
    ethics, and ecological responsibility.
 
-###########
+***********
  Engineers
-###########
+***********
 
 For Hans Jonas, modern engineers operate with technologies whose
 potential impact is unprecedented in scale. Their actions can affect not
@@ -77,9 +77,9 @@ should allow such anticipatory concern to guide restraint, avoiding
 actions whose potential outcomes include irreversible or devastating
 harm.
 
-###########################
+***************************
  Jonas' ethical guidelines
-###########################
+***************************
 
 -  **Act responsibly toward long-term consequences:** Evaluate decisions
    not only by short-term gains but by their effects over decades or
