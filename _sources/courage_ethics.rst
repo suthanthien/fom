@@ -7,4 +7,5 @@
    :caption: Contents:
 
    courage.rst
+   epictetus.rst
    sartre.rst
