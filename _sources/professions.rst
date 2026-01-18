@@ -18,3 +18,4 @@
    dewey.rst
    black_elk.rst
    professions_conclusion.rst
+   epicurus.rst
