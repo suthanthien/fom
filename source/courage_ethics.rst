@@ -10,3 +10,4 @@
    epictetus.rst
    soko.rst
    sartre.rst
+   dussel.rst
