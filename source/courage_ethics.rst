@@ -8,6 +8,7 @@
 
    courage.rst
    epictetus.rst
-   soko.rst
    sartre.rst
+   soko.rst
    dussel.rst
+   khaldun.rst
