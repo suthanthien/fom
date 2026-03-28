@@ -13,3 +13,4 @@
    dussel.rst
    khaldun.rst
    mahavira.rst
+   mead.rst
