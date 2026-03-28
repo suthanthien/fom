@@ -12,3 +12,4 @@
    soko.rst
    dussel.rst
    khaldun.rst
+   mahavira.rst
