@@ -42,8 +42,8 @@ govern conduct by reason, and to resist the pull of vanity, and social
 display. A rationally independent person does not live for admiration or
 submit passively to custom. They act from principle, speak sincerely,
 and cultivate self-command and steadiness of character. Rational
-independence is thus a moral form of self-direction, and the condition of
-living freely and responsibly.
+independence is thus a moral form of self-direction, and the condition
+of living freely and responsibly.
 
 Wollstonecraft's distinctive contribution is to show how social culture
 can either strengthen or corrupt this moral development. She argues that
