@@ -27,5 +27,6 @@ essential to human flourishing and happiness.
    professions.rst
    political_ethics.rst
    courage_ethics.rst
+   family_ethics.rst
    credits.rst
    contacts.rst

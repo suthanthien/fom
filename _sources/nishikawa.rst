@@ -46,7 +46,7 @@ this power directly affects the well-being of the population, it carries
 ethical responsibility. Merchants must therefore avoid exploiting
 shortages through hoarding and instead release goods during crises,
 thereby preserving social stability and maintaining the conditions that
-make commerce itself possible
+make commerce itself possible.
 
 Nishikawa permits merchants to earn a profit from their profession, but
 he is clear that profit is not an end in itself. Rather, profit enables
