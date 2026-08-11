@@ -82,8 +82,8 @@ al-Haytham’s thought and represent new additions:
    according to which scientific knowledge is regarded as a collective
    product of the scientific community rather than the private property
    of individual researchers. Discoveries are expected to be publicly
-   shared rather than withheld, allowing rapid circulation,
-   verification, and extension of results.
+   shared rather, allowing rapid circulation, verification, and
+   extension of results.
 
 -  **Recognition:** Merton envisions a system in which scientists are
    rewarded primarily through recognition rather than ownership.

@@ -41,23 +41,22 @@ ethical governance:
 -  **Justice:** Justice, in Ptahhotep’s teaching, requires impartial
    judgment. A ruler must not favor one person over another, for
    favoritism reveals that judgment has been corrupted. When people see
-   that decisions are made according to personal preference rather than
-   fairness, respect for order diminishes and harmony weakens. For this
-   reason, Ptahhotep repeatedly warns against bribery and dishonest
-   gain. What is taken unjustly may benefit one person for a moment, but
-   it weakens order and brings harm in the long run.
+   that decisions are made according to personal preference, respect for
+   order diminishes and harmony weakens. For this reason, Ptahhotep
+   repeatedly warns against bribery and dishonest gain. What is taken
+   unjustly may benefit one person for a moment, but it weakens order
+   and brings harm in the long run.
 
--  **Humility:** Wisdom, Ptahhotep insists, is not confined to rank or
-   office. A ruler who assumes superiority closes himself to
-   understanding, while humility allows him to hear truth wherever it is
-   spoken. For this reason, the ruler must listen attentively to
-   advisors and petitioners alike.
+-  **Humility:** Wisdom is not confined to rank or office. A ruler who
+   assumes superiority closes himself to understanding, while humility
+   allows him to hear truth wherever it is spoken. For this reason, the
+   ruler must listen attentively to advisors and petitioners alike.
 
 -  **Patience:** Ptahhotep warns that anger and excess cloud judgment
    and lead to injustice. The ruler who governs himself can govern
    others with consistency. Through restraint and patience, decisions
-   are guided by reason rather than impulse, allowing the divine order
-   to be upheld in practice.
+   are guided by reason, allowing the divine order to be upheld in
+   practice.
 
 -  **Kindness:** The strength of a ruler is shown in how he treats those
    without power. Ptahhotep cautions against oppression and urges

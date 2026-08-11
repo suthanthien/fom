@@ -16,7 +16,7 @@ Key Characteristics:
    especially those in need.
 -  **Selflessness:** Placing the needs of others above personal gain.
 -  **Detachment:** Holding wealth and goods lightly, recognizing them as
-   gifts to be used, not clung to.
+   gifts to be used.
 -  **Compassion:** Responding with empathy and kindness to the struggles
    of others, seeking to relieve their burdens.
 -  **Joy in giving:** Finding fulfillment and happiness in the act of
@@ -34,7 +34,7 @@ others.
 Key Characteristics:
 
 -  **Excessive desire:** An insatiable craving for wealth or
-   possessions, never satisfied with enough.
+   possessions.
 -  **Possessiveness:** Clinging tightly to what one owns, fearful of
    losing or sharing it.
 -  **Exploitation:** Seeking gain at the expense of fairness, justice,
@@ -71,9 +71,9 @@ Community Benefits
 -  **Social harmony:** Sharing resources and care fosters cooperation,
    peace, and mutual respect.
 
-**************************************************
- Benefits of greed as a self-preservation emotion
-**************************************************
+*********************************************
+ Benefits of the underlying emotion of greed
+*********************************************
 
 Personal benefits
 =================
@@ -90,8 +90,7 @@ Personal benefits
    greed provides a buffer against future instability or crisis.
 
 -  **Boundary defense:** greedy impulses can signal when others are
-   over-demanding, reinforcing one’s instinct to guard personal
-   interests.
+   over-demanding.
 
 -  **Energy conservation:** the reluctance to share too freely can
    preserve one’s resources, time, and energy for personal use.
@@ -153,8 +152,7 @@ To become more consistent in embracing charity, adopt the following
 habits:
 
 -  **Clarify your giving values:** decide what causes or needs matter
-   most to you, so your generosity feels purposeful rather than
-   impulsive.
+   most to you, so your generosity feels purposeful.
 
 -  **Set boundaries for generosity:** define how much time, money, or
    resources you can share regularly, preventing burnout or regret.
@@ -180,11 +178,6 @@ habits:
 Some of these thoughts might lead you to believe greed is justified.
 Here, there are some arguments for reflection and reconsideration.
 
--  **"I need to look out for myself first."** *Invitation:* Self-care is
-   vital, but constant hoarding narrows life into fear and isolation.
-   True security often comes from mutual support, where generosity
-   builds bonds that protect you as well.
-
 -  **"I earned it, so it’s mine."** *Invitation:* Hard work deserves
    recognition, but resources are never created in isolation. Others’
    labor, opportunities, and communities also make success possible.
@@ -192,15 +185,6 @@ Here, there are some arguments for reflection and reconsideration.
 -  **"If I give, I’ll have less."** *Invitation:* While charity does
    reduce your immediate store, it often multiplies value in trust,
    goodwill, and purpose.
-
--  **"Everyone else is just as greedy."** *Invitation:* Choosing
-   generosity makes you a model for change and inspires others to follow
-   suit.
-
--  **"I might need this later."** *Invitation:* Preparation is wise, but
-   endless stockpiling feeds anxiety rather than peace. Setting a
-   healthy threshold for “enough” frees you from fear and allows surplus
-   to serve others.
 
 -  **"People should earn what they get."** *Invitation:* Effort is
    important, yet circumstances shape opportunity in ways beyond
@@ -212,40 +196,28 @@ Here, there are some arguments for reflection and reconsideration.
    momentum toward change. What seems small to you may mean everything
    to someone else.
 
--  **"I’ll be generous when I have more."** *Invitation:* Generosity
-   grows from practice, not abundance. Waiting for perfect conditions
-   delays growth indefinitely, while small, steady acts of sharing
-   cultivate the habit of charity.
+********************************************
+ Reflection points for the continent greedy
+********************************************
 
-*********************************************
- Reflections points for the continent greedy
-*********************************************
-
-Take some time to reflect on the long-term consequences of your choices.
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
 -  Your hunger for more money and possessions consumes your time and
-   energy. The hours spent chasing gain are hours stolen from your
-   spouse, your children, your friends. **Greed robs your loved ones
-   long before it fills your hands.**
+   energy. The hours spent chasing gain may be hours withheld from your
+   spouse, your children, your friends. **Greed can impoverish your
+   relationships.**
 
--  The endless pursuit of wealth drives you into stress, overwork, and
-   sleepless nights. Riches pile up while your health quietly crumbles.
-   **Greed trades your body’s strength for numbers.**
+-  The endless pursuit of wealth can draw you into stress, overwork, and
+   sleepless nights. **Greed can take away your body’s strength.**
 
-***********************************
- Reflections points for the greedy
-***********************************
+**********************************
+ Reflection points for the greedy
+**********************************
 
-These are not mere possibilities — they are common crossroads for those
-who persist in justifying greed. If you do not change your relationship
-with excess, these moments may find you.
-
--  **Losing relationships as wealth becomes your only focus.** Greed
-   narrows love into possession and corrodes trust, pushing away
-   friends, family, and community. *Do not wait until you stand
-   surrounded by possessions but isolated from affection.*
+These are serious risks that can follow when greed becomes settled. If
+you do not examine your relationship with excess, these patterns may
+grow harder to undo.
 
 -  **Harming your health under the weight of excess.** Greed fuels
-   overwork, anxiety, and neglect of balance. The body and mind cannot
-   flourish under relentless accumulation. *Change course before
-   striving for “more” steals your vitality.*
+   overwork, anxiety, and neglect of balance.

@@ -81,9 +81,8 @@ Nishikawa emphasizes that deception erodes the basis of exchange itself.
 When trust is lost, customers withdraw, and the merchant loses both
 livelihood and social function. Over time, consistent honesty generates
 reputation, which sustains commercial relationships across repeated
-interactions. While reputation is not monetary profit, Nishikawa treats
-it as an enduring asset of moral conduct, without which financial gain
-cannot be sustained.
+interactions. Nishikawa treats reputation as an enduring asset of moral
+conduct, without which financial gain cannot be sustained.
 
 Nishikawa also emphasizes the cultivation of inner virtues, particularly
 **self-control and judgment**. Merchants must learn to govern desire, as

@@ -8,17 +8,13 @@
 
 Humility is the virtue that involves a modest view of one's own
 importance. It is characterized by a genuine recognition of one's
-limitations and an openness to learning from others. Unlike
-self-deprecation, humility embraces an honest appraisal of oneself.
+limitations and an openness to learning from others.
 
 Key Characteristics:
 
--  **Self-awareness:** Understanding and accepting one's strengths and
-   weaknesses.
--  **Openness:** Willingness to listen, learn, and accept feedback or
-   correction.
--  **Respect:** Valuing others without seeking to dominate or belittle
-   them.
+-  **Self-awareness:** Understanding one's strengths and weaknesses.
+-  **Openness:** Willingness to listen, learn, and accept feedback.
+-  **Respect:** Valuing others.
 -  **Gratitude:** Recognizing the contributions and gifts of others in
    one’s achievements.
 
@@ -34,8 +30,7 @@ Key Characteristics:
    arrogance, but for consistency with the dichotomy emotion-vice, we
    will retain the traditional term “pride” throughout.
 
-Pride is the vice marked by an unjustified sense of superiority over
-others. It is characterized by an inflated self-view that dismisses or
+Pride is the vice marked by a sense of superiority that dismisses or
 devalues the worth and contributions of others.
 
 Key Characteristics:
@@ -66,8 +61,6 @@ Personal benefits
    consider multiple perspectives before acting.
 -  **Stronger relationships:** Humility nurtures empathy, trust, and
    respect, deepening personal connections.
--  **Increased resilience:** Accepting limitations and setbacks with
-   humility promotes perseverance.
 
 Community benefits
 ==================
@@ -85,17 +78,15 @@ Community benefits
 -  **Cultural growth:** Communities valuing humility tend to be more
    adaptable and open to positive change.
 
-**************************************************
- Benefits of pride as a self-preservation emotion
-**************************************************
+*********************************************
+ Benefits of the underlying emotion of pride
+*********************************************
 
 Personal benefits
 =================
 
 -  **Boosts confidence:** Pride can increase self-assurance, helping
    individuals face challenges.
--  **Protects self-esteem:** It acts as a defense mechanism to shield
-   against feelings of insecurity or vulnerability.
 -  **Encourages assertiveness:** Pride may promote taking decisive
    action or standing firm in difficult situations.
 -  **Facilitates risk-taking:** An inflated sense of capability can
@@ -107,9 +98,6 @@ Personal benefits
 
 Community benefits
 ==================
-
--  **Fosters group prestige:** Communities may unite around shared
-   status, reputation, or accomplishments that members feel proud of.
 
 -  **Strengthens collective identity:** Pride can create a sense of “we
    are special,” reinforcing belonging and cohesion.
@@ -147,23 +135,23 @@ emotions more often:
 
 -  **Gratitude:** Reflect on moments or people who have positively
    impacted your life and helped you grow. Practice thanking others
-   often, silently or aloud, to cultivate recognition of shared effort.
+   often to cultivate recognition of shared effort.
 
 -  **Curiosity:** Approach conversations and experiences with an open
-   mind and a genuine desire to learn. Remind yourself there is always
-   something new to discover from others’ experiences.
+   mind. Remind yourself there is always something new to discover from
+   others’ experiences.
 
 -  **Tenderness:** Feel the gentle warmth that arises when you see
    vulnerability in yourself or others. Cultivate it by allowing honesty
-   in relationships and welcoming imperfection instead of hiding it.
+   in relationships and welcoming imperfection.
 
 -  **Relief:** Remember the lightness of not needing to be the best or
    always right. Let yourself rest in the freedom that comes from
    dropping pretenses and embracing imperfection.
 
 -  **Admiration:** Let yourself be inspired by others’ strengths and
-   talents without comparison. Notice what you genuinely respect in
-   people around you, and express that respect openly.
+   talents. Notice what you respect in people around you, and express
+   that respect openly.
 
 *********************************
  Tips for the incontinent humble
@@ -181,10 +169,7 @@ To better manage pride and arrogance, adopt the following habits:
    appreciating the achievements of those around you.
 
 -  **Admit mistakes openly:** When you err, confess promptly and learn
-   from the experience rather than hiding or denying it.
-
--  **Engage in service:** Regularly help others without seeking
-   recognition, fostering humility through giving.
+   from the experience.
 
 -  **Maintain a learning mindset:** Approach life as a continual
    learner, recognizing that you do not have all the answers.
@@ -194,7 +179,7 @@ To better manage pride and arrogance, adopt the following habits:
    defensiveness.
 
 -  **Practice gratitude daily:** Focus on what you have and the
-   contributions of others rather than on status or achievements.
+   contributions of others.
 
 -  **Surround yourself with humble role models:** Spend time with people
    who exemplify humility and learn from their example.
@@ -210,17 +195,16 @@ Some of these thoughts might lead you to believe pride is justified.
 Here, there are some arguments for reflection and reconsideration.
 
 -  **"I’m just confident; there’s nothing wrong with believing in
-   myself."** *Invitation:* Confidence is valuable, but true confidence
-   includes humility and respect for others. Believing in oneself
-   doesn’t require diminishing others or closing off to feedback.
+   myself."** *Invitation:* Confidence is valuable, and it also includes
+   humility and respect for others. Believing in oneself doesn’t require
+   diminishing others or closing off to feedback.
 
 -  **"If I don’t act this way, people won’t take me seriously."**
-   *Invitation:* Authentic respect comes from integrity and empathy, not
-   from boasting or superiority. People are drawn to those who show
-   humility and openness.
+   *Invitation:* Authentic respect comes from integrity and empathy.
+   People are drawn to those who show humility and openness.
 
 -  **"I earned my success; I deserve to be proud."** *Invitation:* Pride
-   in achievements is natural, but remembering the support,
+   in achievements is natural. Nonetheless, remembering the support,
    opportunities, and luck involved keeps pride balanced with gratitude
    and humility.
 
@@ -242,65 +226,39 @@ Here, there are some arguments for reflection and reconsideration.
    success than self-centered attitudes. Humility builds lasting support
    networks.
 
-********************************************
- Reflections points for the continent proud
-********************************************
+*******************************************
+ Reflection points for the continent proud
+*******************************************
 
-Take some time to reflect on the long term consequences of your choices.
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
 -  Your arrogance might cause others to avoid or distance themselves
-   from you. This often leads to loneliness and a hidden emptiness
-   because authentic connection is lost. **Every act of arrogance builds
-   walls that separate you from those who matter.**
+   from you. This often leads to loneliness and emptiness because
+   connection is lost. **Arrogance builds walls that separate you from
+   those who matter.**
 
 -  Your need to always be right shuts down conversations and learning
    opportunities. This can create frustration and a sense of stagnation
-   as you trap yourself in a narrow perspective. **The longer you
-   resist, the more you stunt your own potential.**
-
--  Your refusal to admit mistakes leaves you stuck repeating the same
-   errors. This often leads to feelings of frustration and helplessness,
-   as progress becomes elusive. **Without humility, you risk being
-   caught in a cycle that keeps you from evolving.**
-
--  Overshadowing others to assert your superiority causes resentment and
-   tension around you. Such feelings can result in isolation and
-   fractured relationships that weaken your support network. **Without
-   nurturing others’ strengths, you risk losing respect and alliances.**
-
--  Hiding your vulnerabilities to protect your ego creates emotional
-   distance. This often results in loneliness and a sense of
-   disconnection from those who could truly understand you. **Without
-   vulnerability, genuine intimacy and trust are harder to attain.**
+   as you trap yourself in a narrow perspective. **Arrogance can stunt
+   your own potential.**
 
 *********************************
  Reflection points for the proud
 *********************************
 
-These are not just possibilities, they are common outcomes for those who
-continue down the path of justified arrogance. If you do not change your
-relationship with arrogance, these moments may find you.
-
--  **Weakening relationships as loved ones feel dismissed or
-   belittled:** Arrogance alienates even your closest friends and
-   family, causing them to withdraw their support and care. *Don't wait
-   until you are left alone with regret.*
+These are serious risks that can follow when arrogance becomes settled.
+If you do not examine your relationship with pride, these patterns may
+grow harder to undo.
 
 -  **Experiencing a professional failure because you refused to listen
    or adapt:** Your refusal to accept feedback or collaborate can lead
-   to missed opportunities, demotion, or even job loss. *Arrogance does
-   not protect your status, it risks your future.*
+   to missed opportunities, demotion, or even job loss.
 
 -  **Watching others you once dismissed surpass you through
-   collaboration and humility:** Your blind pride may leave you behind
-   as others advance and build meaningful alliances. *Do not wait until
-   you have no effective response.*
+   collaboration and humility:** Your pride may leave you behind as
+   others advance by building meaningful alliances.
 
--  **Facing a crisis where arrogance causes you to fail alone:** When
+-  **Facing a crisis where arrogance causes you to fail:** When
    situations demand cooperation and flexibility, arrogance can isolate
-   you and worsen outcomes. *Change your course before your pride leads
-   to ruin.*
-
--  **Undermining your career or influence as leaders and colleagues lose
-   trust**: No one follows a voice that cannot listen. *Do not let doors
-   of opportunity close quietly, because you lacked humility.*
+   you and worsen outcomes.

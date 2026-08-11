@@ -152,5 +152,5 @@ desires, comfort, and even personal safety.
 
 -  **Practice humility in understanding:** Recognize that your
    perspective is limited. Listen to others with openness and avoid
-   rigid attachment to being right. Let learning replace defensiveness,
-   and allow multiple viewpoints to coexist without conflict.
+   rigid attachment to being right. Allow multiple viewpoints to coexist
+   without conflict.

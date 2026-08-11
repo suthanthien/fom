@@ -47,10 +47,10 @@ Black Elk further observes that the power of a speaker depends on the
 **trust** people place in them. A voice carries far only because it is
 supported by relationships. Trust, in his view, is established through
 acts of service to the people. Extending this idea to the modern role of
-the storyteller, when influence is exploited for personal gain rather
-than service, trust erodes and authority weakens. In doing so, a person
-undermines their own function as a storyteller, losing the very power
-that allowed their voice to be heard.
+the storyteller, when influence is exploited for personal gain, trust
+erodes and authority weakens. In doing so, a person undermines their own
+function as a storyteller, losing the very power that allowed their
+voice to be heard.
 
 A storyteller must also be **respectful of inherited stories**. When
 stories are handed down, they carry teachings shaped and preserved
@@ -137,38 +137,32 @@ effects and adjusts future work accordingly.
    projects that trivialize suffering, faith, or identity for novelty or
    spectacle.
 
--  **Respect silence as much as expression:** Know when not to comment
-   or perform. Build pauses, stillness, and restraint into your work.
-   Allow unresolved questions rather than forcing constant commentary or
-   closure, giving audiences space for reflection and insight.
+-  **Respect silence as much as expression:** Build pauses, stillness,
+   and restraint into your work. Allow unresolved questions, giving
+   audiences space for reflection and insight.
 
 -  **Practice humility:** Credit collaborators, teachers, and traditions
-   openly. Treat success as temporary stewardship rather than
-   entitlement. Recognize that influence is sustained by trust and
-   community.
+   openly. Treat success as temporary stewardship. Recognize that
+   influence is sustained by trust and community.
 
 -  **Use story and performance to restore balance:** Balance humor with
    compassion and critique with care. Counter excess, shock, or outrage
-   with moments of grounding, perspective, and reflection. Avoid
-   escalating intensity merely to maintain attention.
+   with moments of grounding, perspective, and reflection.
 
 -  **Remember you stand within the Circle:** Stay connected to
    non-industry communities and ordinary life. Seek feedback from people
    outside your professional bubble.
 
--  **Tell the truth:** Be emotionally honest even when dramatizing,
-   fictionalizing, or using symbolism. Do not distort reality in ways
-   that encourage cynicism, despair, or moral confusion. Clarify
-   intention when satire or irony could mislead audiences.
+-  **Tell the truth:** Do not distort reality in ways that encourage
+   cynicism, despair, or moral confusion. Clarify intention when satire
+   or irony could mislead audiences.
 
 -  **Honor inherited stories and collective memory:** Treat stories
    handed down through generations with reverence. Preserve their core
    meaning and context, and avoid altering them in ways that weaken or
-   distort their message. Create new stories freely, but do not exploit
-   inherited ones for convenience or appeal.
+   distort their message.
 
 -  **Avoid fostering dependency:** Be mindful of the habits your work
    encourages. Avoid creating excessive reliance on your presence or
-   output. Ensure that engagement with your work supports, rather than
-   displaces, people’s participation in community, responsibility, and
-   everyday life.
+   output. Ensure that engagement with your work supports people’s
+   participation in community, responsibility, and everyday life.

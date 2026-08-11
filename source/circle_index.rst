@@ -10,5 +10,5 @@
    aristotle.rst
    confucius.rst
    kant.rst
-   lindermann.rst
+   lindemann.rst
    ramose.rst

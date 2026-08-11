@@ -154,10 +154,9 @@ capabilities, would support effective and ethical public administration:
    evidence alongside ethical judgment.
 
 -  **Justice:** Justice involves expanding freedom-enabling
-   capabilities, not merely distributing resources or following rules.
-   Policymakers design institutions to reduce disadvantage, expand
-   opportunities, and ensure that laws and policies improve comparative
-   justice for all citizens.
+   capabilities. Policymakers design institutions to reduce
+   disadvantage, expand opportunities, and ensure that laws and policies
+   improve comparative justice for all citizens.
 
 -  **Courage:** Justice often requires sustaining policies and
    institutional reforms that withstand political pressure and social
@@ -214,7 +213,7 @@ capabilities, would support effective and ethical public administration:
 
 -  **Address injustice proactively:** Identify policies that cause clear
    harm even if they are part of traditions. Prioritize reforms that
-   reduce suffering quickly, even if they only address only a part of
+   reduce suffering quickly, even if they address only a part of
    suffering. Avoid paralysis caused by waiting for “perfect” solutions.
 
 -  **Balance equality with freedom:** Ensure equality-enhancing policies
@@ -228,8 +227,8 @@ capabilities, would support effective and ethical public administration:
    health, education, and dignity.
 
 -  **Prefer reasoned persuasion:** Use education, incentives, and
-   dialogue before mandates. Justify regulations with evidence and
-   ethical reasoning. Limit coercive power to clearly necessary cases.
+   dialogue. Justify regulations with evidence and ethical reasoning.
+   Limit coercive power to clearly necessary cases.
 
 -  **Be mindful of concerns of the global community:** Support
    international cooperation on poverty, health, and education. Avoid

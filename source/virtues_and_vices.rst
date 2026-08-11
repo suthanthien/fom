@@ -2,6 +2,20 @@
  Introduction
 ##############
 
+.. admonition:: Disclaimer
+
+   This section introduces Aristotle as its starting point, especially
+   his account of virtue as a stable character trait formed through
+   habit, his distinction between virtue, continence, incontinence, and
+   vice, and his emphasis on practical wisdom, emotion, and flourishing.
+
+   The broader framework developed here is an extension. In particular,
+   the discussion of divine virtue as a human limit, the mirrored stages
+   of vice, the treatment of vices as responses to self-preservation
+   emotions, and the developmental account of rising toward virtue or
+   falling into vice should not be read as direct reconstructions of
+   Aristotle's own doctrine.
+
 *********************
  Aristotle's virtues
 *********************
@@ -20,14 +34,14 @@ toward it in stages. This progress depends on one’s habits, desires, and
 rational capacity. Below are the four main stages he outlines.
 
 -  The **incontinent** person knows what is right, but oftentimes lacks
-   the will to act accordingly. Occasionally, they are ruled by desire
-   rather than reason. This internal conflict leads to regret and
-   self-reproach after acting against better judgment.
+   the will to act accordingly. Occasionally, they are ruled by desire.
+   This internal conflict leads to regret after acting against better
+   judgment.
 
 -  The **continent** person also experiences conflicting desires, but
    unlike the incontinent, they are able to resist temptation and do the
-   right thing. Their rational part wins over their appetites, though
-   the struggle remains.
+   right thing. Their rational part wins over their desires, though the
+   struggle remains.
 
 -  The **virtuous** person not only does the right thing but also
    desires to do so. There is harmony between reason and emotion. Their
@@ -49,7 +63,7 @@ personal well‑being.
 
 Godlike virtue is not attainable because:
 
--  **Human Nature**: We are composite beings of body and soul. Our
+-  **Human Nature**: We are composite beings of body and mind. Our
    survival depends on rest, food, and social bonds. Total
    self‑sacrifice to virtue ignores these necessities.
 
@@ -57,8 +71,8 @@ Godlike virtue is not attainable because:
    uninterrupted virtuous action would exhaust our physical and mental
    capacities.
 
--  **Emotional Balance**: Emotions signal needs—hunger, fatigue,
-   grief—that require attention. Suppressing these signals undermines
+-  **Emotional Balance**: Emotions signal needs (e.g. hunger, fatigue,
+   grief) that require attention. Suppressing these signals undermines
    health and rational judgment.
 
 -  **Practical Wisdom**: *Phronesis* demands moderation. True wisdom
@@ -102,8 +116,7 @@ how we respond to that emotion. A vice arises when the response takes
 the form of deliberate hostility or destructive action aimed solely at
 self-preservation, without regard for others. When managed wisely,
 however, the same emotion can be redirected into reflection, dialogue,
-and constructive striving, becoming a catalyst for growth rather than
-harm.
+and constructive striving, becoming a catalyst for growth.
 
 As Aristotle observed, emotions are not inherently virtuous or vicious;
 rather, their moral character depends on how they are expressed and
@@ -134,14 +147,14 @@ motivated by.
 
 -  Virtue is marked by an internal harmony between reason and emotion.
    In a truly virtuous person, desires and feelings align with rational
-   judgment. Their emotions support rather than resist moral reasoning,
-   creating psychological unity and moral clarity.
+   judgment. Their emotions support moral reasoning, creating
+   psychological unity and moral clarity.
 
 -  A virtuous person flourishes within a community. Compassion and
-   empathy are not distractions but essential guides to moral conduct.
-   Their behavior is not only beneficial to themselves but also
-   contributes positively to the well-being of others. They derive deep
-   moral satisfaction from the good they do for their community.
+   empathy are essential guides to moral conduct. Their behavior is not
+   only beneficial to themselves but also contributes positively to the
+   well-being of others. They derive deep moral satisfaction from the
+   good they do for their community.
 
 -  A virtuous person possesses a well-grounded sense of self-respect
    regarding their moral character. They are humbly aware of their
@@ -179,7 +192,7 @@ good, coupled with an ongoing struggle to resist contrary desires.
    recognizing the strength it takes to do what is right in the face of
    inner resistance. However, they are more prone to doubt than the
    fully virtuous person, especially when facing fear, uncertainty, or
-   threats to their moral stance.
+   threats.
 
 Incontinent person
 ==================
@@ -187,7 +200,7 @@ Incontinent person
 An incontinent individual lives in a state of emotional tension and
 moral instability. They are caught between a clear understanding of the
 good and a recurring tendency to give in to opposing impulses. This
-conflict creates a painful cycle of desire, weakness, and regret.
+conflict creates a cycle of desire, weakness, and regret.
 
 -  An incontinent person recognizes what is good and often wants to act
    accordingly. In the absence of strong temptations or external
@@ -200,8 +213,8 @@ conflict creates a painful cycle of desire, weakness, and regret.
    conflict. The appeal of vice remains. Their will to do good is
    present but not dominant, and they frequently succumb to temptation.
    While they may feel momentary satisfaction from the vicious act, this
-   is quickly followed by regret and a renewed resolve to do better in
-   the future.
+   is followed by regret and a renewed resolve to do better in the
+   future.
 
 -  In a community setting, the incontinent persons are receptive to
    compassion and empathy, which can help guide them toward the good.
@@ -221,8 +234,7 @@ Incontinent vicious person
 
 An incontinent‑vicious individual experiences a conflicted emotional
 life. They are pulled between selfish inclinations and a reluctant
-recognition of the good. Their behavior is shaped by ambivalence and
-unstable desires.
+recognition of the good.
 
 -  The incontinent‑vicious person understands what is good for the
    community, but their primary motivation is self-interest. Left to
@@ -233,11 +245,10 @@ unstable desires.
 
 -  The incontinent-vicious persons see some value in virtuous action,
    but their desire to prioritize their own gratification often
-   dominates. Paradoxically, they may feel temporary relief or
-   satisfaction after doing something morally right, yet regret not
-   having seized the opportunity to indulge their vicious desires. For
-   them, acting virtuously can feel like a missed chance for personal
-   gain.
+   dominates. They may feel temporary relief or satisfaction after doing
+   something morally right, yet regret not having seized the opportunity
+   to indulge their vicious desires. For them, acting virtuously can
+   feel like a missed chance for personal gain.
 
 -  In the presence of others, they may behave better. Compassion and
    empathy, although weaker in them, are not entirely absent and can
@@ -262,12 +273,11 @@ pursue vicious goals.
    come first. Their effort and discipline are directed toward
    maximizing personal gain, even if at the expense of others.
 
--  Their inner life reflects a subtle moral conflict. They recognize
-   that virtuous behavior has practical benefits, such as gaining trust
-   or integrating smoothly into a community. However, their stronger
-   commitment to self-serving ends overrides these considerations. The
-   idea of doing good is acknowledged, but consistently pushed aside in
-   favor of their own benefit.
+-  They recognize that virtuous behavior has practical benefits, such as
+   gaining trust or integrating smoothly into a community. However,
+   their stronger commitment to self-serving ends overrides these
+   considerations. The idea of doing good is acknowledged, but
+   consistently pushed aside in favor of their own benefit.
 
 -  In a community setting, they may thrive socially, but they do no
    refrain from manipulating or exploiting others. Traits like
@@ -326,8 +336,8 @@ moral development. Self-preservation tends to pull us toward vice, while
 empathy draws us toward virtue.
 
 The instinct for self-preservation urges us to prioritize our own
-survival and well-being. It compels us to fulfill our immediate
-needs—food, warmth, safety, companionship—and to seize opportunities
+survival and well-being. It compels us to fulfill our immediate needs
+(e.g. food, warmth, safety, companionship) and to seize opportunities
 that benefit us. But it also grants us the foresight to consider
 long-term consequences and to make plans that secure our future.
 Self-preservation is not inherently selfish; it is the primal voice of
@@ -341,14 +351,14 @@ around us, also driven by their own instinct for self-preservation,
 empathy teaches us to care about their well-being. It places natural
 boundaries on our actions and encourages us to consider the needs and
 dignity of others. Empathy fosters cooperation and community, and like
-self-preservation, it allows us to think beyond the present—only this
-time, with a vision that includes others. It asks: how can we protect
-and sustain not just ourselves, but everyone?
+self-preservation, it allows us to think beyond the present with a
+vision that includes others. It asks: how can we protect and sustain not
+just ourselves, but everyone?
 
 Ultimately, whether we lean toward vice or virtue depends on what we
 learn from those around us. If we grow up in environments that encourage
 and reward empathetic, ethical behavior, we find comfort in our
-connection to others. We begin our journey toward virtue—perhaps first
+connection to others. We begin our journey toward virtue: perhaps first
 as the incontinent who struggle, but aspire to do good, gradually
 seeking wisdom. However, if our communities discourage empathy or punish
 our attempts at kindness, we may retreat into self-preservation. We
@@ -439,7 +449,7 @@ We convince ourselves that those who act virtuously are either naive or
 manipulative, that their apparent goodness hides ulterior motives. We
 find solace in a kind of imaginary community of fellow exploiters,
 validating our worldview and reinforcing the belief that the world is
-governed not by care, but by cunning.
+governed not by cunning.
 
 Thus, the path to vice becomes self-reinforcing: a cycle of mistrust,
 rationalized harm, and emotional detachment. And unless something breaks
@@ -514,14 +524,14 @@ grow strong, we must remain grounded in empathy and remind ourselves of
 the deeper reasons behind our moral resolve. Without mindfulness, even
 disciplined virtue can begin to decay.
 
-At the stage of true virtue, the risk is not eliminated, ,it becomes
-more subtle. The greatest tests often come in the form of tragedy,
-betrayal, or deep suffering. These moments can shake our very foundation
-and make us question the value or possibility of goodness. Yet it is
-precisely in such trials that virtue is refined. If we embrace these
-hardships not as failures of justice but as part of the human condition,
-our virtue can deepen. We come to see it not as a shield from suffering
-but as a way of meeting life with strength, dignity, and compassion.
+At the stage of true virtue, the risk is not eliminated, it becomes more
+subtle. The greatest tests often come in the form of tragedy, betrayal,
+or deep suffering. These moments can shake our very foundation and make
+us question the value or possibility of goodness. Yet it is precisely in
+such trials that virtue is refined. If we embrace these hardships not as
+failures of justice but as part of the human condition, our virtue can
+deepen. We come to see it not as a shield from suffering but as a way of
+meeting life with strength, dignity, and compassion.
 
 In every stage, the fall from virtue is possible. Virtue is not
 perfection; it is the courageous and humble commitment to keep choosing

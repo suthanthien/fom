@@ -13,12 +13,10 @@ peaceful mindset in the face of adversity.
 
 Key Characteristics:
 
--  **Tolerance:** Accepting delays, obstacles, or suffering without
-   anger or complaint.
--  **Resilience:** Persisting through difficulties without giving up or
-   losing hope.
+-  **Tolerance:** Accepting delays, obstacles, or suffering.
+-  **Resilience:** Persisting through difficulties.
 -  **Self-control:** Managing impulses and emotions to respond
-   thoughtfully rather than react impulsively.
+   thoughtfully.
 -  **Empathy:** Understanding that others may need time to grow, change,
    or respond.
 
@@ -27,12 +25,8 @@ Key Characteristics:
 *******
 
 Wrath is the vice characterized by a deliberate choice to respond to
-provocation or frustration with controlled but excessive anger and a
-desire to retaliate. Unlike fleeting emotions, wrath involves a
-conscious decision to nurture anger and act upon it in ways that seek
-harm, punishment, or domination.
-
-Key Characteristics:
+provocation or frustration with anger and a desire to retaliate, punish
+or dominate. Key Characteristics:
 
 -  **Intentional anger:** Choosing to sustain and express anger rather
    than release or manage it constructively.
@@ -77,64 +71,60 @@ Community benefits
 -  **Positive role modeling:** Patient behavior inspires others to
    cultivate the same virtue, promoting a culture of calm and tolerance.
 
-**************************************************
- Benefits of wrath as a self-preservation emotion
-**************************************************
+*********************************************
+ Benefits of the underlying emotion of wrath
+*********************************************
 
 Personal benefits
 =================
 
--  **Boundary enforcement:** Wrath can motivate individuals to assert
+-  **Boundary enforcement:** Anger can motivate individuals to assert
    themselves and protect their rights against injustice or harm.
 
 -  **Deterrence:** Expressing controlled anger may discourage others
    from exploitation, abuse, or repeated offenses.
 
--  **Mobilization of energy:** Wrath can provide a surge of energy and
+-  **Mobilization of energy:** Anger can provide a surge of energy and
    focus needed to confront threats or challenges effectively.
 
--  **Clarification of values:** The feeling of wrath often highlights
+-  **Clarification of values:** The feeling of anger often highlights
    deeply held principles and helps individuals recognize violations of
    personal or moral boundaries.
 
--  **Catalyst for change:** When channeled constructively, wrath can
+-  **Catalyst for change:** When channeled constructively, anger can
    inspire action against wrongdoing and motivate social or personal
    reform.
 
--  **Emotional signal:** Wrath serves as an internal warning system,
+-  **Emotional signal:** Anger serves as an internal warning system,
    alerting a person to situations that require attention or defense.
 
 Community benefits
 ==================
 
--  **Collective defense:** Wrath can unite a community against external
+-  **Collective defense:** Anger can unite a community against external
    threats, strengthening solidarity in the face of danger or injustice.
 
--  **Protection of shared norms:** When a community expresses wrath at
+-  **Protection of shared norms:** When a community expresses anger at
    violations of its rules, it reinforces social standards and
    discourages harmful behaviors.
 
 -  **Shared identity:** Anger directed at outsiders or perceived enemies
    can create a stronger sense of "us," deepening group cohesion.
 
--  **Moral rallying point:** Wrath at injustice, corruption, or
+-  **Moral rallying point:** Anger at injustice, corruption, or
    oppression can mobilize communities toward reform and collective
    action.
 
--  **Empowerment of the marginalized:** Community wrath can amplify the
+-  **Empowerment of the marginalized:** Community anger can amplify the
    voices of vulnerable groups, ensuring their grievances are heard and
    addressed.
 
--  **Conflict resolution catalyst:** Wrath can bring hidden tensions to
+-  **Conflict resolution catalyst:** Anger can bring hidden tensions to
    the surface, forcing dialogue and resolution.
 
--  **Encouragement of accountability:** Wrath expressed by the community
+-  **Encouragement of accountability:** Anger expressed by the community
    can pressure leaders or members to act responsibly and remain
    answerable to the group.
-
--  **Emotional bonding:** Shared experiences of anger, protest, or
-   resistance can strengthen emotional ties and trust within a
-   community.
 
 ********************************
  Tips for the continent patient
@@ -150,8 +140,7 @@ emotions more often:
    things to be thankful for, even amidst delays or difficulties.
 
 -  **Contentment:** Cultivate contentment by focusing on what is
-   currently positive or sufficient in your situation rather than what
-   is lacking.
+   currently positive or sufficient in your situation.
 
 -  **Calmness:** Experience calmness by practicing deep breathing or
    mindfulness to soothe the nervous system and quiet mental chatter.
@@ -166,15 +155,15 @@ emotions more often:
 
 -  **Affection** When others test your patience, center on your caring
    feelings toward them. Recall their humanity, or a moment they brought
-   you joy, to shift from irritation to warmth.
+   you joy.
 
 -  **Relief** Remember the ease you’ve felt when you stopped forcing
    outcomes. Give yourself permission to let go of constant control and
    notice how your body and mind soften.
 
 -  **Gentle Amusement** Find lightness in delays or mistakes. Practice
-   smiling at small frustrations, reframing them as quirky parts of life
-   rather than battles to win.
+   smiling at small frustrations, reframing them as quirky parts of
+   life.
 
 **********************************
  Tips for the incontinent patient
@@ -258,66 +247,47 @@ Here, there are some arguments for reflection and reconsideration.
    responses, which command respect and lead to better outcomes than
    anger-fueled displays.
 
-***********************************************
- Reflections points for the continent wrathful
-***********************************************
+**********************************************
+ Reflection points for the continent wrathful
+**********************************************
 
-Take some time to reflect on the long term consequences of your choices.
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
 -  Your anger might cause those around you to withdraw or become
-   distant. This often leads to loneliness and feelings of isolation due
-   to damaged relationships. **Every moment of wrath chips away at the
-   bonds of the people that matter in your life**
+   distant. This often leads to loneliness and feelings of isolation.
+   **Wrath chips away at the bonds of the people who matter in your
+   life.**
 
--  Your wrath brings fear or hurt to others. Such pain can result in
-   guilt and sadness as you become aware of the harm caused to those you
-   care about. **The deeper the hurt, the harder it becomes to heal
-   what’s broken.**
+-  Your wrath brings fear or hurt to others. Anger can result in guilt
+   and sadness as you become aware of the harm caused to those you care
+   about. **The deeper the hurt, the harder it becomes to heal what’s
+   broken.**
 
 -  After moments of anger, your body and mind might experience tension
-   and exhaustion. Anger tends to create a heavy emotional burden,
-   increasing stress and reducing wellbeing. **Your spirit will grow
-   weary, and your strength will falter when you need it most.**
+   and exhaustion. **Anger tends to create a heavy emotional burden,
+   increasing stress and reducing well-being.**
 
--  Your anger may escalate conflicts instead of calming them. This
-   frequently causes frustration and a sense of helplessness when
-   problems grow rather than resolve. **Letting conflicts spiral only
-   breeds more conflicts.**
-
--  Your anger narrows your perspective, making it hard to see others’
-   needs or feelings. Such blindness results in regret and shame when
-   you recognize missed opportunities for understanding. **You risk
-   losing the chance to repair what matters most.**
+-  Your anger narrows your perspective, makes it hard to see others’
+   needs or feelings, and may escalate conflicts instead of calming
+   them. **You risk losing the chance to repair what matters most.**
 
 ************************************
  Reflection points for the wrathful
 ************************************
 
-These are not just possibilities, they are common outcomes for those who
-continue down the path of justified anger. If you do not change your
-relationship with wrath, these moments may find you.
+These are serious risks that can follow when anger hardens into wrath.
+If you do not examine your relationship with wrath, these patterns may
+grow harder to undo.
 
 -  **A violent confrontation with irreversible consequences:** Wrath
-   often escalates — one day, your anger may spill into violence that
-   harms others or yourself. The damage may be permanent. *Don't wait
-   until regret is the only thing left.*
+   might escalate: one day, your anger may spill into violence that
+   harms others or yourself.
 
--  **Facing legal consequences for anger-fueled actions:** What begins
-   as a heated moment can end in arrest, restraining orders, or a
-   courtroom. *Wrath does not protect you — it exposes you to
-   consequences you cannot take back.*
-
--  **Becoming isolated as friends and community withdraw from your
-   volatility:** People may stop answering your calls, avoid you,
-   exclude you — not out of malice, but self-preservation. *You may find
-   yourself alone, not because they changed — but because you didn’t.*
+-  **Becoming isolated as friends and community withdraw:** People may
+   stop answering your calls, avoid you, or exclude you, out of
+   self-preservation.
 
 -  **Receiving a diagnosis for stress-related illness caused by chronic
    anger:** Wrath corrodes the body. You may end up battling heart
-   disease, ulcers, or chronic pain. *Your body cannot carry this
-   forever.*
-
--  **Being passed over, demoted, or fired because your anger made you
-   unsafe to work with:** Professional doors close quietly and
-   permanently. *You may never hear the real reason — but your
-   reputation will speak for you.*
+   disease, ulcers, or chronic pain.

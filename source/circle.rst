@@ -2,6 +2,12 @@
  Introduction
 ##############
 
+.. note::
+
+   In this chapter, the discussion reflects the author’ own
+   interpretation rather than any particular philosophical idea
+   attributable to a philosopher.
+
 ************
  The circle
 ************
@@ -60,20 +66,20 @@ context forgotten.
 
 **When traditions consistently contribute to the well-being** and
 cohesion of a community, people begin to reflect on why they are
-effective. It seems unlikely to be mere coincidence—there must be a
+effective. It seems unlikely to be mere coincidence: there must be a
 deeper principle at work, a moral law that applies universally. However,
 not everyone accepts traditions uncritically. Some individuals may feel
 constrained by them and begin to question their value or relevance. In
 response, those who have witnessed the positive impact of these
 traditions feel compelled to justify them using rational arguments. This
-leads to the formulation of universal theories—systematic moral
+leads to the formulation of universal theories: systematic moral
 principles intended to apply broadly, beyond the context of any single
 community.
 
 **When universal theories prove useful** and successfully encourage
 moral behavior across various situations, they gain credibility.
 However, there is a danger in over-relying on them. These theories, no
-matter how elegant or far-reaching, are still just frameworks—and they
+matter how elegant or far-reaching, are still just frameworks, and they
 may not apply perfectly to every situation. Eventually, people return to
 situated experience to test whether the theories remain valid in real
 life. When discrepancies or exceptions arise, lived experience takes
@@ -84,7 +90,7 @@ From there, the process begins anew: the successful experience may
 become a new tradition, and over time, that tradition might inspire a
 revised or expanded universal theory, which is then tested again in
 real-world situations. As new exceptions emerge and are integrated,
-moral understanding continues to evolve—refining itself and rising to
+moral understanding continues to evolve: refining itself and rising to
 higher levels of insight.
 
 *******************
@@ -98,14 +104,14 @@ cohesion.
 **When universal laws are imposed** from the top down to dictate
 tradition, traditions lose their organic connection to the people who
 once lived and valued them. Instead of being appreciated, they become
-rigid prescriptions that feel alien or oppressive—especially to those
+rigid prescriptions that feel alien or oppressive, especially to those
 who were never given the chance to understand their deeper meaning. The
 authentic, community-driven traditions that once fostered belonging and
 purpose are lost, replaced by a sense of helplessness and disconnection.
 
 **When traditions dictate situated experiences**, they suppress the
-natural emotions of empathy, compassion, and care—emotions that form the
-foundation of a thriving moral community. People follow rules
+natural emotions of empathy, compassion, and care: emotions that form
+the foundation of a thriving moral community. People follow rules
 mechanically, without experiencing the emotional benefits those
 traditions once nurtured. As a result, tradition is no longer seen as
 something meaningful, but as a burden. Resentment grows, and the hope of
@@ -130,4 +136,4 @@ In such a fragmented moral landscape, shared values erode, and mutual
 understanding becomes difficult. As different groups follow incompatible
 traditions and disconnected universal theories, society becomes
 increasingly divided. Morality, instead of being a shared journey toward
-greater empathy and justice, splinters—and its unifying power is lost.
+greater empathy and justice, splinters, and its unifying power is lost.

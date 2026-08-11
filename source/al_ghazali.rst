@@ -208,7 +208,7 @@ perspective of Aristotle’s theory of the mean between two extremes.
       worry about purity of intention.
 
 -  **Truthfulness:** Consistently speaking and acting in accordance with
-   reality, avoiding deceit.
+   reality.
 
    -  *Examples:* Being honest in transactions and speech. Confessing
       mistakes and faults rather than covering them up.
@@ -216,8 +216,7 @@ perspective of Aristotle’s theory of the mean between two extremes.
    -  *Excess:* Brutal honesty: speaking truth without regard for
       justice or compassion.
 
--  **Patience:** Enduring hardships, temptations, and difficulties
-   without complaint or sin.
+-  **Patience:** Enduring hardships, temptations, and difficulties.
 
    -  *Examples:* Remaining calm during financial or personal loss.
       Resisting anger when provoked by others.
@@ -280,8 +279,8 @@ perspective of Aristotle’s theory of the mean between two extremes.
 -  **Love:** Placing God as the ultimate source of joy and guidance;
    letting love of God guide all actions.
 
-   -  *Examples:* Performing good deeds out of devotion rather than fear
-      or habit. Maintaining hope and trust in God during trials.
+   -  *Examples:* Performing good deeds out of devotion. Maintaining
+      hope and trust in God during trials.
    -  *Deficiency:* Spiritual apathy: failing to orient life toward God.
    -  *Excess:* Fanaticism: over-attachment to spiritual practices to
       the detriment of balanced life.

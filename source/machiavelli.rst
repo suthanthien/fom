@@ -197,8 +197,7 @@ exercise must remain subordinate to necessity:
 -  **Balance mercy with practical wisdom:** Combine clemency with
    credible enforcement. Do not excuse actions that undermine authority
    or public order. Use mercy strategically to consolidate loyalty, but
-   act decisively in emergencies. Allow for ethical exceptions when
-   necessity demands flexibility.
+   act decisively in emergencies.
 
 -  **Safeguard citizens:** Enforce laws consistently and predictably.
    Avoid arbitrary, humiliating, or capricious treatment. Protect
