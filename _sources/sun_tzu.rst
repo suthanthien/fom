@@ -22,6 +22,14 @@ Sun Tzu’s ethical views are found almost entirely in:
  Rulers and governance
 ***********************
 
+.. admonition:: Disclaimer
+
+   This is an interpretive account of Sun Tzu's philosophy rather than a
+   strictly textual exposition. Some of the ethical and political
+   principles presented here are extrapolations from themes in The Art
+   of War, informed in part by their compatibility with Confucian ideas
+   of governance, social harmony, and responsible leadership.
+
 Sun Tzu presents rulers and generals as responsible for **maintaining a
 stable and harmonious society, governing effectively, and preserving
 authority**. These aspects are equivalent in practice, since each
