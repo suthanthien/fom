@@ -9,12 +9,12 @@
    habit, his distinction between virtue, continence, incontinence, and
    vice, and his emphasis on practical wisdom, emotion, and flourishing.
 
-   The broader framework developed here is the author's extension. In
-   particular, the discussion of divine virtue as a human limit, the
-   mirrored stages of vice, the treatment of vices as responses to
-   self-preservation emotions, and the developmental account of rising
-   toward virtue or falling into vice should not be read as direct
-   reconstructions of Aristotle's own doctrine.
+   The broader framework developed here is an extension. In particular,
+   the discussion of divine virtue as a human limit, the mirrored stages
+   of vice, the treatment of vices as responses to self-preservation
+   emotions, and the developmental account of rising toward virtue or
+   falling into vice should not be read as direct reconstructions of
+   Aristotle's own doctrine.
 
 *********************
  Aristotle's virtues
