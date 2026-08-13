@@ -427,9 +427,9 @@ Am example of traditions deriving from Aristotle's ethics are:
    by engaging in decision-making, volunteering, and collaborating to
    advance the common good.
 
-******************
- Cardinal virtues
-******************
+*****************
+ Capital virtues
+*****************
 
 For Aristotle, virtue lies in the mean between two extremes. Each vice
 represents an excess of some trait, while virtue finds the balanced
@@ -437,7 +437,7 @@ point. Although one extreme is often recognized as a vice and the other
 not, Aristotle holds that both are morally defective, for neither leads
 to a flourishing life.
 
-The following is a description of the cardinal virtues according to the
+The following is a description of the capital virtues according to the
 doctrine of the mean.
 
 -  **Humility:**

@@ -54,7 +54,7 @@ they are disciplines through which moral character is cultivated. At the
 same time, Sokō rejects empty observance: ritual and tradition have
 value only when they reflect **righteousness and sincerity**. A samurai
 must therefore act consistently with both words and intentions, ensuring
-that conduct embodies moral principle rather than mere appearance.
+that conduct embodies moral principle.
 
 Sokō also places great importance on **history as a source of moral
 insight**. By studying historical records, one can discern principles

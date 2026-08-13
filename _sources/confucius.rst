@@ -27,11 +27,14 @@ positive outcomes such as social stability, balance, and cooperative
 relationships.
 
 The concept of He (harmony) was originally associated with harmony in
-music. Confucius elevates this idea to the social sphere, teaching that
-true harmony is not uniformity. It does not mean that everyone produces
-the same sound; rather, diversity contributes to a greater whole, where
-all parts combine effectively. However, achieving such societal harmony
-requires that both citizens and rulers display virtuous moral behavior.
+music. Confucius extends this concept to social and political life,
+defining harmony as a state in which different individuals and interests
+retain their distinctiveness while contributing effectively to a greater
+whole. Harmony therefore does not require uniformity: just as different
+sounds can combine to produce a coherent piece of music, differences
+among people can contribute to the coherence and order of society.
+However, achieving such societal harmony requires that both citizens and
+rulers display virtuous moral behavior.
 
 Harmony depends on avoiding extremes in conduct and practicing proper
 emotional regulation. A noble person should not be considered noble
@@ -247,18 +250,17 @@ traditions themselves embody universal principles of morality.
    criticism. Show consideration in daily interactions (e.g., giving
    others space, respecting their time).
 
--  **Be righteous:** Choose fairness over convenience or profit. Speak
-   up when witnessing injustice, even if it’s unpopular, but remain
-   respectful to parents and elders. Avoid compromising integrity for
-   personal advantage.
+-  **Be righteous:** Choose fairness. Speak up when witnessing
+   injustice, but remain respectful to parents and elders. Avoid
+   compromising integrity for personal advantage.
 
 -  **Cultivate virtues:** Seek knowledge and wisdom through study and
    reflection. Acknowledge mistakes and learn from them.
 
 -  **Seek harmony:** Accept diversity, work toward solutions that
-   benefit all, not just yourself. Avoid unnecessary conflicts; when
-   disagreements arise, seek respectful dialogue. Balance personal needs
-   with the well-being of the group.
+   benefit all. Avoid unnecessary conflicts; when disagreements arise,
+   seek respectful dialogue. Balance personal needs with the well-being
+   of the group.
 
 -  **Lead by virtue:** If in a leadership role, be transparent, fair,
    and compassionate. Set an example by embodying the values you expect

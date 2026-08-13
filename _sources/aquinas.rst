@@ -86,9 +86,9 @@ are absolute. For Aquinas, by contrast, adherence to natural law is an
 essential moral criterion in conjunction with circumstances and
 intentions.
 
-**********************
- Intellectual virtues
-**********************
+******************
+ Cardinal virtues
+******************
 
 Aquinas reinterprets Aristotle’s virtues in light of their capacity to
 guide human behavior in accordance with the natural law. Among these, he
@@ -150,14 +150,14 @@ law include the following:
    -  The reality of hell and eternal punishment;
    -  The necessity of grace for salvation.
 
-********************
+*********************
  Theological virtues
-********************
+*********************
 
 The theological virtues are habits of mind and character that perfect
 the will and elevate the moral life. Though not strictly necessary for
 moral conduct, they strengthen one’s resolve to act rightly and sustain
-perseverance in the face of hardship. Unlike the intellectual virtues,
+perseverance in the face of hardship. Unlike the cardinal virtues,
 however, the theological virtues cannot be attained through reason
 alone. They require participation in the rituals of the faith community
 and engagement with the sacred scriptures handed down through tradition.

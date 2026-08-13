@@ -1,5 +1,5 @@
 ##################
- Political ethics 
+ Political ethics
 ##################
 
 .. toctree::

@@ -296,10 +296,9 @@ guidelines for putting Kant’s principles into practice.
 
 -  **Respect human dignity** When asking for help, recognize and
    appreciate the other person’s freedom and dignity. Treat each person
-   as inherently valuable, not just as a tool for your goals. Avoid
-   exploiting others for personal gain (e.g., manipulation, deception).
-   Show respect in conversation by listening attentively and
-   acknowledging others’ perspectives.
+   as inherently valuable. Avoid exploiting others for personal gain
+   (e.g., manipulation, deception). Show respect in conversation by
+   listening attentively and acknowledging others’ perspectives.
 
 -  **Promote autonomy** Encourage others to think and decide for
    themselves rather than coercing or manipulating them. Provide clear,
@@ -323,9 +322,9 @@ guidelines for putting Kant’s principles into practice.
    commitments. Cultivate integrity by holding yourself accountable even
    when nobody is watching.
 
-*******************
- Virtues and vices
-*******************
+***************************
+ Capital virtues and vices
+***************************
 
 In Kantian ethics, virtues can serve as valid maxims because they are
 grounded in reason and duty rather than contingent feelings or desires.
@@ -451,6 +450,14 @@ moral laws:
  From traditions to principles
 *******************************
 
+.. admonition:: Disclaimer
+
+   In this section, the discussion reflects the author’ own
+   interpretation rather than ideas derived directly from Kant’s
+   philosophical writings. While the preceding sections draw reasonable
+   inferences from Kant’s work, the observations presented here
+   constitute the author’ own analysis.
+
 When Immanuel Kant first developed his moral philosophy in the late
 eighteenth century, his project was largely academic. His goal was not
 to reform politics or social practice directly, but to explore whether
@@ -466,10 +473,9 @@ ideas to resonate more widely.
 
 Religious divisions had fractured the authority of the church. Where
 once a single creed demanded obedience, there were now multiple
-competing confessions. People gradually adopted **habits of tolerance**,
-not out of indifference, but out of necessity. Freedom of conscience
-became a practical way of coexisting, and dignity began to be recognized
-independently of belonging to the “true” faith.
+competing confessions. People gradually adopted **habits of tolerance**.
+Freedom of conscience became a practical way of coexisting, and dignity
+began to be recognized independently of belonging to the “true” faith.
 
 Meanwhile, the nobility and aristocracy were forced to recognize the
 rising influence of bureaucrats, merchants, and professionals. Status
@@ -481,9 +487,9 @@ inherited privilege.
 At the same time, social life was changing. The decline of inquisitorial
 controls and the gradual improvement of living standards allowed people
 to form wider circles of debate. Coffeehouses, salons, and newspapers
-became spaces for open discussion, where **ideas were tested by reason**
-rather than imposed authority. In these exchanges, appeals to universal
-principles gained traction.
+became spaces for open discussion, where **ideas were tested by
+reason**. In these exchanges, appeals to universal principles gained
+traction.
 
 The question of slavery added a further moral test. **Europeans had long
 since abandoned slavery** within their own borders, so its
@@ -519,20 +525,11 @@ Kant acknowledges that the test of universalization is not infallible
 when applied across different contexts. A maxim that appears valid
 within one community may fail to be universalizable in another.
 
-This tension became evident during the upheavals of the sixteenth
-century. In medieval Europe, the maxim “I will follow the teachings of
-the Church” seemed unproblematic, since the Church represented a unified
-authority. However, with the Reformation, the Church fractured into
-competing denominations, and the maxim lost its universality: to follow
-“the Church” no longer had a clear, universally shared meaning.
-
-For Kant, this underscores the importance of expanding the circle of
-moral consideration beyond narrow traditions or institutions. When we
-ground our maxims in respect for the inherent dignity of all persons, we
-arrive at principles that are more stable and broadly applicable.
-**Integrity, fairness, justice, and honesty** are not contingent on
-historical institutions but arise from pure reason, which is shared by
-all human beings.
+When we ground our maxims in respect for the inherent dignity of all
+persons, we arrive at principles that are more stable and broadly
+applicable. **Integrity, fairness, justice, and honesty** are not
+contingent on historical institutions but arise from pure reason, which
+is shared by all human beings.
 
 **Other maxims** may initially appear valid in a limited context,
 passing the logical and practical tests, yet prove insufficient when the

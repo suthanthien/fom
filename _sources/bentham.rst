@@ -81,9 +81,9 @@ Bentham also places special emphasis on the **prevention of serious
 suffering**. While his utilitarian framework allows for trade-offs and
 recognizes that some harms may be unavoidable, he argues that conditions
 such as fear, insecurity, and severe deprivation typically impose costs
-that far outweigh minor or speculative gains in happiness. Creating or
-tolerating such conditions, when less harmful alternatives are
-available, represents a grave moral failure of governance.
+that far outweigh gains in happiness. Creating or tolerating such
+conditions, when less harmful alternatives are available, represents a
+grave moral failure of governance.
 
 Finally, Bentham maintains that political authority is justified only by
 its **effectiveness in promoting public welfare**. The legitimacy of a

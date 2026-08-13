@@ -38,9 +38,9 @@ continue the work. Through teaching, mentoring, coaching, and the
 sharing of knowledge, they contribute to a professional environment in
 which successors can operate effectively and harmoniously.
 
-*********
- Virtues
-*********
+*****************
+ Capital virtues
+*****************
 
 Thinkers commonly encourage the cultivation of the following virtues and
 behaviours:
@@ -59,9 +59,8 @@ behaviours:
 
 -  **Patience:** Do not allow anger or fear to cloud your judgment. When
    wronged, address misconduct openly and invite repentance rather than
-   retaliating unethically. When outcomes fall short of expectations,
-   document your experience, learn from mistakes, and reflect on how to
-   improve.
+   retaliating. When outcomes fall short of expectations, document your
+   experience, learn from mistakes, and reflect on how to improve.
 
 -  **Diligence:** Practice your craft consistently, regularly review
    your work, and continuously seek improvement. Engage actively with

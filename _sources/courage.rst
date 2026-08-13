@@ -83,16 +83,15 @@ Community benefits
 -  **Moral progress:** Courage helps societies to challenge harmful
    practices and unjust systems, and drives reform and positive change.
 
-******************************************************
- Benefits of cowardice as a self-preservation emotion
-******************************************************
+********************************************
+ Benefits of the underlying emotion of fear
+********************************************
 
 .. note::
 
    While other vices are often named after the emotions that underlie
    them, cowardice is labeled differently from its underlying emotion,
-   fear. Thus, this discussion focuses more on the benefits of fear than
-   on the benefits of cowardice.
+   fear. Thus, this discussion focuses more on the benefits of fear.
 
 Personal benefits
 =================
@@ -206,7 +205,7 @@ and reconsideration.
 
 -  **"If I act, I might fail or embarrass myself."** *Invitation:*
    Failure and embarrassment are uncomfortable, but they are survivable.
-   Avoiding them at all costs often leads to deeper regret over time.
+   Avoiding them at all costs often leads to deeper regret.
 
 -  **"Others are better suited to handle this."** *Invitation:* It may
    be true that someone else is more capable, but you can still act to
@@ -221,67 +220,31 @@ and reconsideration.
    misunderstandings, inefficiencies, or harm to escalate. Conflict
    avoided now can lead to greater problems later
 
--  **"I need to feel ready before I act."** *Invitation:* Waiting for
-   perfect readiness can mean waiting indefinitely. Small steps taken
-   now help you build the skills, understanding, and confidence needed
-   to act effectively when the time comes. Preparation begins with
-   action.
-
--  **"If I stay quiet, I’ll stay safe."** *Invitation:* Safety gained
-   through continual retreat often comes at a cost. Problems may persist
-   or worsen, and people or outcomes you care about may be affected.
-   Situations left unchecked can create burdens that are harder to
-   resolve later.
-
 *********************************************
  Reflections points for the continent coward
 *********************************************
 
-Take some time to reflect on the long term consequences of your choices.
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
--  Your habit of prioritizing safety over action can gradually shrink
-   your horizon. Opportunities for growth, connection, or meaningful
-   achievement may slip by unnoticed. **What you evade today often
-   becomes regret tomorrow.**
-
--  Remaining in the shadows when action is called for can slowly erode
-   your sense of integrity. You may feel divided between who you are and
-   who you know you could be. **Unclaimed courage leaves a subtle but
-   persistent ache.**
-
--  By deferring to fear, you may come to rely too much on others to face
-   what is difficult. This can foster dependence and reduce your sense
-   of agency. **Strength left dormant fades over time.**
+-  Your tendency to prioritize safety over action may cause you to miss
+   opportunities for growth, connection, and meaningful achievement.
+   **Your strength and potential may remain underdeveloped.**
 
 -  Remaining in the shadows when action is called for can allow harm or
    injustice to reach those you care about. By refusing to intervene,
-   you may preserve your comfort while friends, family, or colleagues
-   face consequences you could have prevented. **Fear left unchallenged
-   lets suffering touch the people who matter most to you.**
+   friends, family, or colleagues face consequences you could have
+   prevented. **Fear left unchallenged lets suffering touch the people
+   who matter most to you.**
 
 **********************************
  Reflection points for the coward
 **********************************
 
-These are not distant possibilities; they are common outcomes for those
-who fully surrender to fear. If your relationship with fear remains
-unchallenged, these moments may find you.
-
--  **Missing life’s opportunities**: By habitually avoiding risk, you
-   allow chances for growth, achievement, and meaningful connection to
-   pass by. *Opportunities ignored do not return.*
-
--  **Allowing injustice or harm to continue:** Choosing retreat over
-   intervention may preserve comfort, yet it allows wrongs to persist
-   around you. *Do not wait until the consequences of others’ suffering
-   are irreversible.*
-
--  **Becoming irrelevant in relationships, work, and community:** People
-   stop depending on you because you no longer act when action is
-   needed. *When you step aside every time, influence and responsibility
-   slip away.*
+These are serious risks that can follow those who fully surrender to
+fear. If you do not examine your relationship with fear, these patterns
+may grow harder to undo.
 
 -  **Facing unavoidable challenges untested:** Even when you know what
    should be done, habitual avoidance leaves you unpracticed in decisive
-   action, making crises harder to navigate. *Do not wait until a moment
-   demands actions you have never exercised.*
+   action, making crises harder to navigate.

@@ -14,3 +14,4 @@
    charity.rst
    temperance.rst
    chastity.rst
+   virtues_bibliography.rst

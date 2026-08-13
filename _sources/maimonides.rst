@@ -262,39 +262,32 @@ a perfect midpoint.
 
 -  **Develop habits:** Turn virtues into routines: schedule times for
    charity, study, or acts of kindness. Practice daily micro-habits.
-   Celebrate consistency. Use reminders (calendars, phone alerts) to
-   reinforce new patterns.
+   Celebrate consistency. Use reminders to reinforce new patterns.
 
 -  **Avoid acting in anger:** Never respond immediately when angry;
    impose a mandatory delay. Step away physically if possible; breathe
-   until the spike fades. If you must correct someone, speak firmly
-   without inner rage. Reflect afterward: What triggered me? What
-   pattern am I seeing?
+   until the spike fades. If you must correct someone, speak firmly.
+   Reflect afterward: What triggered me? What pattern am I seeing?
 
 -  **Pursue humility:** Talk less about yourself; listen more.
    Acknowledge your mistakes without defensiveness. Practice gratitude:
-   list daily what comes from others rather than from yourself. Let
-   others take credit when appropriate; avoid seeking praise.
+   list daily what comes from others. Let others take credit when
+   appropriate; avoid seeking praise.
 
 -  **Give charity with empathy and dignity:** Assume the recipient’s
    dignity: give discreetly and respectfully. Prioritize sustainable
-   help (job support, skills, tools) when possible. Set aside a regular
-   charity budget so giving becomes habitual. Support causes that
-   restore independence, not dependency.
+   help (job support, skills, tools). Set aside a regular charity budget
+   so giving becomes habitual. Support causes that restore independence.
 
 -  **Love and care for others as yourself:** Actively look for ways to
-   help others: small kindnesses count. Avoid gossip and negative
-   speech; speak truthfully and gently. Treat others’ emotional needs as
-   seriously as your own. When interacting, ask: “How would I want to be
-   treated in this moment?”
+   help others. Avoid gossip and negative speech; speak truthfully and
+   gently. Treat others’ emotional needs as seriously as your own. When
+   interacting, ask: “How would I want to be treated in this moment?”
 
--  **Accept responsibility for your actions:** Say “I was wrong,” not “I
-   was wrong but….” Identify patterns of avoidance and confront them
-   directly. Establish clear personal rules and hold yourself
-   accountable. Learn from mistakes rather than hiding them.
+-  **Accept responsibility for your actions:** Establish clear personal
+   rules and hold yourself accountable. Identify patterns of avoidance
+   and confront them directly.
 
 -  **Elevate ethical virtues to prepare for intellectual virtues:**
    Schedule time for study, reflection, or contemplation daily. Reduce
-   distractions (excess entertainment, trivial pursuits). Clean up moral
-   habits that hinder clarity (envy, anger, laziness). Approach study
-   with humility, patience, and joy.
+   distractions.

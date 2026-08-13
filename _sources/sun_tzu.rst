@@ -142,5 +142,4 @@ enemies depends on the expectation of consistency.
 
 -  **Be an example of moral conduct:** Lead by example in discipline and
    conduct. Build trust through consistency and fairness. Recognize
-   effort and loyalty openly. Create conditions where people follow
-   willingly.
+   effort and loyalty openly.

@@ -23,7 +23,7 @@ most important ethical works include:
    perspective of liberation rooted in Latin American realities.
 
 -  **Communitarian Ethics (1986):** Explores ethics grounded in communal
-   life rather than individualism.
+   life.
 
 -  **Ethics of Liberation in the Age of Globalization and Exclusion
    (1998):** His most systematic ethical work, addressing globalization,
@@ -117,48 +117,48 @@ community.
  Dussel's ethical guidelines
 *****************************
 
--  **Put the Life of the Oppressed First:** Pay attention to who is most
+-  **Put the life of the oppressed first:** Pay attention to who is most
    harmed by policies, decisions, or systems. In your work or community,
    ask: Who is excluded or suffering here? Support initiatives that
    directly improve basic living conditions (food, housing, healthcare).
 
--  **Listen to the Voice of the Victim:** Create spaces where
+-  **Listen to the voice of the victim:** Create spaces where
    marginalized voices can speak without fear. Practice active listening
    rather than speaking for others. Let testimonies of suffering
    challenge your assumptions and comfort.
 
--  **Reject Ethical Neutrality:** Identify situations where “business as
+-  **Reject ethical neutrality:** Identify situations where “business as
    usual” causes harm. Take a clear stance against injustice, even when
    it is inconvenient. Reflect on how your silence may reinforce
    oppression.
 
--  **Defend the Material Conditions of Life:** Support fair wages, labor
+-  **Defend the material conditions of life:** Support fair wages, labor
    rights, and access to essential resources. Evaluate economic choices
    (consumption, investment, employment) ethically. Advocate for social
    structures that protect life.
 
--  **Critically Question Dominant Norms and Institutions:** Do not
+-  **Critically question dominant norms and institutions:** Do not
    assume legality equals morality. Ask how institutions benefit some
    while excluding others. Support reforms or alternatives when systems
    systematically harm people.
 
--  **Practice Solidarity:** Work with oppressed communities. Avoid
+-  **Practice solidarity:** Work with oppressed communities. Avoid
    actions that reinforce dependency or superiority. Commit to long-term
    relationships and collective action.
 
--  **Act Collectively:** Join organizations, movements, or unions that
+-  **Act collectively:** Join organizations, movements, or unions that
    pursue justice. Support collective decision-making processes.
 
--  **Promote Dialogue from Below:** Encourage participatory
+-  **Promote dialogue from below:** Encourage participatory
    decision-making in communities and institutions. Ensure that meetings
    and processes are accessible to all. Be willing to revise decisions
    when excluded voices are heard.
 
--  **Resist Global Systems of Exclusion:** Be aware of how global supply
+-  **Resist global systems of exclusion:** Be aware of how global supply
    chains affect workers and environments. Support ethical trade, local
    economies, and ecological responsibility. Question narratives that
    justify exclusion in the name of “development.”
 
--  **Commit to Liberation:** Regularly reflect on your own complicity in
+-  **Commit to liberation:** Regularly reflect on your own complicity in
    unjust systems. Stay open to learning from new forms of oppression
    and resistance. Treat ethical commitment as a lifelong practice.

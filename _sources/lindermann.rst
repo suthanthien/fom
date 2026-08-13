@@ -275,9 +275,9 @@ Illustrative examples:
    appeals to fairness and property rights, framing the issue as one of
    mutual respect.
 
-*********
- Virtues
-*********
+*****************
+ Capital virtues
+*****************
 
 The virtues can be regarded as moral because they nurture and contribute
 to the preservation of relational continuity

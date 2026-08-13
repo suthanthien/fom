@@ -97,8 +97,8 @@ statesmanship:
    society.
 
 -  **Diligence:** Holding office entails active and sustained
-   engagement. A statesman must attend carefully to public affairs,
-   and carry out responsibilities conscientiously.
+   engagement. A statesman must attend carefully to public affairs, and
+   carry out responsibilities conscientiously.
 
 -  **Courage:** A statesman upholds justice even when doing so entails
    personal risk. For Cicero, the loss of honor is worse than the loss

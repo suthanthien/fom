@@ -7,7 +7,7 @@ historian, sociologist, and philosopher, widely regarded as a pioneer of
 the social sciences. Born in Tunis, he served as a judge, diplomat, and
 teacher across North Africa and Andalusia. His intellectual legacy lies
 in his attempt to explain human behavior, society, and history through
-systematic observation rather than purely speculative philosophy.
+systematic observation.
 
 Although Ibn Khaldūn did not write an ethical treatise, his ethical
 thought is deeply embedded throughout his works, especially in his

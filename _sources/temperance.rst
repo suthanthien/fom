@@ -8,7 +8,7 @@
 
 Temperance is the virtue of moderating the appetite for food, drink, and
 consumables. Temperance brings order to the bodily appetites, ensuring
-they serve health, joy, and the good of the soul.
+they serve health, joy, and the good.
 
 Key Characteristics:
 
@@ -69,7 +69,7 @@ Community Benefits
    living, encouraging others to follow suit.
 
 *****************************************************
- Benefits of gluttony as a self-preservation emotion
+ Benefits of the underlying appetite behind gluttony
 *****************************************************
 
 Personal benefits
@@ -202,71 +202,46 @@ Here, there are some arguments for reflection and reconsideration.
 
 -  **"It’s a special occasion."** *Invitation:* Celebrations invite
    abundance, but temperance doesn’t mean rejecting joy, it means
-   enjoying without harm. Relishing a little less leaves you feeling
+   enjoying without harm. Consuming a little less leaves you feeling
    better during and after.
 
--  **"I’ll balance it out later."** *Invitation:* Plans to compensate
-   with restriction or exercise often fall short, leaving the cycle
-   unbroken. Practicing balance in the moment prevents the need for
-   extremes later.
+************************************************
+ Reflection points for the continent gluttonous
+************************************************
 
--  **"More will make me feel better."** *Invitation:* Beyond a certain
-   point, more food dulls the senses and drains energy. Stopping at
-   “enough” nurtures both body and spirit, keeping pleasure sharp and
-   refreshing.
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
-*************************************************
- Reflections points for the continent gluttonous
-*************************************************
+-  Eating and drinking beyond your body’s need can leave you sluggish
+   and unwell. Days may become heavier, shorter-tempered, and less
+   joyful, even with the people who matter most. **Gluttony can weaken
+   the strength that makes life worth savoring.**
 
-Take some time to reflect on the long term consequences of your choices.
+-  Constant overindulgence can strain your health over time. The
+   illnesses that may follow do not affect only you; they can also place
+   anxiety and care on those who love you. **Excess can become pain for
+   both you and those who love you tomorrow.**
 
--  Eating and drinking beyond your body’s need leaves you sluggish and
-   sick. Days are heavy, short-tempered, and joyless, even with the
-   people who matter most. **Gluttony steals the strength that makes
-   life worth savoring.**
-
--  Your constant overindulgence strains your heart, liver, and stomach.
-   The illnesses that follow do not just burden you, they force your
-   loved ones to watch you suffer and care for what could have been
-   prevented. **Excess today becomes pain for both you and those who
-   love you tomorrow.**
-
--  Spending freely on endless meals, snacks, and drinks drains your
+-  Spending freely on endless meals, snacks, and drinks can drain your
    resources. What could have gone to your family’s needs or future
-   security is eaten up with nothing lasting to show. **Gluttony devours
-   not only your health but your household’s stability.**
+   security may be consumed. **Gluttony can weaken your household’s
+   stability.**
 
--  Lack of restraint in consuming leaves others with less, and can drive
-   them into quiet resentment. What should be community turns into
-   rivalry, and trust is lost. **Excess not only depletes your strength,
-   it depletes your relationships.**
+-  Lack of restraint in consuming can leave others with less and create
+   resentment. **Excess can harm your relationships.**
 
-***************************************
- Reflections points for the gluttonous
-***************************************
+**************************************
+ Reflection points for the gluttonous
+**************************************
 
-These are not distant warnings; they are familiar outcomes for those who
-persist in justifying gluttony. If you do not change your relationship
-with excess, these moments may find you.
+These are serious risks that can follow when gluttony becomes settled.
+If you do not examine your relationship with excess, these patterns may
+grow harder to undo.
 
 -  **Losing your health to preventable illness:** Overeating and
-   overdrinking lead to obesity, diabetes, heart disease, and liver
-   damage. These are not rare, they are the natural fruits of unchecked
-   appetite. *Do not wait until your body breaks under a weight it was
-   never meant to carry.*
-
--  **Becoming a burden to those you love:** When your health collapses,
-   your family and friends may be forced into caretaking roles. The very
-   people you love most will carry the consequences of your choices. *Do
-   not wait until their compassion turns to sorrow and exhaustion.*
+   overdrinking can lead to obesity, diabetes, heart disease, and liver
+   damage.
 
 -  **Living in constant fatigue and discomfort:** Excess drains your
    energy, slows your body, and dulls your mind. Daily tasks feel heavy,
-   and joy is smothered by lethargy. *Do not wait until even small
-   pleasures feel like labors you can no longer bear.*
-
--  **Wasting your resources on fleeting indulgence:** Money poured into
-   endless meals, drinks, and cravings leaves little for security,
-   family needs, or generosity. Your wealth vanishes with nothing
-   lasting to show. *Do not wait until regret is your only inheritance.*
+   and joy is smothered by lethargy.

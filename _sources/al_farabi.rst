@@ -55,8 +55,7 @@ the ability to reason abstractly and treats this as a given.
 Accordingly, he assumes that only a small minority can grasp
 philosophical principles directly, and that philosophical education,
 which is necessary for abstract reasoning, should be reserved for these
-few. Al-Farābī does not consider that limited access to education might
-itself account for these differences in intellectual capability.
+few.
 
 Like Maimonides, Al-Farābī observes that intellectual perfection does
 not arise in isolation. Human beings require a stable **political and
@@ -153,32 +152,6 @@ toward the common good and the flourishing of the community:
 -  **Piety:** The statesman aligns governance with moral and spiritual
    principles, ensuring that laws and policies reflect a higher ethical
    order.
-
-************************
- Philosophical guidance
-************************
-
-Unlike Aristotle’s virtue ethics, which offers detailed guidance for
-individual moral development, Al-Farābī addresses ethical practice
-primarily at the level of political and educational structures rather
-than personal self-cultivation. His guidance is directed toward rulers
-and lawgivers, whose task is to shape laws, education, and institutions
-that regulate behavior, habituate virtue, and orient citizens toward the
-good.
-
-Education provides the core medium of practical instruction. Al-Farābī
-emphasizes differentiated pedagogical methods according to natural
-capacities: philosophical demonstration is reserved for a few, while the
-majority are guided through imitation, persuasion, and symbolic
-representation.
-
-Al-Farābī’s treatise functions as part of the ruler’s education,
-providing the framework, principles, and classifications necessary to
-understand human flourishing and the moral development of the city.
-However, **Al-Farābī’s treatise is not intended to offer complete,
-step-by-step instructions.** A ruler's intellectual development is
-supplemented by other forms of education, such discussion with advisors
-and the ruler’s own experience.
 
 ********************************
  Al-Farābī's ethical guidelines

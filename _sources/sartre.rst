@@ -28,7 +28,7 @@ questions are central to his philosophical and literary work.
 
 -  **Notebooks for an Ethics (written 1947–1948, published posthumously
    in 1983):** Sartre’s most explicit attempt to formulate an ethics
-   grounded in freedom, though unfinished.
+   grounded in freedom.
 
 -  **Plays and novels,** such as No Exit (1944), Dirty Hands (1948), and
    The Roads to Freedom trilogy (1945–1949) dramatize ethical conflict,

@@ -20,7 +20,7 @@ Key Characteristics:
 -  **Integrity:** Living sexuality in harmony with one’s values,
    commitments, and responsibilities.
 -  **Faithfulness:** Expressing love through fidelity, commitment, and
-   authentic self-giving.
+   sincere care for another person.
 
 ******
  Lust
@@ -29,7 +29,7 @@ Key Characteristics:
 Lust is the vice of excessive desire for sexual pleasure, sought apart
 from love, fidelity, or respect. It distorts the gift of sexuality by
 reducing others to objects of gratification, placing passion above
-reason, and dignity.
+reason and dignity.
 
 Key Characteristics:
 
@@ -52,11 +52,11 @@ Personal Benefits
 -  **Inner peace:** Living with integrity in one’s desires fosters
    harmony of mind, heart, and body.
 -  **Stronger self-mastery:** Discipline over passions strengthens
-   willpower and freedom from compulsion.
+   willpower.
 -  **Deeper love:** Giving yourself sincerely to others fosters more
    meaningful and fulfilling relationships
--  **Freedom from regret:** Restraint from disordered indulgence
-   prevents harm, betrayal, and lasting wounds.
+-  **Freedom from regret:** Restraint from harmful indulgence prevents
+   harm, betrayal, and lasting emotional wounds.
 
 Community Benefits
 ==================
@@ -70,15 +70,16 @@ Community Benefits
 -  **Lasting unity:** Communities shaped by chastity nurture enduring
    bonds built on fidelity and love.
 
-*************************************************
- Benefits of lust as a self-preservation emotion
-*************************************************
+************************************************
+ Benefits of the underlying emotion behind lust
+************************************************
 
 Personal benefits
 =================
 
--  **Drive for connection:** lust propels individuals toward intimacy,
-   ensuring opportunities for reproduction and continuation of lineage.
+-  **Drive for connection:** lustful emotions propel individuals toward
+   intimacy, ensuring opportunities for reproduction and continuation of
+   lineage.
 
 -  **Stress reduction:** sexual desire and expression can lower tension,
    and improve emotional balance.
@@ -86,28 +87,22 @@ Personal benefits
 -  **Hormonal health:** engaging with lust can regulate important body
    systems.
 
--  **Motivation for attraction:** the drive to seek pleasure motivates
-   self-care, grooming, and social skills that support broader
-   well-being.
+-  **Motivation for attraction:** lustful emotions motivate self-care,
+   grooming, and social skills that support broader well-being.
 
 Community benefits
 ==================
 
--  **Bond strengthening:** lust fosters intimacy that can deepen trust,
-   loyalty, and long-term partnerships.
-
+-  **Bond strengthening:** lust emotions foster intimacy that can deepen
+   trust, loyalty, and long-term partnerships.
 -  **Social cohesion:** sexual attraction and coupling knit people into
    family units and alliances that strengthen communal stability.
-
 -  **Population renewal:** the energy of lust ensures reproduction,
    maintaining generational continuity.
-
 -  **Healing and comfort:** shared intimacy offers solace in difficult
    times, reinforcing a sense of safety and care.
-
--  **Inspiration for achievement:** the pursuit of sexual connection
-   often motivates accomplishments that elevate both the individual and
-   the wider group.
+-  **Inspiration for achievement:** lustful emotions motivates
+   accomplishments that elevate both the individual and the wider group.
 
 *******************************
  Tips for the continent chaste
@@ -173,68 +168,49 @@ Here, there are some arguments for reflection and reconsideration.
 -  **"It’s natural, so it’s fine to give in."** *Invitation:* Desire is
    natural, but not all natural impulses are meant to be indulged
    without limit. Chastity directs desire toward respect, intimacy, and
-   love rather than mere impulse.
-
--  **"I’m not hurting anyone."** *Invitation:* Lust often reduces others
-   to objects. This erodes your ability to honor real relationships with
-   dignity and mutual respect.
+   love.
 
 -  **"I can’t control myself."** *Invitation:* While desire feel strong,
    you are not powerless. Each moment of restraint strengthens
    self-mastery.
 
--  **"Everyone does it."** *Invitation:* Common behavior doesn’t make it
-   healthy or noble. Choosing differently sets you apart and shows
-   courage to live by values.
+-  **"Everyone does it."** *Invitation:* Common behaviour normalizes
+   excess, but your well-being isn’t determined by others. Choosing
+   differently can set an example and inspire people around you.
 
 -  **"I need this for stress relief."** *Invitation:* Indulgence can
    reduce stress, but relying on lust masks deeper needs for rest,
-   connection, or peace. Healthier coping methods build resilience and
-   avoid dependence.
+   connection, or peace. Meeting those needs directly provides lasting
+   comfort.
 
--  **"As long as it’s private, it doesn’t matter."** *Invitation:*
-   Hidden actions still shape character. Every choice forms habits that
-   influence how you view yourself and how you treat others. Integrity
-   begins in private.
+*********************************************
+ Reflection points for the continent lustful
+*********************************************
 
-**********************************************
- Reflections points for the continent lustful
-**********************************************
+Take some time to reflect on how these choices may shape your character
+and relationships over time.
 
-Take some time to reflect on the long-term consequences of your choices.
+-  Giving in to lust can put your closest bonds at risk. A spouse,
+   partner, or friend who feels betrayed may carry wounds that are hard
+   to heal. **Lust can damage relationships and shatter trust.**
 
--  Giving in to lust risks tearing apart your closest bonds. A spouse,
-   partner, or friend betrayed carries wounds that may never fully heal.
-   **Lust shatters trust.**
+-  Indulgence can drain your focus and productivity. Hours lost to
+   chasing encounters may be hours taken from your work, studies, and
+   other ambitions. **Lust can eat away at the time you need to build a
+   life you want.**
 
--  Indulgence drains your focus and productivity. Hours lost to chasing
-   encounters are hours stolen from your work, studies, and ambitions.
-   **Lust eats away at the time you need to build a life you want.**
+-  Indulgence can expose you to disease, or responsibilities you are not
+   prepared to carry. Family or friends may also be drawn into
+   consequences you cannot bear alone. **Lust can bring lasting
+   hardship.**
 
--  Lust can leave you debilitated by disease, or burdened with an
-   unplanned child. Those around you, family, friends, or partners, may
-   be forced to care for the consequences you cannot bear alone. **What
-   feels thrilling can saddle your loved ones with lasting
-   responsibility and hardship.**
+***********************************
+ Reflection points for the lustful
+***********************************
 
-************************************
- Reflections points for the lustful
-************************************
+These are serious risks that can follow when lust becomes settled. If
+you do not examine your relationship with desire, these patterns may
+grow harder to undo.
 
-These are not mere possibilities — they are common crossroads for those
-who persist in justifying lust. If you do not change your relationship
-with desire, these moments may find you.
-
--  **Damaging relationships.** Lust reduces people to means of
-   gratification, eroding trust, intimacy, and genuine connection.
-   Infidelity wounds spouses, partners, and friends. *Do not wait until
-   your bonds are broken and meaningful relationships are lost.*
-
--  **Losing focus and wasting years of potential:** Hours consumed by
-   lust are hours stolen from study, work, and calling. *Do not wait
-   until you wake up with wasted time you cannot reclaim.*
-
--  **Remaining alone through your choices:** Reckless lust can bring
-   disease, unplanned children, or public shame. Those who care for you
-   may unable to take the strain and walk away, leaving you isolated.
-   *Do not gamble your health and your relationships.*
+-  **Harming your health under the weight of excess.** Indulgence can
+   expose you to disease.
